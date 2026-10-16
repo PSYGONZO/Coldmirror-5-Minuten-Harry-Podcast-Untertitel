@@ -1,0 +1,7098 @@
+1
+00:00:00,233 --> 00:00:03,367
+# Da-da-da-da-daaa-da,
+da-da-da-da-bruah!
+
+2
+00:00:03,767 --> 00:00:06,167
+Willkommen zu
+"5 Minuten Harry Podcast",
+
+3
+00:00:06,267 --> 00:00:08,433
+ein Podcast von und mit mir,
+Coldmirror,
+
+4
+00:00:08,533 --> 00:00:11,767
+in dem ich in jeder Folge jeweils
+fünf Minuten aus dem Film:
+
+5
+00:00:11,867 --> 00:00:13,900
+"Harry Potter
+und der Stein der Weisen"
+
+6
+00:00:14,000 --> 00:00:16,400
+analysiere, Frame für Frame
+auseinandernehme
+
+7
+00:00:16,500 --> 00:00:19,400
+und dann vielleicht etwas zu viel
+hineininterpretiere.
+
+8
+00:00:19,500 --> 00:00:22,833
+Dieser Podcast ist gedacht zum
+Erinnern, Kichern, Einschlafen,
+
+9
+00:00:22,933 --> 00:00:26,133
+zum Wachbleiben oder im semi-
+präsenten Bewusstseinszustand
+
+10
+00:00:26,233 --> 00:00:27,600
+vor sich hin existieren.
+
+11
+00:00:27,700 --> 00:00:30,800
+Und jetzt wünsche ich viel Vergnügen
+bei Podcast-Folge 19.
+
+12
+00:00:30,900 --> 00:00:34,433
+Wir beginnen in dieser Folge bei
+Hermine, die missbilligend schaut,
+
+13
+00:00:34,533 --> 00:00:36,633
+und enden bei Filch,
+Quirrell und Snape,
+
+14
+00:00:36,733 --> 00:00:39,100
+die zwielichtig
+in einem dunklen Gang stehen.
+
+15
+00:00:39,200 --> 00:00:42,733
+Zuletzt haben wir uns gefragt,
+warum Ron in seinem zerschlissenen,
+
+16
+00:00:42,833 --> 00:00:46,567
+von Ratten zerfressenen Pulli mit
+Harry in der großen Halle rumsitzt
+
+17
+00:00:46,667 --> 00:00:50,400
+und seine Sachen noch nicht gepackt
+hat, obwohl Weihnachtsferien sind
+
+18
+00:00:50,500 --> 00:00:53,767
+und die meisten Kinder, wie Hermine,
+zu ihren Eltern fahren.
+
+19
+00:00:53,867 --> 00:00:57,400
+Harry bleibt bewusst in Hogwarts
+alles besser als bei den Dursleys.
+
+20
+00:00:57,500 --> 00:01:00,367
+Aber warum bleibt Ron?
+Seine Eltern sind in Rumänien,
+
+21
+00:01:00,467 --> 00:01:04,300
+wie er uns mitteilt, und besuchen
+seinen älteren Bruder Charlie.
+
+22
+00:01:04,400 --> 00:01:06,433
+Der erforscht dort Drachen!
+
+23
+00:01:06,800 --> 00:01:09,700
+Jeder normale Mensch würde jetzt
+sagen: "Was? Drachen?"
+
+24
+00:01:09,800 --> 00:01:13,800
+"Geiler Scheiß, richtige, wirkliche
+Drachen, die echt sind? Erzähl mehr!"
+
+25
+00:01:13,967 --> 00:01:16,367
+Aber Hermine ist völlig
+unbeeindruckt davon,
+
+26
+00:01:16,467 --> 00:01:19,433
+geht überhaupt nicht auf das Thema
+Drachen ein und sagt:
+
+27
+00:01:19,533 --> 00:01:23,600
+"Gut, dann kannst du Harry bei seinen
+Recherchen zu Nicolas Flamel helfen."
+
+28
+00:01:23,700 --> 00:01:26,833
+Dieser Name wurde unbeabsichtigt
+von Hagrid ausgeplaudert,
+
+29
+00:01:26,933 --> 00:01:30,300
+die Kinder wissen, es hat mit dem
+zu tun, was Fluffy bewacht.
+
+30
+00:01:30,400 --> 00:01:32,367
+Und auf Rons verzweifelte Bemerkung,
+
+31
+00:01:32,467 --> 00:01:35,167
+sie hätten alle Regale der Bücherei
+durchgeguckt,
+
+32
+00:01:35,267 --> 00:01:38,500
+lehnt Hermine sich nach vorne,
+schaut sie abwechselnd an,
+
+33
+00:01:38,600 --> 00:01:42,800
+und sagt bedeutungsvoll: "Nicht in
+dem Teil, in den keiner reindarf."
+
+34
+00:01:43,000 --> 00:01:46,833
+Nimmt sich dann ihr Rollköfferchen,
+wünscht ein frohes Weihnachtsfest
+
+35
+00:01:46,967 --> 00:01:50,067
+und geht unbeschwert von dannen,
+als hätte sie nicht eben
+
+36
+00:01:50,167 --> 00:01:53,567
+ihren Mitschülern angedeutet,
+die Schulregeln zu brechen.
+
+37
+00:01:53,800 --> 00:01:57,700
+Woraufhin Ron feststellt: "Wir haben
+einen schlechten Einfluss auf sie."
+
+38
+00:01:57,867 --> 00:02:01,000
+Zu recht! Seitdem Hermine
+mit Harry und Ron befreundet ist,
+
+39
+00:02:01,100 --> 00:02:04,967
+lügt sie Lehrer an, setzt Leute in
+Brand, und jetzt will sie auch noch,
+
+40
+00:02:05,067 --> 00:02:07,967
+dass sie in einen Bereich
+der Hogwarts-Bücherei gehen,
+
+41
+00:02:08,067 --> 00:02:10,233
+der unzugänglich
+und wohl verboten ist!
+
+42
+00:02:10,333 --> 00:02:13,567
+Diesen Bereich behandeln wir später
+in dieser Podcast-Folge.
+
+43
+00:02:13,667 --> 00:02:17,267
+Und bevor wir mit der nächsten Szene
+beginnen, muss ich mitteilen:
+
+44
+00:02:17,367 --> 00:02:20,933
+Mir wurde von Schachverständigen
+zugetragen, dass Harrys Schachzug
+
+45
+00:02:21,033 --> 00:02:23,400
+"Springer nach E5" richtig dumm ist.
+
+46
+00:02:23,500 --> 00:02:25,033
+(Räuspern)
+Ich zitiere.
+
+47
+00:02:25,433 --> 00:02:27,500
+"Ron steht in der Stellung
+viel besser,
+
+48
+00:02:27,600 --> 00:02:30,267
+weil er Material im Wert
+mehrerer Damen mehr hat."
+
+49
+00:02:30,500 --> 00:02:33,967
+"Harry spielt wie ein Troll
+und verliert grundlos seine Figuren."
+
+50
+00:02:34,067 --> 00:02:37,933
+"Auf E5 steht der Springer ungedeckt
+und wird von der Dame geschlagen."
+
+51
+00:02:38,033 --> 00:02:40,433
+"Ab hier kann Ron
+in vier Zügen matt setzen."
+
+52
+00:02:40,533 --> 00:02:42,800
+"Schachlich richtig ist:
+Ron spielt stark
+
+53
+00:02:42,900 --> 00:02:45,933
+und zerreißt Harry in der Luft.
+Die Stellung macht Sinn."
+
+54
+00:02:46,033 --> 00:02:47,100
+Zitat Ende.
+
+55
+00:02:47,233 --> 00:02:50,200
+Danke schön an Didi und Lee,
+die das analysiert haben.
+
+56
+00:02:50,300 --> 00:02:53,833
+Ich verstehe ein paar dieser Worte,
+die ihr geschrieben habt.
+
+57
+00:02:53,967 --> 00:02:57,667
+Also, da hat sich irgendwer beim Film
+zumindest die Mühe gemacht,
+
+58
+00:02:57,767 --> 00:03:01,200
+eine Partie Schach auszuklügeln,
+die genauso stattfinden könnte
+
+59
+00:03:01,300 --> 00:03:04,900
+zwischen einer Person, die gut ist,
+und einer, die es nicht kann.
+
+60
+00:03:05,033 --> 00:03:08,133
+Harry hat während dieser ganzen Szene
+in der großen Halle
+
+61
+00:03:08,233 --> 00:03:10,800
+nichts anderes gesagt
+außer "Springer nach E5".
+
+62
+00:03:10,900 --> 00:03:13,800
+Das war der gesamte Text,
+den er an dem Drehtag hatte.
+
+63
+00:03:14,033 --> 00:03:16,700
+Den ganzen Tag sitzt er da,
+guckt das Brett an,
+
+64
+00:03:16,800 --> 00:03:20,000
+vollbringt eventuell subtile
+schauspielerische Leistungen,
+
+65
+00:03:20,100 --> 00:03:23,200
+indem er ein wenig nickt,
+wenn andere miteinander sprechen,
+
+66
+00:03:23,300 --> 00:03:25,500
+und er selber
+muss nichts anderes machen,
+
+67
+00:03:25,633 --> 00:03:28,900
+als in ein paar verschiedenen
+Kamerawinkeln einen Satz sagen.
+
+68
+00:03:29,000 --> 00:03:31,667
+Und für diesen einen Satz
+nimmt er einen Paycheck
+
+69
+00:03:31,767 --> 00:03:33,600
+für ein paar 1.000 Pfund mit heim.
+
+70
+00:03:33,700 --> 00:03:35,833
+Ist das nicht der wahre
+kluge Schachzug?
+
+71
+00:03:36,100 --> 00:03:39,733
+Wir machen einen kleinen Zeitsprung
+und es beginnt eine neue Szene.
+
+72
+00:03:39,867 --> 00:03:42,633
+Leise rieselt der Schnee
+draußen vorm Fenster,
+
+73
+00:03:42,733 --> 00:03:46,300
+still und starr sitzt Hedwig
+auf einer Stuhllehne davor,
+
+74
+00:03:46,400 --> 00:03:48,767
+und sie dreht ihr Köpfchen
+leicht zur Seite,
+
+75
+00:03:48,867 --> 00:03:51,900
+als plötzlich Rons Stimme
+aus der Ferne ertönt und ruft:
+
+76
+00:03:52,033 --> 00:03:54,667
+"Harry, aufwachen!
+Komm schon, Harry, wach auf!"
+
+77
+00:03:54,933 --> 00:03:58,767
+Die Kamera schwenkt zur Seite und
+Harrys Hand kommt von unten ins Bild
+
+78
+00:03:58,900 --> 00:04:02,167
+und schnappt sich seine Brille,
+die auf einer Kommode liegt.
+
+79
+00:04:02,300 --> 00:04:05,433
+Und auf dieser Kommode
+liegen noch diverse andere Sachen.
+
+80
+00:04:05,533 --> 00:04:09,467
+Drei Bücher, ein Kelch, eine Flasche
+Wasser, eine Laterne mit Kerze drin,
+
+81
+00:04:09,567 --> 00:04:12,500
+eine kleine Glaskugel,
+Harrys Zauberstab, ein Comicheft
+
+82
+00:04:12,600 --> 00:04:14,233
+und ein Dinosaurierspielzeug.
+
+83
+00:04:14,400 --> 00:04:17,667
+Und ihr ahnt nicht, was das
+in meinem Gehirn ausgelöst hat.
+
+84
+00:04:17,800 --> 00:04:21,067
+Ich dachte zuerst: "He, das wär ja
+witzig, wenn ich rausfinde,
+
+85
+00:04:21,167 --> 00:04:24,633
+was das für ein Dinosaurier ist.
+He, vielleicht ein Ankylosaurus!"
+
+86
+00:04:24,733 --> 00:04:28,433
+"Das sind die mit Stacheln am Körper
+und der dicken Keule am Schwanz."
+
+87
+00:04:28,533 --> 00:04:31,533
+"Da der Dino auch so was
+wie Stacheln an der Seite hat."
+
+88
+00:04:31,633 --> 00:04:34,900
+"Man sieht den Schwanz aber nicht,
+und Körperform und Stacheln
+
+89
+00:04:35,000 --> 00:04:38,433
+sind auch weniger ausgeprägt als
+sonst bei Ankylosaurusfiguren."
+
+90
+00:04:38,533 --> 00:04:40,100
+"Das muss was anderes sein."
+
+91
+00:04:40,200 --> 00:04:43,900
+Und anstatt zu denken: "Ach, es ist
+irgendein Jurassic Parc-Spielzeug,
+
+92
+00:04:44,000 --> 00:04:47,500
+ist nicht so weltbewegend wichtig,
+da hinterher zu recherchieren",
+
+93
+00:04:47,600 --> 00:04:50,167
+aber mein Gehirn lässt mir
+nichts anderes übrig
+
+94
+00:04:50,300 --> 00:04:52,433
+und ich habe mich
+auf die Suche begeben.
+
+95
+00:04:52,533 --> 00:04:56,333
+Auffällig an der Figur: Sie ist nicht
+in eine Kunststoffform gegossen,
+
+96
+00:04:56,467 --> 00:04:58,900
+sondern die Beine
+scheinen beweglich zu sein.
+
+97
+00:04:59,033 --> 00:05:02,700
+Und das, was ich vorher als Stacheln
+an der Seite wahrgenommen habe,
+
+98
+00:05:02,833 --> 00:05:06,200
+ist eigentlich ein Loch für eine
+Schraube und so Drehknöpfchen.
+
+99
+00:05:06,333 --> 00:05:08,033
+Das ist ein Aufziehspielzeug.
+
+100
+00:05:08,133 --> 00:05:11,133
+Das kann man andrehen und der Dino
+rennt von alleine los.
+
+101
+00:05:11,233 --> 00:05:14,767
+Und es muss was sein, was um die
+Zeit, als der Film gedreht wurde,
+
+102
+00:05:14,867 --> 00:05:17,800
+leicht in einem Spielzeugladen
+zu haben war oder davor.
+
+103
+00:05:17,900 --> 00:05:19,667
+Und dann kam mir die Erleuchtung.
+
+104
+00:05:19,833 --> 00:05:21,467
+Disneys "Dinosaurier".
+
+105
+00:05:21,600 --> 00:05:24,400
+Ein Animationsfilm
+aus dem Jahre 2000,
+
+106
+00:05:24,667 --> 00:05:27,067
+das muss es sein,
+es passt genau in die Zeit!
+
+107
+00:05:27,167 --> 00:05:30,367
+Und dann hab ich einfach mal
+nach Merchandise davon gesucht
+
+108
+00:05:30,467 --> 00:05:33,567
+und einige Spielzeugsammlerforen
+aus der Zeit angeschaut,
+
+109
+00:05:33,667 --> 00:05:35,867
+und ich habe meinen Augen
+nicht getraut:
+
+110
+00:05:35,967 --> 00:05:40,100
+Ich bin mir zu 99,9 Prozent sicher,
+dass es sich aufgrund der Körperform,
+
+111
+00:05:40,200 --> 00:05:44,000
+der Beinchen, der Positionierung von
+Schraublöchern und Aufziehknöpfen
+
+112
+00:05:44,133 --> 00:05:48,300
+um ein Spielzeug der Fastfood-
+Restaurantkette McDonald's handelt,
+
+113
+00:05:48,700 --> 00:05:51,733
+die im Jahre 2000
+noch eine Disney-Lizenz hatten
+
+114
+00:05:51,833 --> 00:05:54,933
+und somit insgesamt
+acht Spielzeuge/Figuren
+
+115
+00:05:55,033 --> 00:05:59,833
+des Films "Dinosaurier" dem soge-
+nannten Happy Meal beilegen konnten.
+
+116
+00:06:00,300 --> 00:06:03,200
+Da ist also einer vom Dekoteam
+bei Mäckes gewesen
+
+117
+00:06:03,300 --> 00:06:06,567
+und hat gedacht: "Oh, ein
+Dinospielzeug. Was soll ich damit?"
+
+118
+00:06:06,700 --> 00:06:10,300
+"Ach, komm, tu ich das als Deko
+in diesen Film, wo ich mitarbeite."
+
+119
+00:06:10,400 --> 00:06:14,167
+"Jungs mögen doch Dinos, bei Harry
+Potter gibt's Drachen, passt schon."
+
+120
+00:06:14,267 --> 00:06:16,767
+Harry Potter-McDonald's-Kooperation
+confirmed.
+
+121
+00:06:16,867 --> 00:06:19,433
+Woher weiß ich das?
+Warum bin ich mir so sicher,
+
+122
+00:06:19,533 --> 00:06:22,033
+dass es genau dieser Dinosaurier ist?
+Tja ...
+
+123
+00:06:22,400 --> 00:06:23,933
+(Aufziehgeräusch, Surren)
+
+124
+00:06:25,533 --> 00:06:28,600
+Ich hab schon wieder irgendeinen
+Scheiß bei Ebay gekauft.
+
+125
+00:06:28,700 --> 00:06:31,233
+Von irgendwelchen Sammlern
+aus Großbritannien.
+
+126
+00:06:31,367 --> 00:06:34,233
+Die verdienen mittlerweile
+durch mich ihren Unterhalt,
+
+127
+00:06:34,333 --> 00:06:37,133
+weil ich da so oft Schrott
+für diesen Podcast kaufe.
+
+128
+00:06:37,233 --> 00:06:39,167
+Ich hab die ganze Dino-Kollektion!
+
+129
+00:06:39,267 --> 00:06:41,133
+Und ich hab den Film nie gesehen.
+
+130
+00:06:41,233 --> 00:06:43,933
+Aber ich habe nun die gleiche Figur
+wie Harry auch,
+
+131
+00:06:44,033 --> 00:06:47,467
+und es handelt sich um die Figur
+Kron, der Bösewicht des Films.
+
+132
+00:06:47,567 --> 00:06:51,067
+Und das ist kein Ankylosaurus,
+sondern ein Iguanodon.
+
+133
+00:06:51,167 --> 00:06:54,200
+Aber eben mit Schräubchen
+und Drehknubbel an der Seite.
+
+134
+00:06:54,433 --> 00:06:57,400
+(kindlich:) Los, Disney-Dinosaurier
+Kron von McDonald's!
+
+135
+00:06:57,600 --> 00:07:00,567
+Prügel dich mit Burgerkings
+Zachary Quinto alias Spock.
+
+136
+00:07:00,667 --> 00:07:03,100
+(Computerstimme:)
+Das wäre höchst unlogisch.
+
+137
+00:07:03,200 --> 00:07:04,367
+(Coldmirror:) Yeah!
+
+138
+00:07:04,500 --> 00:07:07,233
+Das Comicheftchen,
+was unter dem Dinosaurier liegt,
+
+139
+00:07:07,333 --> 00:07:10,967
+erkennt man leider nicht, aber ich
+vermute, es handelt sich um:
+
+140
+00:07:14,333 --> 00:07:17,900
+Oder "Loony Nonby", das sind
+zumindest bekannte Comicheftreihen
+
+141
+00:07:18,000 --> 00:07:19,100
+in der Zaubererwelt.
+
+142
+00:07:19,200 --> 00:07:20,700
+Das Comic "Loony Nonby"
+
+143
+00:07:20,800 --> 00:07:24,433
+sehen wir in "Harry Potter und der
+Gefangene von Askaban" erstmals,
+
+144
+00:07:24,533 --> 00:07:27,200
+da hängt es an Harrys Zimmerwand
+bei den Dursleys
+
+145
+00:07:27,300 --> 00:07:29,367
+und wird auch im
+Gryffindor-Schlafsaal
+
+146
+00:07:29,467 --> 00:07:32,700
+bei der abendlichen Süßigkeitenparty
+von den Jungs gelesen.
+
+147
+00:07:32,833 --> 00:07:35,933
+Man sieht es auch in den späteren
+Filmen immer mal wieder,
+
+148
+00:07:36,067 --> 00:07:38,800
+aber es wird halt in den Büchern
+gar nicht erwähnt.
+
+149
+00:07:38,900 --> 00:07:40,900
+Das ist eine Erfindung für den Film.
+
+150
+00:07:41,000 --> 00:07:43,600
+Dabei hätte man so eine schöne
+Vorlage gehabt:
+
+151
+00:07:45,200 --> 00:07:48,367
+Es handelt, wie der Titel
+subtil verrät, von einem Muggel.
+
+152
+00:07:48,500 --> 00:07:52,100
+Ich find die Idee irgendwie witzig,
+dass wir nichtmagische Menschen
+
+153
+00:07:52,200 --> 00:07:55,067
+Comics über Superhelden
+mit besonderen Kräften haben,
+
+154
+00:07:55,167 --> 00:07:58,767
+und da übernatürliche Fähigkeiten
+für Zauberer ganz alltäglich sind,
+
+155
+00:07:58,900 --> 00:08:02,433
+haben die eben Comics mit normalen
+Menschen, die nix können.
+
+156
+00:08:02,533 --> 00:08:04,533
+Was für sie total interessant ist.
+
+157
+00:08:04,633 --> 00:08:06,967
+Und zumindest Ron
+liest diese Comics gerne,
+
+158
+00:08:07,067 --> 00:08:09,933
+er hat in "Harry Potter
+und die Kammer des Schreckens"
+
+159
+00:08:10,033 --> 00:08:12,500
+einige Ausgaben davon
+in seinem Zimmer liegen,
+
+160
+00:08:12,600 --> 00:08:15,100
+da hat er bestimmt Harry
+eins von ausgeliehen.
+
+161
+00:08:15,600 --> 00:08:18,967
+Auf Rons Rufen hin schmeißt Harry
+seine Bettdecke von sich weg,
+
+162
+00:08:19,067 --> 00:08:22,767
+rennt im blauweiß gestreiften Pyjama
+vorbei an gebastelten Girlanden
+
+163
+00:08:22,900 --> 00:08:26,533
+mit Bildern von grünen Weihnachts-
+bäumchen und goldenen Sternchen,
+
+164
+00:08:26,633 --> 00:08:29,467
+vorbei an Rons Bett mit Krätzes
+viel zu kleinem Käfig,
+
+165
+00:08:29,567 --> 00:08:33,067
+und der von Molly Weasley selbst-
+genähten bunten Flickendecke.
+
+166
+00:08:33,167 --> 00:08:36,533
+Vorbei an einem Ofen, der in der
+Mitte des runden Raumes steht,
+
+167
+00:08:36,633 --> 00:08:39,567
+an dem Schals und Socken
+zum Trocknen aufgehängt sind,
+
+168
+00:08:39,667 --> 00:08:42,367
+hinaus in den Treppenbereich,
+wo er nach der Quelle
+
+169
+00:08:42,500 --> 00:08:44,200
+von Rons Stimme Ausschau hält.
+
+170
+00:08:44,300 --> 00:08:46,900
+Der steht unten im
+Gryffindor-Gemeinschaftsraum,
+
+171
+00:08:47,000 --> 00:08:50,067
+ist auch im Schlafanzug,
+hat aber einen neuen Strickpulli
+
+172
+00:08:50,167 --> 00:08:53,967
+darüber angezogen - aus 80 Prozent
+Lammwolle und 20 Prozent Polyamid -
+
+173
+00:08:54,067 --> 00:08:56,533
+in einem fröhlichen, knalligen
+Kastanienbraun
+
+174
+00:08:56,633 --> 00:08:59,733
+mit einem großen hellbraunen R
+wie Ron drauf.
+
+175
+00:09:00,067 --> 00:09:02,100
+Und Ron schaut zu ihm hoch und sagt:
+
+176
+00:09:02,200 --> 00:09:04,100
+"Frohe Weihnachten, Harry."
+
+177
+00:09:04,200 --> 00:09:08,167
+Es ist das zweite Mal, dass Harry in
+dem Film mit Geschrei geweckt wurde.
+
+178
+00:09:08,267 --> 00:09:10,800
+Aber diese Szene
+ist ein absoluter Unterschied
+
+179
+00:09:10,900 --> 00:09:13,700
+zu der "Harry wacht auf"-Szene
+zu Beginn des Films.
+
+180
+00:09:13,900 --> 00:09:17,033
+Da liegt Harry im viel zu kleinen
+Schrank unter der Treppe
+
+181
+00:09:17,133 --> 00:09:19,867
+Tante Petunia hämmert an die Tür
+und schreit ihn an:
+
+182
+00:09:20,000 --> 00:09:21,233
+"Aufstehen, steh auf!"
+
+183
+00:09:21,333 --> 00:09:25,000
+Dann muss Harry beobachten, wie
+sein Cousin 1.000 Geschenke kriegt,
+
+184
+00:09:25,100 --> 00:09:28,633
+die dem nichts bedeuten, die er
+nach einem Tag kaputtgespielt hat,
+
+185
+00:09:28,767 --> 00:09:31,467
+wovon Harry mit Glück,
+die Schrottreste bekommt.
+
+186
+00:09:31,567 --> 00:09:33,767
+Jetzt im deutlichen Kontrast dazu:
+
+187
+00:09:33,900 --> 00:09:37,267
+Harry wacht auf in einem Schlafsaal
+in einem riesigen Schloss,
+
+188
+00:09:37,400 --> 00:09:39,900
+das er in den Ferien
+fast für sich alleine hat.
+
+189
+00:09:40,000 --> 00:09:43,067
+Sein bester Kumpel weckt ihn auf,
+es ist Weihnachtsmorgen
+
+190
+00:09:43,167 --> 00:09:44,867
+und es gibt Geschenke für ihn.
+
+191
+00:09:45,067 --> 00:09:48,400
+Und das ist nicht nur die kindliche
+Freude: "Yay, Geschenke!"
+
+192
+00:09:48,500 --> 00:09:51,633
+"Hui, Weihnachten!",
+sondern das ist Harrys erstes
+
+193
+00:09:51,733 --> 00:09:54,633
+bewusst erlebtes gutes Weihnachten
+überhaupt.
+
+194
+00:09:55,167 --> 00:09:58,433
+Nachdem Ron ihm mitteilt,
+dass seine Mom Molly Weasley
+
+195
+00:09:58,533 --> 00:10:02,200
+wahrscheinlich auch so einen tollen
+Pulli für Harry gestrickt hat,
+
+196
+00:10:02,300 --> 00:10:05,367
+sagt dieser völlig fassungslos:
+"Ich bekomme Geschenke."
+
+197
+00:10:05,467 --> 00:10:07,800
+Für ihn war es normal,
+ignoriert zu werden.
+
+198
+00:10:07,933 --> 00:10:11,867
+Und die Vorstellung, jemand
+gibt ihm Geschenke, ist so surreal,
+
+199
+00:10:11,967 --> 00:10:13,767
+dass er es nicht begreifen kann.
+
+200
+00:10:13,867 --> 00:10:18,300
+Und dann wechseln seine Gesichtszüge
+plötzlich zu einem fröhlichen: "Ha!"
+
+201
+00:10:18,867 --> 00:10:21,933
+Er kommt barfuß die Steintreppe
+hinunter getippeltappelt,
+
+202
+00:10:22,167 --> 00:10:24,000
+um zu seinen Geschenken
+zu laufen,
+
+203
+00:10:24,133 --> 00:10:27,100
+während er sagt: "Ich hab noch nie
+Geschenke bekommen!"
+
+204
+00:10:27,200 --> 00:10:32,167
+Also, man nehme jahrelang emotional
+vernachlässigt und unterfüttert sein,
+
+205
+00:10:32,400 --> 00:10:35,033
+addiere endlich Beinfreiheit haben,
+
+206
+00:10:35,333 --> 00:10:39,033
+multipliziere mit Geschenke
+plus Weihnachtsessen in Hogwarts.
+
+207
+00:10:39,333 --> 00:10:43,067
+Das alles durch die magische Zahl
+Sieben plus Ron ist auch da.
+
+208
+00:10:43,333 --> 00:10:45,400
+Daraus die Alraunewurzel ziehen,
+
+209
+00:10:45,567 --> 00:10:48,567
+und das, was rauskommt,
+ist das, was Harry grade fühlt.
+
+210
+00:10:48,667 --> 00:10:52,333
+Man kann es sich nicht vorstellen,
+wie glücklich er jetzt sein muss.
+
+211
+00:10:52,433 --> 00:10:55,600
+Egal, was für Geschenke da jetzt
+liegen, die sind für ihn!
+
+212
+00:10:55,700 --> 00:10:57,467
+Diese glückliche Unbeschwertheit
+
+213
+00:10:57,600 --> 00:11:00,333
+spiegelt sich in der Musik
+in dieser Szene wider.
+
+214
+00:11:00,667 --> 00:11:04,300
+Vor nicht allzu langer Zeit habe ich
+"Kevin allein zu Haus" geguckt,
+
+215
+00:11:04,400 --> 00:11:07,500
+ein Film, der alle Jahre wieder
+immer zu Weihnachten kommt,
+
+216
+00:11:07,600 --> 00:11:11,333
+und wurde etwas hellhörig, weil ich
+finde, die Anfangsmusik des Films
+
+217
+00:11:11,433 --> 00:11:14,133
+klingt ähnlich wie die Musik
+in dieser Szene hier.
+
+218
+00:11:14,267 --> 00:11:16,767
+Bei "Kevin allein zu Haus"
+geht die Melodie so:
+
+219
+00:11:16,900 --> 00:11:19,700
+(Räuspern, sie singt
+eine heitere Melodie)
+
+220
+00:11:23,367 --> 00:11:27,167
+Und bei der Weihnachtsgeschenke-Szene
+von Harry Potter ist es schneller.
+
+221
+00:11:27,567 --> 00:11:30,433
+(Sie singt eine ähnliche,
+flottere Melodie.)
+
+222
+00:11:34,467 --> 00:11:35,533
+(Räuspern)
+
+223
+00:11:35,633 --> 00:11:38,367
+Verzeihung, dass ich jetzt
+durch absolut perfekte,
+
+224
+00:11:38,533 --> 00:11:41,767
+Metatron-artige Engelsstimme
+einige Herzen zersprengt habe.
+
+225
+00:11:42,033 --> 00:11:45,767
+Aber ich finde, eine musikalische
+Übereinstimmung ist zu erkennen.
+
+226
+00:11:46,033 --> 00:11:49,367
+Zumindest hab ich gedacht:
+"Hm, das klingt irgendwie ähnlich."
+
+227
+00:11:49,467 --> 00:11:52,800
+Und siehe da: Der Musikkomponist
+beider Filme ist der gleiche,
+
+228
+00:11:52,900 --> 00:11:54,200
+nämlich John Williams.
+
+229
+00:11:54,300 --> 00:11:57,100
+Und ich finde, dieser Kerl
+hat echt ein Geheimrezept.
+
+230
+00:11:57,233 --> 00:12:00,400
+Nicht für Weihnachtsplätzchen,
+sondern für Weihnachtsmusik.
+
+231
+00:12:00,667 --> 00:12:04,567
+Und das benutzt er immer wieder, dann
+kommt ein Film aus deiner Kindheit,
+
+232
+00:12:04,667 --> 00:12:06,733
+du hörst die Musik
+und denkst "Aaah!".
+
+233
+00:12:06,867 --> 00:12:10,067
+Du isst diese Weihnachtsmusik
+genüsslich mit deinem Ohr auf
+
+234
+00:12:10,167 --> 00:12:12,800
+und bekommst unweigerlich
+diese nahezu vergessene,
+
+235
+00:12:12,900 --> 00:12:16,500
+unbeschwerte, fröhliche Stimmung
+eines Kindes am Weihnachtsmorgen.
+
+236
+00:12:16,600 --> 00:12:19,733
+Schauen wir uns an, wie es
+im Gryffindor-Gemeinschaftsraum
+
+237
+00:12:19,867 --> 00:12:21,900
+an diesem Weihnachtsmorgen aussieht.
+
+238
+00:12:22,067 --> 00:12:25,967
+Im Kamin lodert ein Feuer, daneben
+steht ein ausrangierter Zauberkessel,
+
+239
+00:12:26,100 --> 00:12:27,833
+der als Feuerholzgefäß fungiert.
+
+240
+00:12:27,933 --> 00:12:31,067
+In den Kaminbereich sind Sitzecken
+aus Stein integriert,
+
+241
+00:12:31,200 --> 00:12:34,300
+die mit vielen kleinen, roten
+Samtkissen ausgelegt sind.
+
+242
+00:12:34,533 --> 00:12:38,367
+Wo man sich direkt ans Feuer setzen
+könnte, um etwa Bücher zu lesen,
+
+243
+00:12:38,467 --> 00:12:41,400
+welche auch auf kleinen Höckerchen
+in der Nähe liegen.
+
+244
+00:12:41,500 --> 00:12:44,033
+Aber das machen Ron und Harry
+garantiert nicht,
+
+245
+00:12:44,167 --> 00:12:46,867
+denn im Buch steht, dass sie
+das Feuer eher nutzen,
+
+246
+00:12:46,967 --> 00:12:50,467
+um alles Mögliche, was man auf eine
+Gabel stecken kann, zu rösten.
+
+247
+00:12:50,567 --> 00:12:52,733
+Etwa Brot, Pfannkuchen
+oder Marshmallows.
+
+248
+00:12:52,833 --> 00:12:55,600
+Die beiden hatten ja den ganzen
+Schlafsaal für sich,
+
+249
+00:12:55,700 --> 00:12:58,500
+alle anderen sind über die Ferien
+bei ihren Eltern.
+
+250
+00:12:58,600 --> 00:13:02,133
+Den Gemeinschaftsraum müssen sie sich
+noch mit anderen Gryffindors
+
+251
+00:13:02,233 --> 00:13:06,000
+anderer Jahrgangsstufen teilen, aber
+es ist viel mehr Platz als sonst.
+
+252
+00:13:06,100 --> 00:13:09,000
+Sie belegen die guten Plätze
+am Kamin, man sieht es -
+
+253
+00:13:09,100 --> 00:13:11,567
+da liegen Klamotten
+und ausgepackte Geschenke
+
+254
+00:13:11,767 --> 00:13:13,533
+über Sessel und Sofas verteilt.
+
+255
+00:13:13,667 --> 00:13:17,167
+Da sind die Jungs einmal alleine
+und verstreuen ihre ganzen Sachen
+
+256
+00:13:17,300 --> 00:13:18,367
+überall im Zimmer.
+
+257
+00:13:18,467 --> 00:13:21,233
+Auch für diesen Kaminbereich
+haben die Requisiteure
+
+258
+00:13:21,333 --> 00:13:25,067
+Antiquitätenläden geplündert,
+nichts ist ordentlich, nichts ist neu
+
+259
+00:13:25,167 --> 00:13:27,367
+und nichts ist
+von der gleichen Machart.
+
+260
+00:13:27,500 --> 00:13:29,600
+Trotzdem passt es irgendwie zusammen.
+
+261
+00:13:29,700 --> 00:13:33,433
+Der Teppich auf dem Boden ist groß
+und pompös, aber total abgewetzt.
+
+262
+00:13:33,533 --> 00:13:36,200
+Alle Möbel sind ein bisschen älter
+und abgenutzt
+
+263
+00:13:36,300 --> 00:13:38,967
+und in samtigen, kuscheligen
+roten Tönen gehalten,
+
+264
+00:13:39,067 --> 00:13:43,233
+um eine Atmosphäre zu schaffen, die
+Wärme und Geborgenheit vermittelt.
+
+265
+00:13:43,333 --> 00:13:47,633
+Aber eben aussieht, als hätten Kinder
+hier schon seit 100 Jahren residiert.
+
+266
+00:13:47,733 --> 00:13:51,500
+Da Weihnachten ist, darf natürlich
+ein Weihnachtsbaum nicht fehlen.
+
+267
+00:13:51,633 --> 00:13:54,667
+Der steht schön in der Nähe vom Kamin
+mit offenem Feuer -
+
+268
+00:13:54,867 --> 00:13:57,600
+in Hogwarts hat man's nicht so
+mit Brandschutz.
+
+269
+00:13:57,767 --> 00:14:01,700
+Der ist aber nicht so riesig wie die
+Weihnachtsbäume in der großen Halle,
+
+270
+00:14:01,800 --> 00:14:03,800
+sondern hat normale Wohnzimmergröße,
+
+271
+00:14:03,900 --> 00:14:06,500
+und er ist auch
+mit ganz anderer Deko geschmückt.
+
+272
+00:14:06,600 --> 00:14:08,767
+Statt großer goldener Kugeln
+und Fasanen
+
+273
+00:14:08,867 --> 00:14:11,667
+hängen an diesem Baum
+viele kleine niedliche Dinge:
+
+274
+00:14:11,800 --> 00:14:15,033
+rote Miniweihnachtspäckchen,
+goldene Zaubertrankkesselchen,
+
+275
+00:14:15,133 --> 00:14:19,767
+silberne Knallbonbons, winzige Besen,
+goldene Kügelchen in Schnatzgröße,
+
+276
+00:14:19,933 --> 00:14:22,833
+und Lametta -
+bestimmt das gute Bleihaltige.
+
+277
+00:14:23,067 --> 00:14:26,800
+Den Baum hier find ich irgendwie
+schöner als die in der großen Halle,
+
+278
+00:14:26,900 --> 00:14:29,900
+denn es sieht aus, als wenn ihn
+jemand dekoriert hätte,
+
+279
+00:14:30,000 --> 00:14:33,900
+der Harry Potter-Fan ist und einen
+Weihnachtsbaum zu dem Thema schmückt.
+
+280
+00:14:34,033 --> 00:14:37,967
+Was merkwürdig ist, wir sind ja im
+Film und der Welt von Harry Potter -
+
+281
+00:14:38,067 --> 00:14:40,167
+natürlich hat es
+Harry Potter - Thema.
+
+282
+00:14:40,300 --> 00:14:42,433
+Aber es sind halt
+typische Dekoelemente,
+
+283
+00:14:42,533 --> 00:14:45,167
+die man mit Harry Potter-Themenpartys
+verbindet.
+
+284
+00:14:45,267 --> 00:14:47,767
+Harry rennt zu diesem hübschen
+Weihnachtsbaum,
+
+285
+00:14:47,900 --> 00:14:50,967
+um all seine Geschenke,
+die darunter liegen, aufzumachen.
+
+286
+00:14:51,067 --> 00:14:53,500
+Von denen wir im Film
+nur eines richtig sehen.
+
+287
+00:14:53,600 --> 00:14:57,500
+Im Buch bekommt er etwa einen Zettel
+mit darauf geklebtem 50-Pence-Stück
+
+288
+00:14:57,600 --> 00:15:01,533
+von den Dursleys - andere Geschenke,
+die er in den Büchern von ihnen hat,
+
+289
+00:15:01,633 --> 00:15:04,967
+sind zum Beispiel ein Zahnstocher,
+ein einzelnes Taschentuch,
+
+290
+00:15:05,067 --> 00:15:08,633
+oder eine Packung Hundeleckerlis.
+Da sind 50 Pence noch das Beste.
+
+291
+00:15:08,733 --> 00:15:11,100
+Die er dann prompt
+an Ron weiterverschenkt,
+
+292
+00:15:11,200 --> 00:15:13,233
+weil der die Form so lustig findet.
+
+293
+00:15:13,333 --> 00:15:16,100
+Britische 50-Pence-Münzen
+sind nämlich siebeneckig.
+
+294
+00:15:16,233 --> 00:15:17,633
+Von Ron wurde es verraten:
+
+295
+00:15:17,733 --> 00:15:21,067
+Harry kriegt einen selbstgestrickten
+Pulli von Molly Weasley,
+
+296
+00:15:21,167 --> 00:15:22,500
+und zwar in Smaragdgrün.
+
+297
+00:15:22,633 --> 00:15:26,067
+Und dazu eine Schachtel köstliche,
+selbstgebackene Plätzchen.
+
+298
+00:15:26,167 --> 00:15:28,800
+Beides sehen wir im Film
+nicht wirklich,
+
+299
+00:15:28,900 --> 00:15:31,533
+denn der Pulli, den Harry bekommt,
+ist nicht grün.
+
+300
+00:15:31,667 --> 00:15:35,533
+Er trägt zwar manchmal einen grünen
+Pulli, jedoch schon vor Weihnachten.
+
+301
+00:15:35,667 --> 00:15:38,767
+Zum Beispiel bei der Schachszene -
+das ist sein eigener.
+
+302
+00:15:38,867 --> 00:15:41,967
+In einer anderen, späteren Szene
+jedoch, nach Weihnachten,
+
+303
+00:15:42,067 --> 00:15:44,833
+trägt Harry einen Strickpulli
+nicht in Smaragdgrün,
+
+304
+00:15:44,967 --> 00:15:48,267
+sondern in Dunkelblau, aber mit
+einem H wie Harry vorne drauf.
+
+305
+00:15:48,400 --> 00:15:50,500
+Dadurch als Weasley-Pulli
+zu erkennen.
+
+306
+00:15:50,633 --> 00:15:53,733
+Aber es ist eine Abweichung
+von der Beschreibung im Buch.
+
+307
+00:15:53,833 --> 00:15:57,467
+Und die köstlichen selbstgebackenen
+Plätzchen sieht man auch nicht,
+
+308
+00:15:57,567 --> 00:15:59,533
+und zwar wegen einer Eindeutschung.
+
+309
+00:15:59,633 --> 00:16:03,600
+In der englischen Version des Buches
+bekommt er nämlich "homemade fudge".
+
+310
+00:16:03,700 --> 00:16:07,467
+Fudge ist eine typisch britische,
+weiche, fluffige Karamellsüßigkeit,
+
+311
+00:16:07,600 --> 00:16:10,067
+die nur aus Butter,
+Zucker und Sahne besteht.
+
+312
+00:16:10,200 --> 00:16:12,367
+All diese wunderbar gesunden Sachen.
+
+313
+00:16:12,500 --> 00:16:15,567
+Und weil Fudge in Deutschland
+nicht ganz so verbreitet ist
+
+314
+00:16:15,700 --> 00:16:19,467
+wie in Großbritannien und es bei uns
+traditionell eher Plätzchen gibt,
+
+315
+00:16:19,600 --> 00:16:23,067
+wurde das dann, glaube ich,
+für die deutsche Version umgewandelt.
+
+316
+00:16:23,200 --> 00:16:26,233
+Damit mehr kultureller Bezug
+beim Leser hergestellt ist.
+
+317
+00:16:26,367 --> 00:16:28,600
+Also, deutsche Plätzchen
+sehen wir nicht,
+
+318
+00:16:28,733 --> 00:16:32,833
+dafür aber auf der Sofalehne
+hinter Ron eine geöffnete Schachtel,
+
+319
+00:16:32,933 --> 00:16:36,933
+mit Frischhaltefolie ausgelegt,
+und darin ist Karamellkonfekt.
+
+320
+00:16:37,067 --> 00:16:40,133
+Und das ist definitiv
+von Molly Weasley selber gemacht.
+
+321
+00:16:40,233 --> 00:16:42,667
+Das sind keine kleinen,
+mundgerechten Bonbons,
+
+322
+00:16:42,800 --> 00:16:45,367
+sondern dicke, fette Karamellklötze.
+
+323
+00:16:45,500 --> 00:16:49,500
+Da kannst du reinbeißen, den Abdruck
+direkt zum Kieferorthopäden schicken
+
+324
+00:16:49,633 --> 00:16:51,600
+und kriegst eine Zahnspange zurück.
+
+325
+00:16:51,733 --> 00:16:53,300
+Das ist also Rons Schachtel.
+
+326
+00:16:53,400 --> 00:16:56,367
+Harrys sieht man nicht,
+aber er hat wohl genau so eine.
+
+327
+00:16:56,500 --> 00:16:57,700
+Eine reelle Portion.-
+
+328
+00:16:57,833 --> 00:17:01,533
+Dann bekommt er im Buch eine große
+Packung Schokofrösche von Hermine,
+
+329
+00:17:01,633 --> 00:17:05,833
+ist im Film auch nicht zu sehen, von
+Hagrid eine selbstgeschnitzte Flöte.
+
+330
+00:17:06,100 --> 00:17:08,900
+Die sehen wir sogar kurz
+im Hintergrund verschwommen
+
+331
+00:17:09,000 --> 00:17:11,133
+auf dem Stapel Geschenke
+unter dem Baum.
+
+332
+00:17:11,267 --> 00:17:13,533
+Harry beachtet sie im Film
+aber gar nicht.
+
+333
+00:17:13,633 --> 00:17:16,133
+Sie wird nicht erwähnt
+oder vernünftig gezeigt,
+
+334
+00:17:16,233 --> 00:17:20,000
+dabei ist sie im Buch ein wichtiges
+Objekt im späteren Handlungsablauf,
+
+335
+00:17:20,100 --> 00:17:23,133
+und in einer älteren Version
+des Drehbuchs für den Film
+
+336
+00:17:23,233 --> 00:17:26,833
+hätte tatsächlich eine Szene
+gestanden, in der Harry sie auspackt.
+
+337
+00:17:26,967 --> 00:17:30,433
+Dieses Drehbuch kann man finden
+bei screenplaysandscripts.com
+
+338
+00:17:30,533 --> 00:17:34,500
+und das nachlesen, und es wurden wohl
+auch Szenen mit der Flöte gefilmt,
+
+339
+00:17:34,633 --> 00:17:39,100
+es gibt zumindest ein altes Promo-
+Foto, wo Harry sie in der Hand hält.
+
+340
+00:17:39,200 --> 00:17:42,167
+Aber Drehbücher durchlaufen ja
+verschiedene Versionen,
+
+341
+00:17:42,267 --> 00:17:45,000
+die Handlung wird geändert
+und etwas umgeschrieben.
+
+342
+00:17:45,100 --> 00:17:48,833
+Die Wichtigkeit der Flöte entfiel
+irgendwann im Produktionsprozess,
+
+343
+00:17:48,933 --> 00:17:51,967
+und somit wurden entsprechende Szenen
+auch entfernt.
+
+344
+00:17:52,200 --> 00:17:56,000
+Weshalb die Flöte wichtig ist und was
+an der Handlung verändert wurde,
+
+345
+00:17:56,100 --> 00:17:59,567
+werden wir in einem späteren Podcast
+noch einmal genau behandeln.
+
+346
+00:18:00,000 --> 00:18:02,733
+Und nun kommen wir zum letzten
+Weihnachtsgeschenk,
+
+347
+00:18:02,833 --> 00:18:04,933
+beziehungsweise
+dem ersten und einzigen,
+
+348
+00:18:05,033 --> 00:18:07,067
+was Harry im Film sichtbar öffnet:
+
+349
+00:18:07,200 --> 00:18:10,000
+ein unförmiges, in Silberstoff
+gewickeltes Päckchen,
+
+350
+00:18:10,100 --> 00:18:14,167
+zugeschnürt mit einer Silberkordel,
+an deren Ende goldene Fransen sind.
+
+351
+00:18:14,433 --> 00:18:18,700
+Harry macht es aber noch nicht auf,
+sondern öffnet erst brav den Brief,
+
+352
+00:18:18,800 --> 00:18:19,900
+der dabei lag.
+
+353
+00:18:20,067 --> 00:18:23,800
+Es ist leider keine Weihnachtskarte
+mit einem Scheinchen für ihn drin,
+
+354
+00:18:23,900 --> 00:18:26,700
+sondern ein Brief
+aus dem dünnsten Papier der Welt.
+
+355
+00:18:26,833 --> 00:18:29,400
+Es ist fast durchsichtig,
+sodass wir Zuschauer,
+
+356
+00:18:29,500 --> 00:18:33,167
+während Harry den Brief vor sich
+hält, von der anderen Seite sehen,
+
+357
+00:18:33,267 --> 00:18:35,967
+dass da etwas in schnörkeliger
+Schrift draufsteht.
+
+358
+00:18:36,067 --> 00:18:39,867
+Und während Ron sich gespannt ein
+paar Bertie Botts Bohnen reinstopft,
+
+359
+00:18:39,967 --> 00:18:42,267
+die er von Hermine
+geschenkt bekommen hat,
+
+360
+00:18:42,367 --> 00:18:43,967
+liest Harry den Brief vor,
+
+361
+00:18:44,133 --> 00:18:47,733
+den wir nun in einem Close-up
+in seinen kleinen Kinderhänden sehen.
+
+362
+00:18:47,833 --> 00:18:51,000
+Brief kann man es eigentlich
+nicht nennen, eher ein Zettel,
+
+363
+00:18:51,133 --> 00:18:54,633
+der aussieht, als hätte jemand
+ein Rechteck auf Brotpapier gemalt
+
+364
+00:18:54,733 --> 00:18:56,100
+und dann ausgeschnitten.
+
+365
+00:18:56,200 --> 00:18:58,567
+Der Zettel ist schwarz umrandet
+und so dünn,
+
+366
+00:18:58,667 --> 00:19:01,833
+dass Harrys Finger auf der anderen
+Seite durchscheinen.
+
+367
+00:19:01,933 --> 00:19:05,600
+Und mit blauer Tinte steht dort
+ein schnörkeliger Text geschrieben,
+
+368
+00:19:05,733 --> 00:19:07,200
+den Harry nun vorliest.
+
+369
+00:19:07,300 --> 00:19:11,067
+"Dein Vater hat mir dies vor seinem
+Tode zur Aufbewahrung überreicht."
+
+370
+00:19:11,167 --> 00:19:14,767
+"Nun ist die Zeit gekommen, ihn
+dir zu geben. Gebrauche ihn klug."
+
+371
+00:19:15,233 --> 00:19:17,600
+Tja. Das ist, glaub ich,
+keine Playstation.
+
+372
+00:19:17,700 --> 00:19:21,467
+Harry schaut fragend zu Ron, aber der
+zuckt auch nur mit den Schultern
+
+373
+00:19:21,567 --> 00:19:24,667
+und sein Mund ist weiterhin voll
+mit Bertie Botts Bohnen.
+
+374
+00:19:24,767 --> 00:19:27,733
+Nun macht Harry das Päckchen auf,
+löst die Silberkordel
+
+375
+00:19:27,867 --> 00:19:31,567
+und faltet den knittrigen Silberstoff
+auf, der ein bisschen aussieht
+
+376
+00:19:31,667 --> 00:19:34,800
+wie die Rettungsdecken,
+in die man Lawinenopfer einwickelt.
+
+377
+00:19:34,900 --> 00:19:38,367
+Darin ist ein Umhang, den Harry
+sofort herauszieht und probiert,
+
+378
+00:19:38,467 --> 00:19:41,500
+woraufhin Ron tatsächlich
+die Bertie Botts Bohnen-Packung
+
+379
+00:19:41,600 --> 00:19:43,533
+beiseite wirft,
+um "Wooow!" zu sagen.
+
+380
+00:19:43,633 --> 00:19:46,933
+Nicht, weil Harry modelmäßig gut
+mit diesem Umhang aussieht,
+
+381
+00:19:47,033 --> 00:19:50,100
+sondern weil Teile von ihm
+gar nicht mehr zu sehen sind.
+
+382
+00:19:50,200 --> 00:19:52,667
+Nur sein Kopf
+scheint in der Luft zu schweben.
+
+383
+00:19:52,767 --> 00:19:54,567
+Der Rest seines Körpers ist weg.
+
+384
+00:19:54,833 --> 00:19:58,233
+"Das ist ein unsichtbar machender
+Tarnumhang!", stellt Ron fest.
+
+385
+00:19:58,333 --> 00:20:01,300
+"Die sind wahnsinnig selten,
+wer hat dir den geschickt?"
+
+386
+00:20:01,433 --> 00:20:02,500
+Harry weiß es nicht.
+
+387
+00:20:02,600 --> 00:20:05,100
+Aber wir als Zuschauer
+und Harry-Potter-Fans
+
+388
+00:20:05,200 --> 00:20:07,600
+kennen natürlich
+den gesamten Hintergrund,
+
+389
+00:20:07,700 --> 00:20:10,767
+den ich hier jetzt
+noch mal kurz anreißen werde.
+
+390
+00:20:10,867 --> 00:20:13,200
+Es gibt handelsübliche
+günstige Tarnumhänge,
+
+391
+00:20:13,300 --> 00:20:15,700
+die mit einem simplen
+Desillusionierungszauber
+
+392
+00:20:15,800 --> 00:20:17,800
+belegt wurden,
+die halten nicht lange.
+
+393
+00:20:17,900 --> 00:20:20,600
+Dann gibt es die teure Variante
+aus Demiguise-Fell.
+
+394
+00:20:20,700 --> 00:20:22,967
+Ein Demiguise
+ist ein affenähnliches Wesen,
+
+395
+00:20:23,067 --> 00:20:25,333
+das sich bei Gefahr
+unsichtbar machen kann,
+
+396
+00:20:25,433 --> 00:20:27,467
+zu sehen
+in "Phantastische Tierwesen".
+
+397
+00:20:27,567 --> 00:20:30,100
+Sie sind schwer zu fangen,
+aber wenn man sie hat
+
+398
+00:20:30,200 --> 00:20:32,933
+und ihr Fell abschert,
+kann man Tarnumhänge weben,
+
+399
+00:20:33,033 --> 00:20:35,067
+die dann lange Zeit
+unsichtbar machen,
+
+400
+00:20:35,167 --> 00:20:38,233
+aber auch irgendwann abschwächen
+oder kaputtgehen können.
+
+401
+00:20:38,333 --> 00:20:40,767
+Trotzdem sind sie sehr teuer
+und selten.
+
+402
+00:20:40,867 --> 00:20:43,833
+Aber Harrys Tarnumhang
+ist noch mal eine Stufe seltener.
+
+403
+00:20:43,933 --> 00:20:47,533
+Wie wir erst in Harry Potter und
+die Heiligtümer des Todes erfahren:
+
+404
+00:20:47,633 --> 00:20:50,300
+Dieser Tarnumhang ist uralt
+und nie kaputtgegangen
+
+405
+00:20:50,400 --> 00:20:53,200
+und wahrscheinlich
+eines der Heiligtümer des Todes.
+
+406
+00:20:53,300 --> 00:20:55,900
+Es gibt nämlich in der Zaubererwelt
+eine Legende,
+
+407
+00:20:56,000 --> 00:20:58,467
+das Märchen von den drei Brüdern.
+
+408
+00:20:58,567 --> 00:21:01,533
+Nachzulesen im Buch
+"Die Märchen von Beedle dem Barden".
+
+409
+00:21:01,633 --> 00:21:04,567
+Die Legende besagt, dass der Tod,
+der Sensenmann selbst,
+
+410
+00:21:04,667 --> 00:21:07,233
+drei Geschenke an drei Brüder
+gegeben hat.
+
+411
+00:21:07,333 --> 00:21:09,567
+Einen Zauberstab,
+der jedes Duell gewinnt,
+
+412
+00:21:09,667 --> 00:21:12,000
+einen Stein,
+der Tote zum Leben erweckt,
+
+413
+00:21:12,100 --> 00:21:14,667
+und einen Umhang,
+der unsichtbar macht.
+
+414
+00:21:14,767 --> 00:21:17,733
+Der Zauberstab führt dazu,
+dass ein Bruder getötet wird,
+
+415
+00:21:17,900 --> 00:21:19,267
+weil er angeberisch ist.
+
+416
+00:21:19,367 --> 00:21:21,567
+Der zweite Bruder
+wird so traurig dadurch,
+
+417
+00:21:21,667 --> 00:21:24,567
+dass er mit dem Stein
+seine verstorbene Geliebte sieht,
+
+418
+00:21:24,700 --> 00:21:25,967
+dass er sich umbringt.
+
+419
+00:21:26,067 --> 00:21:29,667
+Nur der clevere jüngste Bruder
+mit dem Umhang entkommt dem Tod.
+
+420
+00:21:29,767 --> 00:21:32,233
+Erst nach langem Versteckspiel
+legt er ihn ab
+
+421
+00:21:32,333 --> 00:21:35,433
+und begrüßt als alter Mann
+den Tod wie einen Freund.
+
+422
+00:21:35,533 --> 00:21:38,200
+Und dieser Tarnumhang,
+der laut dieser Legende
+
+423
+00:21:38,300 --> 00:21:40,767
+selbst vor den Augen des Todes
+bewahrt,
+
+424
+00:21:40,867 --> 00:21:43,967
+der ewig unsichtbar
+und ewig haltbar ist,
+
+425
+00:21:44,067 --> 00:21:46,433
+ist als Familienerbstück
+über Generationen
+
+426
+00:21:46,533 --> 00:21:50,700
+immer weitergegeben worden und dann
+irgendwann bei James Potter gelandet.
+
+427
+00:21:50,800 --> 00:21:53,100
+Harry ist also
+um einige Ecken Nachfahre
+
+428
+00:21:53,200 --> 00:21:56,033
+des einen cleveren Bruders
+aus dem Märchen,
+
+429
+00:21:56,133 --> 00:21:58,233
+der übrigens Ignotus Peverell heißt.
+
+430
+00:21:58,333 --> 00:21:59,500
+Und jetzt kommt's:
+
+431
+00:21:59,600 --> 00:22:02,133
+Dumbledore hat schon immer
+seit seiner Jugend
+
+432
+00:22:02,233 --> 00:22:06,033
+ein fanatisches Interesse an diesen
+Heiligtümern des Todes gehabt.
+
+433
+00:22:06,133 --> 00:22:08,400
+Er hat daran geglaubt,
+dass sie existieren,
+
+434
+00:22:08,500 --> 00:22:10,767
+wusste aber nicht,
+wo er sie finden könnte.
+
+435
+00:22:10,867 --> 00:22:13,167
+Als James Potter als Erwachsener
+mit Familie
+
+436
+00:22:13,267 --> 00:22:17,100
+Dumbledore ganz nebenbei
+diese lustige Geschichte erzählt hat,
+
+437
+00:22:17,200 --> 00:22:20,033
+dass er als Kind immer so viel Unfug
+anstellen konnte,
+
+438
+00:22:20,133 --> 00:22:21,867
+weil er diesen Tarnumhang hatte.
+
+439
+00:22:21,967 --> 00:22:25,200
+Ein uraltes Erbstück,
+nie kaputtgegangen. Ulkig, oder?
+
+440
+00:22:25,300 --> 00:22:27,667
+Da musste Dumbledore
+sich echt zusammenreißen
+
+441
+00:22:27,767 --> 00:22:31,500
+und hat gefragt, ob er den Umhang
+vielleicht mal ausleihen darf?
+
+442
+00:22:31,600 --> 00:22:33,700
+Aber ist innerlich
+komplett ausgerastet,
+
+443
+00:22:33,800 --> 00:22:35,667
+als er ihn endlich hatte.
+
+444
+00:22:35,767 --> 00:22:38,433
+Und zack, nur ein paar Tage später
+kommt Voldemort
+
+445
+00:22:38,533 --> 00:22:40,300
+und ermordet Harrys Eltern.
+
+446
+00:22:40,400 --> 00:22:43,467
+"Dein Vater gab mir dies
+zur Aufbewahrung vor seinem Tod."
+
+447
+00:22:43,567 --> 00:22:46,200
+Bullshit! Da müsste eigentlich
+aufm Zettel stehen:
+
+448
+00:22:46,300 --> 00:22:47,533
+(Sie liest vor.)
+
+449
+00:23:13,367 --> 00:23:15,667
+Das müsste da stehen.
+Genau in dem Wortlaut.
+
+450
+00:23:15,767 --> 00:23:17,800
+Märchen von unsichtbar machenden
+Dingen
+
+451
+00:23:17,900 --> 00:23:21,667
+gibt's auch in unserer Welt,
+zum Beispiel in Sagen um König Artus.
+
+452
+00:23:21,767 --> 00:23:24,767
+Da ist in walisischen Erzählungen
+die Rede von:
+
+453
+00:23:24,867 --> 00:23:27,200
+(Sie liest
+mit schaudernder Stimme vor.)
+
+454
+00:23:27,967 --> 00:23:29,700
+Google-Übersetzer, lies mir vor,
+
+455
+00:23:29,800 --> 00:23:32,367
+wie das richtig auf Walisisch
+ausgesprochen wird.
+
+456
+00:23:32,467 --> 00:23:34,467
+(Computerstimme liest vor.)
+Ja, danke.
+
+457
+00:23:34,567 --> 00:23:36,933
+Es heißt auf Deutsch übersetzt
+so viel wie:
+
+458
+00:23:40,033 --> 00:23:43,700
+Da ist irgendwie schon der Bezug
+zu Heiligtümer des Todes zu erahnen.
+
+459
+00:23:43,800 --> 00:23:46,000
+Und diese Heiligtümer der Insel
+Britannien
+
+460
+00:23:46,100 --> 00:23:48,833
+haben schöne, märchenhafte, magische
+Eigenschaften,
+
+461
+00:23:48,933 --> 00:23:52,100
+die Wünsche erfüllen oder die
+Tapferkeit des Nutzers testen.
+
+462
+00:23:52,200 --> 00:23:55,033
+Unter anderem gibt es zum Beispiel
+einen Schleifstein,
+
+463
+00:23:55,133 --> 00:23:57,800
+der jedes damit geschliffene Schwert
+tödlich macht.
+
+464
+00:23:57,900 --> 00:24:01,667
+Aber wenn du feige bist, wird das
+Schwert niemand auch nur schneiden.
+
+465
+00:24:01,767 --> 00:24:03,700
+Es gibt einen unerschöpflichen Topf,
+
+466
+00:24:03,800 --> 00:24:06,767
+in dem man immer das gewünschte Essen
+findet. Sehr gut.
+
+467
+00:24:06,867 --> 00:24:09,500
+Und es gibt ein Schachbrett
+mit Figuren,
+
+468
+00:24:09,600 --> 00:24:12,767
+die sich selbst bewegen.
+Die Idee ist nicht neu.
+
+469
+00:24:12,867 --> 00:24:17,033
+Eines dieser 13 Heiligtümer ist
+auch ein Tarnumhang von König Artus.
+
+470
+00:24:17,133 --> 00:24:20,000
+Laut der walisischen Sage
+"Culhwch und Olwen"
+
+471
+00:24:20,100 --> 00:24:22,600
+ist es eines der liebsten Dinge,
+die Artus hat,
+
+472
+00:24:22,700 --> 00:24:24,700
+die er nicht an Culhwch
+hergeben will.
+
+473
+00:24:24,800 --> 00:24:27,633
+Zu diesen Dingen
+gehört auch seine eigene Frau, nett.
+
+474
+00:24:27,733 --> 00:24:30,733
+Wobei er den Mantel in der Erzählung
+"Rhonabwys Traum"
+
+475
+00:24:30,833 --> 00:24:33,667
+einfach nur casual als Sitzteppich
+benutzt,
+
+476
+00:24:33,767 --> 00:24:35,767
+um darauf Schach zu spielen.
+
+477
+00:24:35,867 --> 00:24:39,300
+Noch deutlichere Übereinstimmung
+zum Märchen von den drei Brüdern
+
+478
+00:24:39,400 --> 00:24:41,833
+finden wir
+in der griechischen Mythologie.
+
+479
+00:24:41,933 --> 00:24:44,100
+Da gibt es den Gott der Unterwelt,
+Hades,
+
+480
+00:24:44,200 --> 00:24:47,200
+dessen dreiköpfiger Hund,
+Wächter der Unterwelt Zerberus,
+
+481
+00:24:47,300 --> 00:24:49,667
+ja als Fluffy in Harry Potter
+vorkommt.
+
+482
+00:24:49,767 --> 00:24:52,500
+Hades hatte zwei Brüder,
+nämlich Zeus und Poseidon.
+
+483
+00:24:52,600 --> 00:24:55,867
+Und sie haben auch Geschenke bekommen
+und zwar von Zyklopen,
+
+484
+00:24:55,967 --> 00:24:58,000
+um damit gegen die Titanen
+zu kämpfen.
+
+485
+00:24:58,100 --> 00:25:01,900
+Zeus hat Blitz und Donner bekommen,
+Poseidon hat einen Dreizack bekommen
+
+486
+00:25:02,000 --> 00:25:05,567
+und Hades einen Helm, der
+unsichtbar macht, die Hadeskappe.
+
+487
+00:25:05,667 --> 00:25:09,000
+Das ist dem Märchen von den drei
+Brüdern also ziemlich ähnlich.
+
+488
+00:25:09,100 --> 00:25:12,467
+Und als Gott der Unterwelt
+symbolisiert Hades ja auch den Tod.
+
+489
+00:25:12,567 --> 00:25:13,600
+Es sei erwähnt,
+
+490
+00:25:13,700 --> 00:25:17,167
+dass aufgrund von jahrhundertelangem
+Neuerzählen einer Geschichte
+
+491
+00:25:17,267 --> 00:25:20,633
+in verschiedenen Sprachen ein
+Übersetzungskuddelmuddel entsteht,
+
+492
+00:25:20,733 --> 00:25:22,400
+und man nicht sicher sein kann,
+
+493
+00:25:22,500 --> 00:25:25,400
+ob es sich in diesem Märchen
+um eine Kappe, einen Helm,
+
+494
+00:25:25,500 --> 00:25:27,800
+einen Umhang
+oder einen Sitzteppich handelt.
+
+495
+00:25:27,900 --> 00:25:30,567
+Im Englischen gibt es
+das Wort "cape" für "Umhang".
+
+496
+00:25:30,667 --> 00:25:33,333
+Und im Deutschen das Wort "Kappe"
+für, ja, "Kappe".
+
+497
+00:25:33,433 --> 00:25:35,200
+Also eher eine Art Kopfbedeckung.
+
+498
+00:25:35,300 --> 00:25:38,433
+Das leitet sich beides aus dem
+lateinischen Wort "cappa" ab
+
+499
+00:25:38,533 --> 00:25:42,067
+für "Kapuze", die meistens aber
+Teil eines Umhangs war.
+
+500
+00:25:42,167 --> 00:25:44,167
+Im Film Harry Potter
+ist es jedenfalls
+
+501
+00:25:44,267 --> 00:25:47,700
+als braun-grauer Umhang dargestellt,
+völlig ohne Kapuze.
+
+502
+00:25:47,800 --> 00:25:51,500
+Dafür aber mit eingestickten,
+silbernen Symbolen und Sternchen.
+
+503
+00:25:51,600 --> 00:25:54,467
+Das weicht ein wenig
+von der Beschreibung im Buch ab.
+
+504
+00:25:54,567 --> 00:25:55,567
+Da wird gesagt,
+
+505
+00:25:55,667 --> 00:25:59,000
+der Umhang ist fließend silbergrau,
+leuchtend und schillernd.
+
+506
+00:25:59,100 --> 00:26:01,267
+Das passt eher
+auf den silbernen Stoff,
+
+507
+00:26:01,367 --> 00:26:03,467
+in dem der Umhang eingewickelt war.
+
+508
+00:26:03,567 --> 00:26:05,567
+In Wahrheit ist diese Umhangrequisite
+
+509
+00:26:05,667 --> 00:26:07,767
+übrigens auf einer Seite
+quietschegrün,
+
+510
+00:26:07,867 --> 00:26:09,267
+um damit Daniel Radcliffe
+
+511
+00:26:09,367 --> 00:26:12,367
+mittels Greenscreentechnik
+verschwinden zu lassen.
+
+512
+00:26:12,467 --> 00:26:15,133
+Man sieht in der Szene,
+dass er den Umhang auspackt
+
+513
+00:26:15,233 --> 00:26:18,433
+und mit der bräunlichen Seite
+und den Symbolen vor sich hält.
+
+514
+00:26:18,533 --> 00:26:21,200
+Als er ihn anzieht,
+dreht er diese Seite nach innen
+
+515
+00:26:21,300 --> 00:26:24,133
+und die dem Zuschauer
+nicht gezeigte Seite nach außen,
+
+516
+00:26:24,233 --> 00:26:26,000
+die im Film unsichtbar erscheint,
+
+517
+00:26:26,100 --> 00:26:30,167
+in Echt aber auffälliger, gar nicht
+tarnender, neongrüner Stoff ist,
+
+518
+00:26:30,267 --> 00:26:33,133
+der in der Nachbearbeitung
+wegretuschieret wurde.
+
+519
+00:26:33,233 --> 00:26:36,367
+Und es gibt im Film zwei verschiedene
+Tarnumhangrequisiten.
+
+520
+00:26:36,467 --> 00:26:38,067
+Dazu aber später mehr.
+
+521
+00:26:38,167 --> 00:26:41,533
+Denn jetzt muss ich erst mal
+etwas viel Wichtigeres analysieren.
+
+522
+00:26:41,633 --> 00:26:43,933
+Als Harry unsichtbar wird,
+können wir sehen,
+
+523
+00:26:44,033 --> 00:26:46,967
+was hinter ihm im
+Gryffindor-Gemeinschaftsraum ist,
+
+524
+00:26:47,067 --> 00:26:48,333
+nämlich eine Pinnwand.
+
+525
+00:26:48,433 --> 00:26:51,933
+Da hängen Notizen, gemalte Bilder,
+Listen, Grußkarten
+
+526
+00:26:52,033 --> 00:26:53,133
+und sonstige Sachen,
+
+527
+00:26:53,233 --> 00:26:56,200
+die die Gryffindors
+mit der Allgemeinheit teilen wollen.
+
+528
+00:26:56,300 --> 00:26:59,600
+Da jetzt Weihnachten ist,
+sind dort viele selbstgemalte Bilder
+
+529
+00:26:59,700 --> 00:27:03,033
+mit Schneemännern, Weihnachtsmännern,
+grünen Weihnachtsbäumchen
+
+530
+00:27:03,133 --> 00:27:06,067
+und goldenen Sternen und ...
+Hey, Moment mal.
+
+531
+00:27:06,167 --> 00:27:09,667
+Das sind exakt die gleichen Bilder,
+die vorhin im Jungenschlafsaal
+
+532
+00:27:09,767 --> 00:27:12,333
+an der Girlande neben Harrys Bett
+gehangen haben.
+
+533
+00:27:12,433 --> 00:27:14,367
+Da war das Dekoteam wohl schlampig.
+
+534
+00:27:14,467 --> 00:27:16,967
+Hatte keine Lust,
+sich neue Bilder auszudenken
+
+535
+00:27:17,067 --> 00:27:21,933
+und hat dieselben Kinderzeichnungen
+für diese Szene einfach recycelt.
+
+536
+00:27:22,033 --> 00:27:24,933
+Und bei einem Bild von einem goldenen
+Stern dachte ich:
+
+537
+00:27:25,033 --> 00:27:27,500
+"So hab ich als Kind auch immer
+Sterne gemalt."
+
+538
+00:27:27,600 --> 00:27:31,067
+"Zwei Dreiecke übereinander."
+Ist ja ein jüdisches Glaubenssymbol.
+
+539
+00:27:31,167 --> 00:27:33,533
+Ist nicht genug gefocused,
+um es zu erkennen.
+
+540
+00:27:33,633 --> 00:27:35,567
+Aber es könnte ein Davidsstern sein.
+
+541
+00:27:35,667 --> 00:27:39,200
+Vielleicht feiert ein Kind statt
+Weihnachten das jüdische Chanukka.
+
+542
+00:27:39,300 --> 00:27:41,467
+Laut einem Tweet von J.K. Rowling
+
+543
+00:27:41,567 --> 00:27:44,867
+gibt es zumindest
+einen Juden in Hogwarts
+
+544
+00:27:44,967 --> 00:27:48,400
+namens Anthony Goldstein,
+der ist Ravenclaw.
+
+545
+00:27:48,500 --> 00:27:50,633
+Natürlich wieder
+so nachträglich erwähnt.
+
+546
+00:27:50,733 --> 00:27:53,700
+Das steht nirgendwo in den Büchern,
+dass er jüdisch ist.
+
+547
+00:27:53,800 --> 00:27:55,867
+Er kommt erst
+ab dem fünften Buch vor,
+
+548
+00:27:55,967 --> 00:27:57,833
+wo er Dumbledores Armee beitritt.
+
+549
+00:27:57,933 --> 00:28:00,433
+In einem anderen Tweet
+erläutert J.K. Rowling,
+
+550
+00:28:00,533 --> 00:28:03,200
+dass er weder der erste,
+noch der einzige Jude ist.
+
+551
+00:28:03,300 --> 00:28:05,700
+Aber über ihn weiß sie am meisten,
+
+552
+00:28:05,800 --> 00:28:08,433
+denn er ist einer
+von 40 besonderen Figuren.
+
+553
+00:28:08,533 --> 00:28:11,200
+"The Original Forty",
+so heißt ein Text von ihr,
+
+554
+00:28:11,300 --> 00:28:13,767
+der damals auf Pottermore
+veröffentlicht wurde.
+
+555
+00:28:13,867 --> 00:28:15,333
+Darin ist eine Namensliste,
+
+556
+00:28:15,433 --> 00:28:18,767
+die sie sich, ehe sie die Bücher
+geschrieben hat, ausdachte.
+
+557
+00:28:18,867 --> 00:28:23,100
+Diese Namen hat sie ursprünglich
+in ein altes Notizbuch geschrieben,
+
+558
+00:28:23,200 --> 00:28:26,333
+das sie einmal in einer
+BBC-Doku, "Harry Potter and Me",
+
+559
+00:28:26,433 --> 00:28:27,667
+gezeigt hat.
+
+560
+00:28:27,767 --> 00:28:30,067
+In diesem Notizbuch
+sieht man unter anderem
+
+561
+00:28:30,167 --> 00:28:33,067
+den Namen Anthony Goldst- ... ein.
+
+562
+00:28:33,167 --> 00:28:36,233
+Das, was nach dem "st" kommt,
+wurde durchgekrickelt.
+
+563
+00:28:36,333 --> 00:28:39,100
+Das "ein" wurde nachträglich
+mit einem anderen Stift
+
+564
+00:28:39,200 --> 00:28:41,367
+in einer anderen Farbe
+drübergeschrieben.
+
+565
+00:28:41,467 --> 00:28:43,600
+Und apropos wie ein Kind
+Sternchen malen:
+
+566
+00:28:43,700 --> 00:28:46,467
+Sie hat kleine Symbole
+hinter die Namen gezeichnet.
+
+567
+00:28:46,567 --> 00:28:50,367
+Und bei seinem Namen
+ist auch ein kleiner Davidstern.
+
+568
+00:28:50,467 --> 00:28:53,300
+Allerdings ist dieser Stern
+auch bei Crabbe und Goyle
+
+569
+00:28:53,400 --> 00:28:57,200
+und beim kleinen Seamus Finnigan
+und bei Mandy Brocklehurst.
+
+570
+00:28:57,300 --> 00:29:00,533
+Dann hat sie noch Buchstaben,
+Vierecke und Kreise dazugemalt.
+
+571
+00:29:00,633 --> 00:29:02,100
+Die Erklärung dafür ist:
+
+572
+00:29:02,200 --> 00:29:04,367
+Vierecke sind Jungs,
+Kreise sind Mädchen.
+
+573
+00:29:04,467 --> 00:29:07,300
+Die Buchstaben sind Abkürzungen
+für das Hogwarts-Haus,
+
+574
+00:29:07,400 --> 00:29:09,400
+"G" für Gryffindor,
+"S" für Slytherin,
+
+575
+00:29:09,500 --> 00:29:11,500
+"R" für Ravenclaw,
+"H" für Hufflepuff.
+
+576
+00:29:11,600 --> 00:29:13,633
+Das Sternchen
+steht nicht für Religion.
+
+577
+00:29:13,733 --> 00:29:16,800
+Das ist die Art, wie J.K. Rowling
+magische Sternchen malt.
+
+578
+00:29:16,900 --> 00:29:20,933
+Es kennzeichnet den Blutstatus,
+die magische Reinblütigkeit.
+
+579
+00:29:21,033 --> 00:29:24,200
+Bei Hermine ist zum Beispiel
+kein Sternchen, da ist ein "N".
+
+580
+00:29:24,300 --> 00:29:26,200
+Steht vielleicht für "nonmagical".
+
+581
+00:29:26,300 --> 00:29:29,867
+Denn ihre Eltern sind ja Muggel
+und somit nicht magisch.
+
+582
+00:29:29,967 --> 00:29:32,600
+Reinblüter, also Kinder
+mit zwei magischen Eltern,
+
+583
+00:29:32,700 --> 00:29:35,367
+hat sie mit einem umrandeten Stern
+gekennzeichnet,
+
+584
+00:29:35,467 --> 00:29:37,067
+zum Beispiel Crabbe und Goyle.
+
+585
+00:29:37,167 --> 00:29:39,633
+Bei Halbblütern,
+wo ein Elternteil magisch ist,
+
+586
+00:29:39,733 --> 00:29:41,500
+gibt es einen Stern ohne Kreis.
+
+587
+00:29:41,600 --> 00:29:43,900
+Seamus Finnigan
+war anscheinend ursprünglich
+
+588
+00:29:44,000 --> 00:29:45,567
+als Reinblüter geplant.
+
+589
+00:29:45,667 --> 00:29:49,067
+Er sagt aber am Anfang des Films
+beim Essen in der Großen Halle:
+
+590
+00:29:49,167 --> 00:29:52,167
+"Mein Dad ist ein Muggel,
+meine Mum eine Hexe."
+
+591
+00:29:52,267 --> 00:29:56,167
+Da hat J.K. Rowling im Notizbuch
+den Kreis um den Stern weggekrickelt.
+
+592
+00:29:56,267 --> 00:30:00,267
+"Das ist doch ein Halbblüter. Das hab
+ich mir von Anfang an so gedacht."
+
+593
+00:30:00,367 --> 00:30:03,467
+Also, ab und zu hat J.K. Rowling
+ihre Idee geändert.
+
+594
+00:30:03,567 --> 00:30:06,033
+Es gab zwar von Anfang an
+diese Liste.
+
+595
+00:30:06,133 --> 00:30:09,233
+Anthony Goldst- ... ein
+war von Anfang an dabei,
+
+596
+00:30:09,333 --> 00:30:12,667
+obwohl er nicht immer Goldstein hieß.
+Sein Name wurde geändert.
+
+597
+00:30:12,767 --> 00:30:15,167
+Das Sternchen hat nichts
+mit Religion zu tun.
+
+598
+00:30:15,267 --> 00:30:17,567
+Als Haus ist "H"
+für Hufflepuff angegeben.
+
+599
+00:30:17,667 --> 00:30:19,933
+In ihrem Tweet sagt sie,
+er wäre Ravenclaw.
+
+600
+00:30:20,033 --> 00:30:21,867
+J.K. Rowling hat echt tolle Ideen,
+
+601
+00:30:21,967 --> 00:30:24,533
+die sie im Laufe der Zeit
+etwas weiterentwickelt.
+
+602
+00:30:24,633 --> 00:30:25,967
+Die stehen nicht im Buch.
+
+603
+00:30:26,067 --> 00:30:30,000
+Aber in ihrem Kopf existiert so viel,
+was wir noch nicht wissen.
+
+604
+00:30:30,100 --> 00:30:32,800
+Hermine Granger zum Beispiel
+ist nur mit Bleistift
+
+605
+00:30:32,900 --> 00:30:35,667
+nachträglich zwischen die Zeilen
+geschrieben worden,
+
+606
+00:30:35,767 --> 00:30:39,167
+da sie erst nicht Granger
+mit Nachnamen hieß, sondern "Puckle".
+
+607
+00:30:39,267 --> 00:30:42,433
+Das ist grad so zu sehen
+auf der nächsten Seite der Notizen.
+
+608
+00:30:42,533 --> 00:30:45,733
+Der Name "Puckle" wurde gestrichen
+und mit "Granger" ersetzt.
+
+609
+00:30:45,833 --> 00:30:50,000
+Dann gibt es als Namen aber noch in
+dieser besonderen Liste Tracey Davis.
+
+610
+00:30:50,100 --> 00:30:52,367
+Diese Person
+kommt nie in den Büchern vor,
+
+611
+00:30:52,467 --> 00:30:54,100
+ist aber anscheinend Slytherin
+
+612
+00:30:54,200 --> 00:30:57,900
+und hat als Blutstatus ein
+umgedrehtes Pentagramm als Sternchen.
+
+613
+00:30:58,000 --> 00:31:00,133
+(erschrocken:)
+Was hat's damit auf sich?
+
+614
+00:31:00,233 --> 00:31:02,033
+Ist Tracey eine echte Satanistin?
+
+615
+00:31:02,133 --> 00:31:05,467
+Oder hat J.K. Rowling die Art,
+wie sie Sterne malt, verbessert?
+
+616
+00:31:05,567 --> 00:31:08,800
+In der Zeit, wo sie Kugelschreiber
+gewechselt hat. Wer weiß?
+
+617
+00:31:08,900 --> 00:31:11,867
+Ist sowieso die Frage.
+Ist Religion in Hogwarts wichtig?
+
+618
+00:31:11,967 --> 00:31:13,533
+Okay, es gibt ein paar Juden.
+
+619
+00:31:13,633 --> 00:31:17,067
+Aber sind die gläubige Christen,
+nur weil sie Weihnachten feiern?
+
+620
+00:31:17,167 --> 00:31:19,633
+Glauben Zauberer an Gott,
+wenn es Magie gibt?
+
+621
+00:31:19,733 --> 00:31:22,733
+Müssten sie nicht eher Wicca
+oder pagan oder so was sein?
+
+622
+00:31:22,833 --> 00:31:25,700
+Wisst ihr, was ich glaube?
+Wisst ihr, was ich glaube!?
+
+623
+00:31:25,800 --> 00:31:27,900
+Ich glaube,
+dass das Bild im Hintergrund
+
+624
+00:31:28,000 --> 00:31:31,067
+hinter Harry an der Pinnwand
+keine religiöse Bedeutung hat
+
+625
+00:31:31,167 --> 00:31:34,667
+und einfach nur eine gewöhnliche
+Kinderzeichnung eines Sterns ist.
+
+626
+00:31:34,767 --> 00:31:38,500
+Weil diese Art von Stern aus
+Dreiecken einfach zu zeichnen ist.
+
+627
+00:31:38,600 --> 00:31:42,433
+So, die Weihnachtsstimmung
+ist vorbei. Jetzt wird's mysteriös.
+
+628
+00:31:42,533 --> 00:31:46,333
+Harry und Ron fragen sich, was das
+für ein Umhang ist, von wem er kommt.
+
+629
+00:31:46,433 --> 00:31:48,833
+Ich liebe den Soundtrack,
+der dabei läuft.
+
+630
+00:31:48,933 --> 00:31:51,667
+Zuerst war's
+eine unbeschwerte Weihnachtsmusik.
+
+631
+00:31:51,767 --> 00:31:54,300
+# Dü-dü-dü-dü-dü-dü-dü.
+
+632
+00:31:54,400 --> 00:31:55,967
+Sobald Harry unsichtbar wird,
+
+633
+00:31:56,067 --> 00:31:59,433
+geht es über
+in gruselige sphärische Klänge,
+
+634
+00:31:59,533 --> 00:32:03,767
+als wenn weit entfernte Winde
+durch düstere Katakomben wehen.
+
+635
+00:32:03,867 --> 00:32:06,867
+Kurz darauf begibt sich Harry
+auch in düstere Katakomben.
+
+636
+00:32:06,967 --> 00:32:09,267
+Wir sind in der nächsten Szene
+an einem Ort,
+
+637
+00:32:09,367 --> 00:32:10,933
+bei dem wir noch nicht waren.
+
+638
+00:32:11,033 --> 00:32:14,400
+Es ist dunkel, nur ein wenig
+Mondlicht scheint durch die Fenster
+
+639
+00:32:14,500 --> 00:32:16,300
+und beleuchtet alte Bücherregale.
+
+640
+00:32:16,400 --> 00:32:18,733
+Wir befinden uns
+in der Hogwarts-Bibliothek,
+
+641
+00:32:18,833 --> 00:32:22,967
+durch die nun eine einzelne Hand
+schwebt, die eine Laterne trägt.
+
+642
+00:32:23,067 --> 00:32:24,700
+Die Laterne ist die gleiche,
+
+643
+00:32:24,800 --> 00:32:27,667
+die auf der Kommode
+neben Harrys Bett gestanden hat.
+
+644
+00:32:27,767 --> 00:32:31,633
+Und die Hand gehört natürlich Harry,
+der den Umhang nicht klug gebraucht.
+
+645
+00:32:31,733 --> 00:32:33,767
+Denn er ist alles andere als getarnt,
+
+646
+00:32:33,867 --> 00:32:37,933
+weil er eine hell leuchtende Laterne
+außerhalb des Umhangs vor sich trägt.
+
+647
+00:32:38,033 --> 00:32:40,700
+Was sollen die Lehrer denken,
+wenn sie das sehen?
+
+648
+00:32:40,800 --> 00:32:42,200
+"Schleicht da wer herum?"
+
+649
+00:32:42,300 --> 00:32:44,900
+"Ach, nur eine schwebende Laterne
+mit Hand dran."
+
+650
+00:32:45,000 --> 00:32:47,267
+"Alles klar, keine Kinder hier, bye!"
+
+651
+00:32:47,367 --> 00:32:50,633
+Harry, ich hab's extra
+aufgeschrieben, gebrauche ihn klug!
+
+652
+00:32:50,733 --> 00:32:53,267
+Das, was du machst,
+ist das Gegenteil von klug!
+
+653
+00:32:53,367 --> 00:32:56,300
+Anscheinend dringt Licht
+ja nicht aus dem Umhang hervor,
+
+654
+00:32:56,400 --> 00:32:59,733
+sonst hätte Harry die Lampe
+mit unter den Mantel nehmen können.
+
+655
+00:32:59,833 --> 00:33:02,267
+Aber alles darunter
+bleibt der Welt verborgen,
+
+656
+00:33:02,367 --> 00:33:04,467
+sowohl Personen,
+als auch Lichtstrahlen.
+
+657
+00:33:04,567 --> 00:33:06,667
+Licht ist in dieser Szene
+so eine Sache,
+
+658
+00:33:06,767 --> 00:33:08,900
+denn diese Laterne
+ist nur eine Requisite
+
+659
+00:33:09,000 --> 00:33:12,200
+mit einer kleinen LED-Leuchte.
+Es ist keine echte Kerze drin.
+
+660
+00:33:12,300 --> 00:33:14,633
+An diesem Drehort,
+an dem wir uns befinden,
+
+661
+00:33:14,733 --> 00:33:17,433
+ist jegliches Feuer
+strengstens verboten.
+
+662
+00:33:17,533 --> 00:33:19,900
+Es ist kein Filmset
+wie bei Dumbledores Büro,
+
+663
+00:33:20,000 --> 00:33:22,333
+wo alle Bücher
+recycelte Telefonbücher sind,
+
+664
+00:33:22,433 --> 00:33:25,567
+die umgebastelt wurden,
+damit sie aussehen wie alte Bücher.
+
+665
+00:33:25,667 --> 00:33:28,167
+Das hier
+ist eine echte uralte Bibliothek
+
+666
+00:33:28,267 --> 00:33:32,000
+mit so ziemlich den ältesten Büchern,
+die's in England gibt.
+
+667
+00:33:32,100 --> 00:33:36,600
+Die Duke Humphrey's Library,
+die Teil der Bodleian Library ist,
+
+668
+00:33:36,700 --> 00:33:40,300
+und das ist die Hauptbibliothek
+der Universität Oxford.
+
+669
+00:33:40,400 --> 00:33:44,300
+Diese Ecke, in der gedreht wurde, ist
+der älteste Lesesaal der Bibliothek,
+
+670
+00:33:44,400 --> 00:33:48,567
+von dem einige Bereiche
+schon 1487 gebaut wurden.
+
+671
+00:33:48,667 --> 00:33:51,567
+Duke Humphrey, nach dem
+diese Bibliothek benannt wurde,
+
+672
+00:33:51,667 --> 00:33:54,633
+war der vierte Sohn
+von König Heinrich IV. von England.
+
+673
+00:33:54,733 --> 00:33:57,000
+Und er war
+ein mittelalterlicher Bücherwurm
+
+674
+00:33:57,100 --> 00:34:01,033
+und hat der Universität Oxford
+nach seinem Tod im Jahre 1447
+
+675
+00:34:01,133 --> 00:34:05,033
+all seine Bücher vermacht.
+Mehr als 250.
+
+676
+00:34:05,133 --> 00:34:07,767
+Was eine unfassbar
+großzügige Spende war,
+
+677
+00:34:07,867 --> 00:34:11,100
+denn die Universität
+hatte damals selbst nur 20 Bücher.
+
+678
+00:34:11,200 --> 00:34:14,367
+Und falls Sie, werter Zuhörer,
+jetzt denken:
+
+679
+00:34:16,867 --> 00:34:18,133
+Herzlichen Glückwunsch!
+
+680
+00:34:18,233 --> 00:34:20,067
+Nach mittelalterlichem Standard
+
+681
+00:34:20,167 --> 00:34:23,533
+sind Sie extrem belesen
+und extrem reich.
+
+682
+00:34:23,633 --> 00:34:27,500
+Vor 500 Jahren war Lesen und
+Schreiben nichts, das jeder konnte.
+
+683
+00:34:27,600 --> 00:34:30,433
+Jedes Buch
+wurde einzeln von Hand geschrieben.
+
+684
+00:34:30,533 --> 00:34:33,633
+Vielleicht sogar kunstvoll
+mit Bildern bemalt und gebunden.
+
+685
+00:34:33,733 --> 00:34:36,133
+Das war eine richtig aufwendige,
+lange Arbeit,
+
+686
+00:34:36,233 --> 00:34:37,833
+überhaupt ein Buch zu machen.
+
+687
+00:34:37,933 --> 00:34:40,400
+Es war so viel wert
+wie ein Jahresgehalt.
+
+688
+00:34:40,500 --> 00:34:42,533
+Für diese Spende
+von so vielen Büchern,
+
+689
+00:34:42,633 --> 00:34:46,033
+musste eine Bibliothek gebaut werden.
+Hat nicht lang gehalten.
+
+690
+00:34:46,133 --> 00:34:49,833
+Die Bücher wurden im 16. Jahrhundert
+alle größtenteils zerstört.
+
+691
+00:34:49,933 --> 00:34:54,700
+Von den damaligen über 250
+gibt es heute nur noch drei Stück.
+
+692
+00:34:54,800 --> 00:34:56,800
+Glücklicherweise wurde die Bibliothek
+
+693
+00:34:56,900 --> 00:34:59,967
+1602 von Sir Thomas Bodley
+neu gegründet,
+
+694
+00:35:00,067 --> 00:35:02,767
+mit einer neuen,
+noch größeren Buchspende von ihm.
+
+695
+00:35:02,867 --> 00:35:05,167
+Deswegen heißt sie
+jetzt "Bodleian Library".
+
+696
+00:35:05,267 --> 00:35:09,533
+Aber ein Teil dieser Bibliothek
+ist dem guten Duke Humphrey gewidmet.
+
+697
+00:35:09,633 --> 00:35:11,900
+Weil sie
+so schön mittelalterlich aussieht,
+
+698
+00:35:12,000 --> 00:35:14,033
+stellt sie
+die Hogwarts-Bibliothek dar.
+
+699
+00:35:14,133 --> 00:35:16,767
+Hogwarts ist ja
+ein jahrhundertealtes Schloss.
+
+700
+00:35:18,067 --> 00:35:21,000
+Duke Humphreys Frau,
+die Herzogin Eleanor Cobham,
+
+701
+00:35:21,100 --> 00:35:24,833
+wurde als Hexe verurteilt und musste
+dreimal barfuß durch London gehen.
+
+702
+00:35:24,933 --> 00:35:28,167
+Warum? Nun, falls Sie,
+werter Zuhörer,
+
+703
+00:35:28,267 --> 00:35:30,133
+einmal Kosmetik benutzt haben
+
+704
+00:35:30,233 --> 00:35:33,700
+oder engen Kontakt hegen zu jemandem,
+der Kosmetik herstellt:
+
+705
+00:35:33,800 --> 00:35:35,200
+Herzlichen Glückwunsch!
+
+706
+00:35:35,300 --> 00:35:38,333
+Das ist ein Grund,
+der Hexerei bezichtigt zu werden.
+
+707
+00:35:38,433 --> 00:35:42,033
+Denn Sie verachten dadurch, dass Sie
+Schönheitszaubermittel benutzen
+
+708
+00:35:42,133 --> 00:35:43,800
+den göttlichen Schöpfungsakt.
+
+709
+00:35:43,900 --> 00:35:45,533
+Sie benutzen Liebeszauber,
+
+710
+00:35:45,633 --> 00:35:48,133
+um die Gunst von Männern mit Rang
+zu ergattern
+
+711
+00:35:48,233 --> 00:35:52,233
+und sind somit eindeutig eine Hexe,
+die Hochverrat am König begeht.
+
+712
+00:35:52,333 --> 00:35:55,800
+Wenn Sie hohen Stand haben,
+können Sie den Bußgang gehen.
+
+713
+00:35:55,900 --> 00:35:59,700
+Wenn nicht werden Sie öffentlich
+zur Belustigung des Volkes verbrannt.
+
+714
+00:35:59,800 --> 00:36:01,567
+(Böses Lachen)
+
+715
+00:36:01,667 --> 00:36:06,333
+Das ist wirklich ein "Fun Fact".
+Witzige Zeit das Mittelalter.
+
+716
+00:36:07,000 --> 00:36:08,600
+Tja, aber in diese Bibliothek,
+
+717
+00:36:08,700 --> 00:36:11,233
+benannt nach besonderen Leuten
+mit Hexenkontakt,
+
+718
+00:36:11,333 --> 00:36:13,067
+kommt man nicht so einfach rein.
+
+719
+00:36:13,167 --> 00:36:16,733
+Harry schleicht ja umher, da er
+in die Verbotene Abteilung will.
+
+720
+00:36:16,833 --> 00:36:18,133
+Und die Bodleian Library
+
+721
+00:36:18,233 --> 00:36:21,067
+ist tatsächlich so etwas
+wie eine verbotene Abteilung.
+
+722
+00:36:21,167 --> 00:36:24,967
+Man darf kein Buch ausleihen und nur
+unter bestimmten Bedingungen lesen.
+
+723
+00:36:25,067 --> 00:36:28,700
+Man muss, bevor man in die Bibliothek
+darf, einen Eid aufsagen,
+
+724
+00:36:28,800 --> 00:36:30,367
+in dem man feierlich schwört,
+
+725
+00:36:30,467 --> 00:36:32,867
+dass man kein Buch
+wegnimmt oder verschandelt.
+
+726
+00:36:32,967 --> 00:36:35,267
+Dass man weder Feuer,
+noch Flamme mitbringt.
+
+727
+00:36:35,367 --> 00:36:38,200
+Dass man nicht raucht
+und den Bibliotheksregeln folgt.
+
+728
+00:36:38,300 --> 00:36:40,933
+Dieser Eid wird
+seit Jahrhunderten so aufgesagt,
+
+729
+00:36:41,033 --> 00:36:43,267
+ist in über 100 Sprachen
+übersetzt worden,
+
+730
+00:36:43,367 --> 00:36:46,667
+und man kann ihn vor Ort
+in seiner eigenen Sprache aufsagen.
+
+731
+00:36:46,767 --> 00:36:49,967
+Oder für ein paar Pfund als Tasche,
+Lesezeichen oder Handtuch
+
+732
+00:36:50,067 --> 00:36:51,300
+im Shop kaufen.
+
+733
+00:36:51,400 --> 00:36:53,533
+Falls Sie, werter Zuhörer,
+jetzt denken:
+
+734
+00:36:53,633 --> 00:36:55,633
+"Natürlich mach ich
+kein Buch kaputt!"
+
+735
+00:36:55,733 --> 00:36:58,233
+"Wer bringt Feuer
+in eine Bibliothek? Albern!"
+
+736
+00:36:58,333 --> 00:37:00,667
+Aber diese Bücher
+sind so unfassbar alt,
+
+737
+00:37:00,767 --> 00:37:02,933
+man hatte solche Angst
+vor einem Brand,
+
+738
+00:37:03,033 --> 00:37:06,267
+dass es bis in die 30er-Jahre
+nicht mal Beleuchtung gab.
+
+739
+00:37:06,367 --> 00:37:09,433
+Man musste vor dem Fenster sitzen,
+wenn man lesen wollte,
+
+740
+00:37:09,533 --> 00:37:12,200
+weil man solche Angst hatte,
+dass etwas schiefgeht.
+
+741
+00:37:12,300 --> 00:37:14,867
+Eine Lampe brennt durch,
+die Elektrizität spinnt,
+
+742
+00:37:14,967 --> 00:37:17,900
+ein Fünkchen springt
+auf die staubtrockenen Manuskripte
+
+743
+00:37:18,000 --> 00:37:20,033
+und die ganze Bude
+geht in Flammen auf.
+
+744
+00:37:20,133 --> 00:37:21,800
+Heute ist das natürlich anders.
+
+745
+00:37:21,900 --> 00:37:25,500
+Es gibt moderne LED-Beleuchtung
+mit so wenig Kabelsalat wie möglich.
+
+746
+00:37:25,600 --> 00:37:28,300
+Man nimmt diesen Eid
+trotzdem noch sehr ernst
+
+747
+00:37:28,400 --> 00:37:31,367
+und deshalb ist auch Harrys Laterne
+ohne echte Flamme.
+
+748
+00:37:31,467 --> 00:37:34,300
+Dass man überhaupt
+in dieser Bibliothek drehen durfte,
+
+749
+00:37:34,400 --> 00:37:38,067
+war eine große Verantwortung
+und es hat eine Menge Geld gekostet.
+
+750
+00:37:38,167 --> 00:37:40,367
+Die Bücher
+sind teils Jahrhunderte alt
+
+751
+00:37:40,467 --> 00:37:41,967
+und müssen geschützt werden.
+
+752
+00:37:42,067 --> 00:37:45,700
+Die Ansicht wechselt, wir sehen
+nicht mehr die Laterne mit Hand dran,
+
+753
+00:37:45,800 --> 00:37:47,700
+sondern Harry unter dem Tarnumhang,
+
+754
+00:37:47,800 --> 00:37:50,033
+der sich zaghaft
+in der Bücherei umschaut.
+
+755
+00:37:50,133 --> 00:37:53,833
+Hier haben wir die zweite Version
+der Tarnumhang-Requisite.
+
+756
+00:37:53,933 --> 00:37:56,533
+Die erste war vorhin
+auf einer Seite braun-grau
+
+757
+00:37:56,633 --> 00:37:59,767
+und auf der anderen Seite grün
+für die Nachbearbeitung,
+
+758
+00:37:59,867 --> 00:38:04,067
+die dafür sorgt, dass Teile von ihm
+für den Zuschauer unsichtbar werden.
+
+759
+00:38:04,167 --> 00:38:06,633
+Die Version, die er jetzt trägt,
+ist dafür da,
+
+760
+00:38:06,733 --> 00:38:10,533
+dass wir als Zuschauer zusammen
+mit Harry unsichtbar werden.
+
+761
+00:38:10,633 --> 00:38:14,767
+Der Stoff ist ganz leicht und nahezu
+durchsichtig wie ein Seidentuch
+
+762
+00:38:14,867 --> 00:38:17,300
+und hängt auch teilweise
+über der Kamera.
+
+763
+00:38:17,400 --> 00:38:19,533
+So entsteht
+beim Zuschauer der Eindruck,
+
+764
+00:38:19,633 --> 00:38:22,900
+man wäre selbst unter dem Tarnumhang
+und guckt heraus.
+
+765
+00:38:23,000 --> 00:38:26,233
+Durch den durchsichtigen Stoff
+kann Harry sich gut umschauen,
+
+766
+00:38:26,333 --> 00:38:28,700
+weiß aber nicht recht,
+wonach er suchen soll,
+
+767
+00:38:28,800 --> 00:38:31,600
+bis er etwas entdeckt
+und reißt die Augen auf.
+
+768
+00:38:31,700 --> 00:38:33,733
+Vor ihm ist eine hölzerne Absperrung
+
+769
+00:38:33,833 --> 00:38:37,133
+und darüber ein Schild
+mit dem Wort "Restricted".
+
+770
+00:38:37,233 --> 00:38:39,400
+(erschrocken:)
+Die Verbotene Abteilung.
+
+771
+00:38:39,500 --> 00:38:41,433
+"Restricted" heißt nicht "verboten".
+
+772
+00:38:41,533 --> 00:38:43,633
+Das würde bedeuten,
+man darf nicht rein.
+
+773
+00:38:43,733 --> 00:38:45,467
+"Restricted" heißt "beschränkt".
+
+774
+00:38:45,567 --> 00:38:48,967
+Man kommt nicht einfach rein,
+man muss Voraussetzungen erfüllen.
+
+775
+00:38:49,067 --> 00:38:52,300
+Harry muss keinen Eid aufsagen,
+kein Feuer mitzubringen.
+
+776
+00:38:52,400 --> 00:38:53,600
+In Hogwarts ist es so,
+
+777
+00:38:53,700 --> 00:38:57,267
+dass du als Schüler schon diese
+Bücher ausleihen und lesen darfst.
+
+778
+00:38:57,367 --> 00:39:00,467
+Aber du musst vorher
+eine Genehmigung eines Lehrers haben.
+
+779
+00:39:00,567 --> 00:39:04,400
+Denn die Bücher darin behandeln oft
+böse, schwarzmagische Themen,
+
+780
+00:39:04,500 --> 00:39:07,100
+die in Hogwarts
+eigentlich nicht gelehrt werden.
+
+781
+00:39:07,200 --> 00:39:10,767
+Man darf nur mit Erlaubnis rein,
+aber es ist nicht verboten.
+
+782
+00:39:10,867 --> 00:39:12,400
+"Die Beschränkte Abteilung."
+
+783
+00:39:12,500 --> 00:39:16,967
+Klingt definitiv viel unspektakulärer
+als "Die Verbotene Abteilung".
+
+784
+00:39:17,067 --> 00:39:20,433
+Daher kann ich das verstehen,
+dass es abgeändert wurde.
+
+785
+00:39:20,533 --> 00:39:24,267
+Die einzigen Bücher, die wirklich
+verboten sind, sind über Horkruxe.
+
+786
+00:39:24,367 --> 00:39:28,067
+Tom Riddle alias Lord Voldemort
+hatte sich in seiner Schulzeit
+
+787
+00:39:28,167 --> 00:39:30,167
+ungewöhnlich
+stark dafür interessiert.
+
+788
+00:39:30,267 --> 00:39:31,700
+Nicht nur für die Theorie,
+
+789
+00:39:31,800 --> 00:39:34,733
+sondern für das aktive Erschaffen
+von Horkruxen,
+
+790
+00:39:34,833 --> 00:39:37,700
+was ihm durch diverse Morde
+gelungen ist.
+
+791
+00:39:37,800 --> 00:39:41,567
+Daher hat Dumbledore alle Bücher
+darüber aus der Bibliothek entfernt.
+
+792
+00:39:41,667 --> 00:39:43,067
+Diese hölzerne Absperrung,
+
+793
+00:39:43,167 --> 00:39:46,100
+die die normale Bibliothek
+von der Verbotenen Abteilung
+
+794
+00:39:46,200 --> 00:39:48,133
+mit schwarzmagischen Büchern trennt,
+
+795
+00:39:48,233 --> 00:39:50,500
+ist nicht
+mit Sicherheitszaubern geschützt,
+
+796
+00:39:50,600 --> 00:39:52,700
+damit Kinder
+nicht einfach so reingehen.
+
+797
+00:39:52,800 --> 00:39:55,267
+Ist nicht mal
+per Schlüssel abgeschlossen.
+
+798
+00:39:55,367 --> 00:39:58,367
+Sondern es hat einen Schubriegel
+wie ein Kaninchenstall.
+
+799
+00:39:58,467 --> 00:40:00,433
+Den zieht Harry einfach zur Seite
+
+800
+00:40:00,600 --> 00:40:03,067
+und schon ist
+er in einer verbotenen Abteilung,
+
+801
+00:40:03,200 --> 00:40:06,200
+die wir durch den durchsichtigen
+Schleier des Tarnumhangs
+
+802
+00:40:06,333 --> 00:40:08,533
+verschwommen im Mondlicht
+sehen können.
+
+803
+00:40:08,667 --> 00:40:11,367
+Die vollkommen unverdächtige
+Kinderhand mit Laterne
+
+804
+00:40:11,500 --> 00:40:13,133
+schwebt durch die Regalreihen.
+
+805
+00:40:13,267 --> 00:40:15,433
+Dabei hören wir Harrys Geflüster.
+
+806
+00:40:15,567 --> 00:40:19,000
+"'Flüche und Gegenflüche',
+'Fakire des 15. Jahrhunderts'".
+
+807
+00:40:19,133 --> 00:40:21,267
+"Wo bist du, 'Flamel'?"
+
+808
+00:40:21,400 --> 00:40:24,933
+Er scheint also bei einem Regal
+angekommen zu sein mit Büchern,
+
+809
+00:40:25,067 --> 00:40:26,100
+die mit F beginnen.
+
+810
+00:40:26,233 --> 00:40:28,767
+Auf Englisch sagt er
+aber ganz andere Buchtitel.
+
+811
+00:40:28,900 --> 00:40:32,333
+"'Famous Fire-Eaters',
+'Fifteenth-Century Fiends'",
+
+812
+00:40:32,467 --> 00:40:36,467
+also "Berühmte Feuerschlucker",
+"Feinde aus dem 15. Jahrhundert",
+
+813
+00:40:36,600 --> 00:40:39,600
+das hätte man auf Deutsch ja
+eigentlich so lassen können.
+
+814
+00:40:39,733 --> 00:40:42,000
+Man muss nicht
+auf Lippenbewegungen achten,
+
+815
+00:40:42,133 --> 00:40:44,000
+weil Harrys Lippen unsichtbar sind.
+
+816
+00:40:44,133 --> 00:40:46,000
+Vielleicht hat sich jemand gedacht:
+
+817
+00:40:46,133 --> 00:40:49,600
+"'Feuerschlucker'? Das macht keinen
+Sinn, das ist nicht gruselig."
+
+818
+00:40:49,733 --> 00:40:53,333
+"Das ist die verbotene Abteilung,
+die ich selber so übersetzt habe."
+
+819
+00:40:53,467 --> 00:40:57,400
+"Da muss was mit Flüchen stehen,
+ich als Übersetzer ändere das."
+
+820
+00:40:57,533 --> 00:41:00,467
+Harry geht die Regalreihe
+weiter entlang, hat vergessen,
+
+821
+00:41:00,600 --> 00:41:03,800
+dass er den Tarnumhang klug
+gebrauchen soll, nimmt ihn ab
+
+822
+00:41:03,933 --> 00:41:05,667
+und legt ihn erst mal zur Seite,
+
+823
+00:41:05,800 --> 00:41:09,233
+um sich vollkommen sichtbar
+mit der hell leuchtenden Laterne
+
+824
+00:41:09,367 --> 00:41:12,233
+noch besser heimlich die Bücher
+angucken zu können.
+
+825
+00:41:12,367 --> 00:41:15,867
+Echtes Kerzenlicht wäre
+in dieser Bibliothek absolut tabu.
+
+826
+00:41:16,000 --> 00:41:19,733
+Das Leuchten, das die Bücher erhellt,
+kommt aber nicht von der Laterne.
+
+827
+00:41:19,867 --> 00:41:21,367
+Die dient nur als Requisite.
+
+828
+00:41:21,500 --> 00:41:24,600
+Denn es gibt in Wahrheit
+zwei Lichtquellen in dieser Szene.
+
+829
+00:41:24,733 --> 00:41:27,833
+Einmal die Requisitenlaterne,
+die der Zuschauer sehen soll
+
+830
+00:41:27,967 --> 00:41:30,267
+und denken soll,
+dass davon das Licht kommt.
+
+831
+00:41:30,400 --> 00:41:33,200
+Dann befindet sich eine weitere
+externe Lichtquelle
+
+832
+00:41:33,333 --> 00:41:36,533
+außerhalb unseres Sichtbereiches,
+irgendwo hinter der Kamera,
+
+833
+00:41:36,667 --> 00:41:39,567
+die mit gelbem Licht
+in die ungefähre Richtung scheint,
+
+834
+00:41:39,700 --> 00:41:43,567
+wo die Requisitenlaterne hingehalten
+wird, um Kerzenschein zu simulieren.
+
+835
+00:41:43,700 --> 00:41:46,100
+In Wahrheit ist diese
+LED-Furz-Kack-Leuchte
+
+836
+00:41:46,233 --> 00:41:47,900
+in der Laterne viel zu schwach,
+
+837
+00:41:48,033 --> 00:41:50,400
+um Harrys Gesicht,
+das Regal mit den Büchern
+
+838
+00:41:50,533 --> 00:41:52,567
+und den Rest der Szene auszuleuchten.
+
+839
+00:41:52,700 --> 00:41:55,400
+Das sieht man daran,
+dass Schatten geworfen werden,
+
+840
+00:41:55,533 --> 00:41:57,333
+wo eigentlich keine sein sollten,
+
+841
+00:41:57,467 --> 00:41:59,900
+wenn das Licht
+nur von der Laterne käme.
+
+842
+00:42:00,033 --> 00:42:03,033
+Wir sehen Harry von der Seite,
+als er die Bücher anguckt
+
+843
+00:42:03,167 --> 00:42:05,200
+und an seiner Schuler
+ist ein Schatten,
+
+844
+00:42:05,333 --> 00:42:07,300
+obwohl er die Laterne vor sich hält.
+
+845
+00:42:07,433 --> 00:42:10,000
+Das wahre Licht kommt also
+von schräg hinter ihm.
+
+846
+00:42:10,133 --> 00:42:12,567
+Als er mit Tarnumhang die Regale
+entlang geht,
+
+847
+00:42:12,700 --> 00:42:14,967
+ist im Vordergrund
+ein Holzpfeiler im Raum,
+
+848
+00:42:15,100 --> 00:42:18,333
+der kurzzeitig aus Richtung des
+Zuschauers angeleuchtet wird
+
+849
+00:42:18,467 --> 00:42:20,600
+und einen Schatten
+auf Harrys Hand wirft.
+
+850
+00:42:20,733 --> 00:42:24,567
+Da kommt das wahre Licht wieder von
+außerhalb und nicht von der Laterne.
+
+851
+00:42:24,700 --> 00:42:26,567
+(entsetzt:) Filmfehler!
+
+852
+00:42:26,700 --> 00:42:29,400
+Obwohl ich es schon so oft
+im Podcast erwähnt habe,
+
+853
+00:42:29,533 --> 00:42:31,000
+muss ich es noch mal sagen:
+
+854
+00:42:31,133 --> 00:42:33,500
+Wir haben hier wieder
+orangenen Kerzenschein
+
+855
+00:42:33,633 --> 00:42:36,167
+als Komplementärfarbe
+zum bläulichen Mondlicht,
+
+856
+00:42:36,300 --> 00:42:39,300
+das im Hintergrund schwach
+durch die Fenster scheint.
+
+857
+00:42:39,433 --> 00:42:42,733
+Das ist ein immer wiederkehrendes
+Farbschema in diesem Film.
+
+858
+00:42:42,867 --> 00:42:45,833
+Feuer und Mondlicht.
+Warm und kalt.
+
+859
+00:42:45,967 --> 00:42:48,033
+Behaglichkeit und Grusel.
+
+860
+00:42:48,167 --> 00:42:50,267
+Dieser Film spielt
+nicht nur thematisch,
+
+861
+00:42:50,400 --> 00:42:52,667
+sondern auch farblich gerne
+mit Kontrasten,
+
+862
+00:42:52,800 --> 00:42:55,667
+die sich gegenüberstehen wie
+Muggelwelt und Magiewelt.
+
+863
+00:42:55,800 --> 00:42:58,067
+Da sieht man doch
+gerne über Fehler hinweg,
+
+864
+00:42:58,200 --> 00:43:00,533
+weil dieser Film
+so verdammt gut aussieht!
+
+865
+00:43:00,667 --> 00:43:02,867
+Angenehm ausgeleuchtet,
+sehr gut sichtbar,
+
+866
+00:43:03,000 --> 00:43:05,667
+guckt sich Harry ganz genau
+die Ecke vom Regal an.
+
+867
+00:43:05,800 --> 00:43:09,600
+Hat ein bisschen Atmosphäre wie
+ein mittelalterlicher Folterkeller
+
+868
+00:43:09,733 --> 00:43:12,467
+und da sind Bücher
+mit langen Ketten dran befestigt.
+
+869
+00:43:12,600 --> 00:43:15,167
+Sind das böse Bücher,
+dass die angekettet werden?
+
+870
+00:43:15,300 --> 00:43:16,300
+Sind die gefangen?
+
+871
+00:43:16,433 --> 00:43:19,700
+Was ist das für eine Ecke,
+was hat es mit den Ketten auf sich?
+
+872
+00:43:19,833 --> 00:43:24,233
+Die Antwort kommt vom offiziellen
+Tumbler-Blog der Bodleian Library,
+
+873
+00:43:24,367 --> 00:43:27,200
+wo ein bisschen
+aus dem Nähkästchen geplaudert wurde.
+
+874
+00:43:27,333 --> 00:43:30,700
+In der Humphrey-Bibliothek sind
+so ziemlich die ältesten Bücher,
+
+875
+00:43:30,833 --> 00:43:32,133
+die sie im Archiv haben.
+
+876
+00:43:32,267 --> 00:43:36,133
+Büchereien mit angeketteten Büchern
+waren im Mittelalter ganz normal.
+
+877
+00:43:36,267 --> 00:43:39,733
+Und es war normal, dass du Bücher
+nicht ausleihst oder mitnimmst,
+
+878
+00:43:39,867 --> 00:43:41,700
+du durftest sie nur da angucken,
+
+879
+00:43:41,833 --> 00:43:44,533
+denn so konnte man
+allen möglichen Leuten erlauben,
+
+880
+00:43:44,667 --> 00:43:46,067
+diese Bücher zu studieren,
+
+881
+00:43:46,200 --> 00:43:49,000
+ohne dass sie sie
+für ein Vermögen kaufen mussten.
+
+882
+00:43:49,133 --> 00:43:53,400
+Diese Ketten sehen zwar gruselig aus,
+aber sie waren eine sichere Methode,
+
+883
+00:43:53,533 --> 00:43:55,733
+um die Bücher
+vor Diebstahl zu schützen,
+
+884
+00:43:55,867 --> 00:43:58,167
+denn sie waren ja
+verdammt wertvoll damals.
+
+885
+00:43:58,300 --> 00:44:01,500
+Aber so konnte man sie zumindest
+für alle zugänglich machen.
+
+886
+00:44:01,633 --> 00:44:04,333
+Natürlich gibt es jetzt
+elektronische Alarmsysteme,
+
+887
+00:44:04,467 --> 00:44:07,000
+um Diebstahl zu verhindern,
+aber die Ketten sind
+
+888
+00:44:07,133 --> 00:44:10,067
+zur Demonstration
+in der Bodleian Library vorhanden.
+
+889
+00:44:10,200 --> 00:44:12,300
+Auch Hogwarts
+hat so seine Alarmsysteme,
+
+890
+00:44:12,433 --> 00:44:14,367
+wie Harry gleich merken wird.
+
+891
+00:44:14,500 --> 00:44:18,600
+Er stellt seine Laterne ab auf
+einen Pult neben seinen Tarnumhang,
+
+892
+00:44:18,733 --> 00:44:20,100
+merkt euch das.
+
+893
+00:44:20,233 --> 00:44:23,400
+Er hat keine Informationen
+zu Nicolas Flamel, nur den Namen.
+
+894
+00:44:23,533 --> 00:44:26,133
+Er nimmt also irgendeins
+der angeketteten Bücher
+
+895
+00:44:26,267 --> 00:44:30,067
+aus dem Regal in der Abteilung F,
+schlägt es auf irgendeiner Seite auf
+
+896
+00:44:30,200 --> 00:44:33,533
+und hofft dadurch zufällig
+irgendwas Interessantes zu finden.
+
+897
+00:44:33,667 --> 00:44:36,500
+Er kommt aber nicht mal dazu,
+eine Seite umzublättern
+
+898
+00:44:36,633 --> 00:44:39,533
+oder etwas zu lesen,
+denn das Buch fängt an zu rumpeln,
+
+899
+00:44:39,667 --> 00:44:41,300
+die Buchstaben verzerren sich
+
+900
+00:44:41,433 --> 00:44:43,833
+und ein Gesicht mit weit
+aufgerissenem Mund
+
+901
+00:44:43,967 --> 00:44:47,167
+quillt aus den Seiten hervor
+und schreit ihn an.
+
+902
+00:44:47,300 --> 00:44:50,833
+Das ist nicht nur eine optische
+oder akustische magische Illusion
+
+903
+00:44:50,967 --> 00:44:53,900
+zum Erschrecken,
+es ist eine haptische Erscheinung.
+
+904
+00:44:54,033 --> 00:44:56,600
+Harry will das Buch
+schnell wieder schließen,
+
+905
+00:44:56,733 --> 00:44:59,633
+aber das Gesicht quetscht
+sich aus den Seiten hervor,
+
+906
+00:44:59,767 --> 00:45:03,033
+wackelt umher und verhindert,
+dass er es zusammendrücken kann.
+
+907
+00:45:03,167 --> 00:45:06,100
+Als er es mit einiger Mühe
+doch schafft, es zuzuknallen,
+
+908
+00:45:06,233 --> 00:45:08,133
+wackelt es weiter in seinen Händen.
+
+909
+00:45:08,267 --> 00:45:12,067
+Als er es wieder zurückstellt, hört
+man immer noch einen dumpfen Schrei.
+
+910
+00:45:12,200 --> 00:45:14,200
+Jetzt ist die Tarnung völlig hinüber.
+
+911
+00:45:14,333 --> 00:45:16,800
+Bevor wir erfahren,
+was das für Harry bedeutet,
+
+912
+00:45:16,933 --> 00:45:20,267
+wollen wir natürlich erst mal
+viel wichtigere Dinge rausfinden,
+
+913
+00:45:20,400 --> 00:45:23,967
+nämlich was in diesem Buch aus
+der verbotenen Abteilung drin steht,
+
+914
+00:45:24,100 --> 00:45:28,033
+was kleine Zauberlehrlinge auf keinen
+Fall ohne Genehmigung wissen dürfen.
+
+915
+00:45:28,167 --> 00:45:31,000
+Zaubersprüche für Erwachsene?
+Schauen wir genauer hin.
+
+916
+00:45:31,133 --> 00:45:33,500
+In einem Frame,
+bevor das Gesicht rausquillt,
+
+917
+00:45:33,633 --> 00:45:35,100
+kann man den Text erkennen.
+
+918
+00:45:35,233 --> 00:45:38,033
+Es ist in einer etwas älteren
+Schriftart geschrieben,
+
+919
+00:45:38,167 --> 00:45:40,033
+das heißt, ich konnte ihn erkennen,
+
+920
+00:45:40,167 --> 00:45:42,267
+aber nicht ohne Weiteres
+flüssig lesen.
+
+921
+00:45:42,400 --> 00:45:43,600
+Da steht zum Beispiel:
+
+922
+00:45:43,733 --> 00:45:46,867
+"In the revolution of Things,
+happen to be contrary to it."
+
+923
+00:45:47,000 --> 00:45:53,400
+"If in any of thi ... thefe Cafes ...
+we let fall the Profefion ..."
+
+924
+00:45:53,533 --> 00:45:56,967
+(verwirrt:) Was ist das für ein
+Buchstabe? Kann ich nicht lesen.
+
+925
+00:45:57,100 --> 00:45:59,967
+Ich habe sehr, sehr langsam
+und unbeholfen gelesen,
+
+926
+00:46:00,100 --> 00:46:03,367
+bis ich gecheckt habe, dieser
+Scheißbuchstabe ist gar kein F,
+
+927
+00:46:03,500 --> 00:46:06,767
+sondern ein S,
+das sogenannte lange S,
+
+928
+00:46:06,900 --> 00:46:10,200
+was aber nur am Anfang und innerhalb
+einer Silbe benutzt wird.
+
+929
+00:46:10,333 --> 00:46:14,267
+Parallel dazu, wird das für mich
+normalaussehende sogenannte Schluss-S
+
+930
+00:46:14,400 --> 00:46:16,067
+am Silbenende benutzt,
+
+931
+00:46:16,200 --> 00:46:18,333
+zum Beispiel hier,
+bei dem Wort "Cases",
+
+932
+00:46:18,467 --> 00:46:20,867
+das aber aussieht wie "Cafes".
+
+933
+00:46:21,000 --> 00:46:23,833
+Das lange S wird heutzutage
+nicht mehr verwendet,
+
+934
+00:46:23,967 --> 00:46:25,667
+weil es ... beschiffen ift.
+
+935
+00:46:25,800 --> 00:46:28,900
+Ich hab mich gefühlt wie ein
+Grundschüler, der lefen lernt.
+
+936
+00:46:29,033 --> 00:46:30,633
+War auch mal ganz intereffant.
+
+937
+00:46:30,767 --> 00:46:32,700
+Wenn man nun diesen speziellen Satz:
+
+938
+00:46:32,833 --> 00:46:35,367
+"In the Revolution of Things
+happened to be ..."
+
+939
+00:46:35,500 --> 00:46:38,233
+mit diesem Wortlaut sucht,
+dann findet man das Buch:
+
+940
+00:46:44,600 --> 00:46:50,033
+Von Dr. John Tillotson, Erzbischof
+von Canterbury aus dem Jahre 1695.
+
+941
+00:46:50,800 --> 00:46:53,233
+Also, es ist eine Sammlung
+von Predigten
+
+942
+00:46:53,367 --> 00:46:57,133
+über Aufrichtigkeit und Beständigkeit
+im Glauben und Bekenntnis
+
+943
+00:46:57,267 --> 00:46:58,767
+der wahren Religion.
+
+944
+00:46:58,900 --> 00:47:01,600
+Das ist ja mal so richtig schlimm
+und gefährlich!
+
+945
+00:47:01,733 --> 00:47:02,967
+So weit kommt das noch,
+
+946
+00:47:03,100 --> 00:47:05,667
+dass Hogwartsschüler
+was über Religion lernen,
+
+947
+00:47:05,800 --> 00:47:09,133
+das gehört in die verbotene
+Abteilung, verstehe ich vollkommen.
+
+948
+00:47:09,267 --> 00:47:12,200
+Ich dachte zuerst, der Text
+hat keine tiefere Bedeutung,
+
+949
+00:47:12,333 --> 00:47:14,533
+da haben sich die
+vom Special-Effects-Team
+
+950
+00:47:14,667 --> 00:47:16,867
+an irgendeinem
+Public-Domain-Text bedient,
+
+951
+00:47:17,000 --> 00:47:19,833
+weil scheiß drauf, man sieht ihn
+nur für eine Sekunde,
+
+952
+00:47:19,967 --> 00:47:22,767
+um dem Zuschauer zu zeigen:
+"Guck mal, alte Schrift!"
+
+953
+00:47:22,900 --> 00:47:24,000
+Dieses Buch ist alt.
+
+954
+00:47:24,133 --> 00:47:26,767
+Dann dachte ich:
+Nein, Mann, nicht in diesem Film.
+
+955
+00:47:26,900 --> 00:47:29,567
+Da wird nichts hingepfuscht
+und niemand denkt sich:
+
+956
+00:47:29,700 --> 00:47:32,333
+"Scheiß drauf, ist nur
+für eine Sekunde zu sehen."
+
+957
+00:47:32,467 --> 00:47:36,333
+Denn der Text von Dr. Tillotson
+wurde nicht eins zu eins übernommen.
+
+958
+00:47:36,467 --> 00:47:38,667
+Wenn man ganz genau hinguckt,
+erkennt man,
+
+959
+00:47:38,800 --> 00:47:43,033
+dass an einigen Stellen Schriftart,
+Schriftgröße und Schriftspationierung
+
+960
+00:47:43,167 --> 00:47:47,167
+minimal verändert wurden
+und da Namen eingefügt sind.
+
+961
+00:47:47,300 --> 00:47:50,767
+Auf der linken Seite unten stehen
+die Namen "Laura and Chas",
+
+962
+00:47:50,900 --> 00:47:55,067
+auf der rechten Seite in der Mitte
+"Terry, Michelle, Chloe and Aimee".
+
+963
+00:47:55,200 --> 00:47:58,400
+Weiter unten rechts steht noch
+"Debbie, Amy and Leon".
+
+964
+00:47:58,533 --> 00:47:59,600
+Das sind Namen,
+
+965
+00:47:59,733 --> 00:48:03,567
+die man nicht so in einer Predigt
+von 1600-was-auch-immer erwartet.
+
+966
+00:48:03,700 --> 00:48:07,133
+Die sind nicht im Originaltext,
+die wurden heimlich da versteckt.
+
+967
+00:48:07,267 --> 00:48:09,633
+Anstatt mir den Abspann des Films
+anzugucken,
+
+968
+00:48:09,767 --> 00:48:11,600
+ob ich da die Namen irgendwo sehe,
+
+969
+00:48:11,733 --> 00:48:15,233
+haben ich und mein Gehirn uns es zur
+Abwechslung einfacher gemacht
+
+970
+00:48:15,367 --> 00:48:16,800
+und bei IMDb nachgeschaut.
+
+971
+00:48:16,933 --> 00:48:20,667
+Da sind so ziemlich alle aufgeführt,
+die bei dem Film mitgemacht haben,
+
+972
+00:48:20,800 --> 00:48:23,333
+selbst die, die nicht
+im Abspann erwähnt wurden.
+
+973
+00:48:23,467 --> 00:48:26,667
+Wenn man da nach den Namen sucht,
+wird man tatsächlich fündig
+
+974
+00:48:26,800 --> 00:48:28,667
+in der Sparte "Visual Effects by".
+
+975
+00:48:28,800 --> 00:48:32,033
+Da sind Laura und Chas und Terry,
+Michelle, Aimee mit zwei e,
+
+976
+00:48:32,167 --> 00:48:33,633
+Debbie, Amy mit y ...
+
+977
+00:48:33,767 --> 00:48:36,533
+Die einzigen Namen, die fehlen,
+sind Chloe und Leon,
+
+978
+00:48:36,667 --> 00:48:39,867
+die gibt's nicht, nicht mal
+im Rest der Cast-und-Crew-Liste,
+
+979
+00:48:40,000 --> 00:48:43,767
+aber da die vorhandenen Namen zwar
+bei den visuellen Effekten arbeiten,
+
+980
+00:48:43,900 --> 00:48:46,433
+aber in verschiedenen Firmen
+verteilt sind
+
+981
+00:48:46,567 --> 00:48:49,367
+wie Sony Pictures Imageworks,
+Moving Picture Company,
+
+982
+00:48:49,500 --> 00:48:51,867
+Industrial Light and Magic,
+glaube ich nicht,
+
+983
+00:48:52,000 --> 00:48:54,100
+dass die doll
+miteinander zu tun hatten,
+
+984
+00:48:54,233 --> 00:48:57,200
+dass sie unbedingt als Clique
+in dieser Zusammenstellung
+
+985
+00:48:57,333 --> 00:49:00,400
+sich gedacht haben: "Komm,
+wir bauen uns in den Text ein."
+
+986
+00:49:00,533 --> 00:49:03,333
+Aber irgendwer, der
+bei den Special Effects arbeitet
+
+987
+00:49:03,467 --> 00:49:06,300
+und für die Erstellung
+dieser Buchseite zuständig war,
+
+988
+00:49:06,433 --> 00:49:09,233
+hat diese Namen da eingebaut,
+um vielleicht zu sagen:
+
+989
+00:49:09,367 --> 00:49:13,100
+"Boah, Laura, guck mal, du bist
+im "Harry Potter"-Film drin!"
+
+990
+00:49:13,233 --> 00:49:16,267
+Auf jeden Fall ein ziemlich cooles
+kleines Easter Egg.
+
+991
+00:49:16,400 --> 00:49:18,400
+Es wurde sich extra die Mühe gemacht,
+
+992
+00:49:18,533 --> 00:49:21,633
+das zu verändern und Namen an
+passenden Stellen einzufügen.
+
+993
+00:49:21,767 --> 00:49:25,200
+Aber warum haben sie überhaupt
+so einen religiösen Text genommen,
+
+994
+00:49:25,333 --> 00:49:27,333
+wenn es nicht auf den Inhalt ankommt?
+
+995
+00:49:27,467 --> 00:49:29,833
+Da hätte man auch
+"Lorem Ipsum" nehmen können
+
+996
+00:49:29,967 --> 00:49:32,267
+oder eine Seite
+aus dem "Harry Potter"-Buch.
+
+997
+00:49:32,400 --> 00:49:35,467
+Aber vielleicht ist der Text
+nicht willkürlich ausgewählt?
+
+998
+00:49:35,600 --> 00:49:36,767
+Es könnte ja sein,
+
+999
+00:49:36,900 --> 00:49:40,000
+dass sie als Ultrarieseneaster-Egg
+ein Buch genommen haben,
+
+1000
+00:49:40,133 --> 00:49:42,867
+was wirklich in echt
+in der Bodleian Library steht?
+
+1001
+00:49:43,000 --> 00:49:44,333
+Ich hab mal nachgeschaut.
+
+1002
+00:49:44,467 --> 00:49:48,100
+Man kann online die ganze Oxford
+Bibliothek durchsuchen und das Buch:
+
+1003
+00:49:52,600 --> 00:49:55,433
+... von Dr. John Tillotson
+ist tatsächlich vorhanden.
+
+1004
+00:49:55,567 --> 00:50:00,233
+Und zwar die Ausgabe von 1695
+in der Bodleian Library.
+
+1005
+00:50:00,367 --> 00:50:02,367
+Da steht dann auch genau,
+wo es steht.
+
+1006
+00:50:02,500 --> 00:50:05,567
+In einem "Closed Stack",
+das heißt, es ist weggeschlossen
+
+1007
+00:50:05,700 --> 00:50:08,600
+und erst mal nicht zugänglich,
+das muss man beantragen.
+
+1008
+00:50:08,733 --> 00:50:11,500
+Und da steht noch so was wie:
+"Acht Grad L 129 Th."
+
+1009
+00:50:11,633 --> 00:50:15,000
+Ich dachte: Cool, sind das die
+genauen Längen- und Breitengrade,
+
+1010
+00:50:15,133 --> 00:50:17,600
+wo ich das Buch
+auf diesem Planeten Erde finde?
+
+1011
+00:50:17,733 --> 00:50:18,967
+Aber dieses "Acht Grad"
+
+1012
+00:50:19,100 --> 00:50:23,433
+ist eine Schreibweise für eine alte
+Buchformatgröße, nämlich "Oktavo",
+
+1013
+00:50:23,567 --> 00:50:26,033
+wo ein Papierbogen
+dreimal gefaltet wurde
+
+1014
+00:50:26,167 --> 00:50:28,433
+und dann in acht Blätter
+geschnitten wurde.
+
+1015
+00:50:28,567 --> 00:50:30,033
+Da das damals nicht genormt
+
+1016
+00:50:30,167 --> 00:50:32,433
+von programmierten Maschinen
+gemacht wurde,
+
+1017
+00:50:32,567 --> 00:50:35,633
+sondern von Menschen selber
+gebastelt, variiert die Größe.
+
+1018
+00:50:35,767 --> 00:50:39,400
+Aber die Rückenhöhe von Büchern
+mit dem Format war durchschnittlich
+
+1019
+00:50:39,533 --> 00:50:42,733
+circa 18 bis 20 Zentimeter,
+also kleiner als das Buch,
+
+1020
+00:50:42,867 --> 00:50:44,967
+was Harry im Film in den Händen hält.
+
+1021
+00:50:45,100 --> 00:50:47,867
+Aber den Text gibt es
+wirklich so in der Bibliothek.
+
+1022
+00:50:48,000 --> 00:50:49,467
+Es ist ein ganz altes Buch,
+
+1023
+00:50:49,600 --> 00:50:52,267
+aber im Film wurde
+nicht DAS Buch benutzt.
+
+1024
+00:50:52,400 --> 00:50:55,233
+Wenn man bedenkt,
+wie viele Takes so ein Dreh braucht
+
+1025
+00:50:55,367 --> 00:50:58,133
+und wie unausgereift die
+Hand-Augen-Koordination
+
+1026
+00:50:58,267 --> 00:51:00,300
+von manchen Kindern ist,
+
+1027
+00:51:00,433 --> 00:51:03,533
+hätte ich als Bibliothekarin
+das nicht verantwortet,
+
+1028
+00:51:03,667 --> 00:51:05,300
+da wirklich das echte, uralte,
+
+1029
+00:51:05,433 --> 00:51:07,533
+wertvolle Buch
+für den Dreh zu benutzen.
+
+1030
+00:51:07,667 --> 00:51:10,867
+Ich denke, da hat man eine extra
+erstellte Requisite benutzt,
+
+1031
+00:51:11,000 --> 00:51:14,333
+oder eins der auch alten, aber
+nicht ganz so wertvollen Bücher.
+
+1032
+00:51:14,467 --> 00:51:17,133
+Es ist im Film jedenfalls
+ein großes schwarzes Buch
+
+1033
+00:51:17,267 --> 00:51:18,733
+mit silbernen Verzierungen,
+
+1034
+00:51:18,867 --> 00:51:21,133
+und der Einband
+sieht noch neu und gut aus.
+
+1035
+00:51:21,267 --> 00:51:24,633
+Aber vielleicht kümmert man sich
+dort einfach gut um Bücher.
+
+1036
+00:51:26,033 --> 00:51:28,767
+Thomas Bodley,
+Gründer der Bodleian Library,
+
+1037
+00:51:28,900 --> 00:51:30,567
+hatte eine tolle Idee.
+
+1038
+00:51:30,700 --> 00:51:32,267
+Es war im Mittelalter üblich,
+
+1039
+00:51:32,400 --> 00:51:34,667
+dass Bücher zum Studieren
+auf Pulten lagen.
+
+1040
+00:51:34,800 --> 00:51:37,633
+Da war dann ein Pult mit
+einem angeketteten Buch dran,
+
+1041
+00:51:37,767 --> 00:51:39,933
+und davon hatte man
+insgesamt 20 oder so.
+
+1042
+00:51:40,067 --> 00:51:41,467
+Es war sehr übersichtlich.
+
+1043
+00:51:41,600 --> 00:51:44,767
+Nun hatte man eine Bibliothek
+mit mehreren 1.000 Büchern.
+
+1044
+00:51:44,900 --> 00:51:47,133
+Man hat sie einfach
+wirr ins Regal gelegt
+
+1045
+00:51:47,267 --> 00:51:49,000
+und es musste eine Lösung her.
+
+1046
+00:51:49,133 --> 00:51:53,333
+Die Innovation, die man sich in der
+Bodleian Library überlegt hat, war:
+
+1047
+00:51:53,467 --> 00:51:54,600
+"Pass auf, wie wär's,
+
+1048
+00:51:54,733 --> 00:51:57,667
+wenn wir die Bücher
+nicht horizontal übereinanderlegen,
+
+1049
+00:51:57,800 --> 00:52:00,700
+sondern stattdessen vertikal
+nebeneinander hinstellen?"
+
+1050
+00:52:00,833 --> 00:52:02,833
+"Boah, das ist
+ja total platzsparend!"
+
+1051
+00:52:02,967 --> 00:52:05,633
+Die Bücher kriegt man dann
+auch aus dem Regal raus,
+
+1052
+00:52:05,767 --> 00:52:07,700
+ohne an anderen
+rumfummeln zu müssen
+
+1053
+00:52:07,833 --> 00:52:10,033
+oder sich in tausend Ketten
+zu verheddern.
+
+1054
+00:52:10,167 --> 00:52:12,367
+Wieso hat sich das
+keiner früher überlegt?
+
+1055
+00:52:12,500 --> 00:52:13,900
+Früher war es nicht nötig,
+
+1056
+00:52:14,033 --> 00:52:16,333
+sich effizientere
+Aufbewahrungsmöglichkeiten
+
+1057
+00:52:16,467 --> 00:52:19,900
+für Bücher zu überlegen, weil man
+noch nie so viele Bücher hatte.
+
+1058
+00:52:20,033 --> 00:52:23,733
+Früher hat man Bücher nicht mit dem
+Buchrücken nach außen hingestellt,
+
+1059
+00:52:23,867 --> 00:52:26,500
+um Autor und Titel zu sehen,
+sondern verkehrt rum,
+
+1060
+00:52:26,633 --> 00:52:28,367
+mit den Papierseiten nach außen.
+
+1061
+00:52:28,500 --> 00:52:31,833
+Bücher hatten damals keine
+sichtbaren Titel auf dem Buchrücken.
+
+1062
+00:52:31,967 --> 00:52:35,300
+Es war eher verbreitet, den Titel
+oder um was es ungefähr ging,
+
+1063
+00:52:35,433 --> 00:52:36,833
+außen auf die Papierseiten
+
+1064
+00:52:36,967 --> 00:52:40,467
+auf den sogenannten Vorderschnitt
+zu schreiben oder zu malen.
+
+1065
+00:52:40,600 --> 00:52:43,333
+Bücher mit Buchrücken,
+wo auch der Titel draufsteht,
+
+1066
+00:52:43,467 --> 00:52:45,400
+sind eine relativ moderne Erfindung.
+
+1067
+00:52:45,533 --> 00:52:48,100
+Wir befinden uns ja
+in einem digitalen Zeitalter,
+
+1068
+00:52:48,233 --> 00:52:50,233
+Bücher wird es noch eine Weile geben,
+
+1069
+00:52:50,367 --> 00:52:53,533
+aber auch wir sind effizienter
+geworden in der Aufbewahrung.
+
+1070
+00:52:53,667 --> 00:52:56,067
+Manche haben gar kein
+großes Bücherregal mehr,
+
+1071
+00:52:56,200 --> 00:52:58,833
+sondern ein handliches Tablet
+oder einen E-Reader,
+
+1072
+00:52:58,967 --> 00:53:01,000
+wo Millionen Bücher
+drauf sein könnten.
+
+1073
+00:53:01,133 --> 00:53:05,033
+In dem digitalen Bücherregal schaut
+man nicht mehr auf die Buchrücken,
+
+1074
+00:53:05,167 --> 00:53:08,967
+sondern auf den Buchdeckel, um Autor,
+Titel und Titelbild zu sehen.
+
+1075
+00:53:09,100 --> 00:53:11,767
+Wer weiß, wie wir Bücher
+in den nächsten 500 Jahren
+
+1076
+00:53:11,900 --> 00:53:14,967
+noch effizienter aufbewahren,
+sortieren und präsentieren.
+
+1077
+00:53:15,100 --> 00:53:16,767
+Ich bin gespannt.
+
+1078
+00:53:16,900 --> 00:53:19,267
+Aber genug von Fun Facts
+aus dem Mittelalter.
+
+1079
+00:53:19,400 --> 00:53:23,133
+Ich frage mich, warum ist dieses
+Buch in der verbotenen Abteilung?
+
+1080
+00:53:23,267 --> 00:53:25,267
+Es geht natürlich
+nicht um den Inhalt,
+
+1081
+00:53:25,400 --> 00:53:27,400
+sondern es ist dort, weil es schreit.
+
+1082
+00:53:27,533 --> 00:53:28,767
+Das ist offensichtlich.
+
+1083
+00:53:28,900 --> 00:53:32,267
+"Das ist irgendwie gefährlich,
+die Kinder sollen da nicht ran.",
+
+1084
+00:53:32,400 --> 00:53:33,633
+denkt sich der Zuhörer.
+
+1085
+00:53:33,767 --> 00:53:36,400
+Jedoch, im fiktiven Vorwort
+von Albus Dumbledore
+
+1086
+00:53:36,533 --> 00:53:39,667
+im Buch "Quidditch im Wandel
+der Zeiten" schreibt er:
+
+1087
+00:53:39,800 --> 00:53:43,000
+"Es könnte sein, dass noch eine
+Verhexung auf dem Buch liegt,
+
+1088
+00:53:43,133 --> 00:53:45,800
+von der Bibliothekarin von Hogwarts,
+Madame Pince."
+
+1089
+00:53:45,933 --> 00:53:48,233
+Sie nimmt den Schutz der Bücher
+sehr ernst,
+
+1090
+00:53:48,367 --> 00:53:51,567
+er selbst hat einmal
+geistesabwesend herumgekrickelt,
+
+1091
+00:53:51,700 --> 00:53:54,467
+was ihn daraufhin angegriffen
+und verprügelt hat.
+
+1092
+00:53:54,600 --> 00:53:57,933
+Deshalb soll man mit Büchern aus
+Hogwarts vorsichtig umgehen.
+
+1093
+00:53:58,067 --> 00:54:01,267
+Und es gibt ja auch Bücher wie
+"Das Monsterbuch der Monster",
+
+1094
+00:54:01,400 --> 00:54:05,067
+das selbst ein Monster ist,
+mit spitzen Zähnen, die zubeißen,
+
+1095
+00:54:05,200 --> 00:54:08,100
+wie wir in "Harry Potter
+und der Gefangene von Askaban"
+
+1096
+00:54:08,233 --> 00:54:09,567
+an Neville sehen können,
+
+1097
+00:54:09,700 --> 00:54:12,233
+der kurz vorm Unterricht
+davon angegriffen wird
+
+1098
+00:54:12,367 --> 00:54:14,233
+und die Kleidung zerrissen bekommt.
+
+1099
+00:54:14,367 --> 00:54:17,967
+So was ist nicht in der verbotenen
+Abteilung, das ist ein Schulbuch.
+
+1100
+00:54:18,100 --> 00:54:20,233
+Es kann sein,
+dass dieses schreiende Buch
+
+1101
+00:54:20,367 --> 00:54:23,567
+eine der Verhexungen von der
+Bibliothekarin Madame Pince ist,
+
+1102
+00:54:23,700 --> 00:54:25,767
+die wir in dem Film
+übrigens nie sehen.
+
+1103
+00:54:25,900 --> 00:54:27,933
+Das Schreien muss nicht
+der Grund sein,
+
+1104
+00:54:28,067 --> 00:54:30,333
+warum es in der
+verbotenen Abteilung liegt.
+
+1105
+00:54:30,467 --> 00:54:32,567
+Es ging nicht darum,
+Kinder zu schützen,
+
+1106
+00:54:32,700 --> 00:54:34,300
+darum ging es in Hogwarts nie.
+
+1107
+00:54:34,433 --> 00:54:36,433
+Es geht darum,
+die Bücher zu schützen.
+
+1108
+00:54:36,567 --> 00:54:40,500
+Das Schreien ist mehr ein Alarm,
+eingerichtet von Madame Pince.
+
+1109
+00:54:40,633 --> 00:54:42,800
+Was mich wieder
+zur Ursprungsfrage führt:
+
+1110
+00:54:42,933 --> 00:54:45,400
+warum ist das Buch
+in der verbotenen Abteilung,
+
+1111
+00:54:45,533 --> 00:54:47,767
+wenn es nicht darum geht,
+dass es schreit?
+
+1112
+00:54:47,900 --> 00:54:51,133
+Ich konkludiere hiermit
+die einzig wahre Antwort.
+
+1113
+00:54:51,267 --> 00:54:54,200
+Es ist dort aus demselben Grund,
+weshalb sein Gegenstück
+
+1114
+00:54:54,333 --> 00:54:57,233
+in unserer Realität
+in der Bodleian Library liegt.
+
+1115
+00:54:57,367 --> 00:55:00,900
+Es ist ein Buch aus dem 16.
+Jahrhundert, es ist alt und wertvoll.
+
+1116
+00:55:01,033 --> 00:55:03,100
+Es liegt da
+zum Schutz für sich selbst,
+
+1117
+00:55:03,233 --> 00:55:05,433
+damit es nicht von
+schokoladeverschmierten
+
+1118
+00:55:05,533 --> 00:55:07,800
+Popel-Kinder-Patschehänden
+bekrabbelt wird.
+
+1119
+00:55:07,900 --> 00:55:09,133
+Das Geschrei des Buches
+
+1120
+00:55:09,233 --> 00:55:11,533
+hat jedenfalls Harrys
+extrem kluge Tarnung
+
+1121
+00:55:11,633 --> 00:55:14,933
+auffliegen lassen, man hört
+eine Stimme aus der Ferne rufen:
+
+1122
+00:55:15,033 --> 00:55:17,600
+"Wer ist da?"
+Harry sieht sich erschrocken um,
+
+1123
+00:55:17,700 --> 00:55:21,233
+schnappt sich seinen Tarnumhang,
+wirft dabei aber seine Laterne um,
+
+1124
+00:55:21,333 --> 00:55:23,767
+die mit lautem Krach
+auf dem Boden zerschellt.
+
+1125
+00:55:23,867 --> 00:55:25,867
+Und hier ist ein ... Filmfehler!
+
+1126
+00:55:25,967 --> 00:55:28,900
+Denn wie Sie, werter Zuhörer,
+sich merken sollten,
+
+1127
+00:55:29,000 --> 00:55:32,933
+Harry hat die Laterne eigentlich
+neben seinem Tarnumhang abgestellt.
+
+1128
+00:55:33,033 --> 00:55:36,433
+Jetzt steht die Laterne plötzlich
+wackelig auf seinem Umhang
+
+1129
+00:55:36,533 --> 00:55:38,933
+und wird natürlich
+durch den Ruck umgeworfen.
+
+1130
+00:55:39,033 --> 00:55:41,767
+Dadurch wird
+eine spannende Situation erzeugt.
+
+1131
+00:55:41,867 --> 00:55:44,567
+Harry ist jetzt gezwungen,
+schnell zu verschwinden.
+
+1132
+00:55:44,667 --> 00:55:47,067
+Er rennt mit dem Tarnumhang
+in der Hand,
+
+1133
+00:55:47,167 --> 00:55:50,100
+nicht um sich geworfen,
+die Bücherregale entlang
+
+1134
+00:55:50,200 --> 00:55:52,200
+und sieht am anderen Ende des Ganges
+
+1135
+00:55:52,300 --> 00:55:54,733
+ein Licht
+einer anderen Laterne näherkommen.
+
+1136
+00:55:54,833 --> 00:55:58,033
+Erst jetzt fällt ihm ein,
+den Umhang tatsächlich zu benutzen.
+
+1137
+00:55:58,133 --> 00:56:00,600
+Er versteckt sich darunter,
+genau in dem Moment
+
+1138
+00:56:00,700 --> 00:56:03,700
+kommt Mr Filch um die Ecke
+und schaut in seine Richtung.
+
+1139
+00:56:03,800 --> 00:56:07,500
+Im Close-up sehen wir
+Mr Filchs unrasiertes Gesicht
+
+1140
+00:56:07,600 --> 00:56:10,000
+mit langen, ungepflegten Haaren.
+
+1141
+00:56:10,100 --> 00:56:12,133
+Die Laterne beleuchtet ihn seitlich
+
+1142
+00:56:12,233 --> 00:56:15,000
+und wirft unheimliche Schatten
+auf sein Gesicht.
+
+1143
+00:56:15,100 --> 00:56:17,500
+Und aus seinem Mund
+voller schiefer Zähne
+
+1144
+00:56:17,600 --> 00:56:19,333
+ruft er mit kratziger Stimme:
+
+1145
+00:56:19,433 --> 00:56:22,133
+"Wer ist da?
+Raus aus deinem Versteck!"
+
+1146
+00:56:22,233 --> 00:56:25,500
+Und es scheint, als würde er
+den Zuschauer direkt angucken.
+
+1147
+00:56:25,700 --> 00:56:27,800
+David Bradley,
+der Schauspier von Filch,
+
+1148
+00:56:27,900 --> 00:56:29,867
+fand die Aufmachung richtig toll.
+
+1149
+00:56:29,967 --> 00:56:31,800
+Einmal der unrasierte Stoppelbart.
+
+1150
+00:56:31,900 --> 00:56:34,267
+Die Zahnprothese
+mit schiefen, gelben Zähnen.
+
+1151
+00:56:34,367 --> 00:56:36,467
+Eklige, struppige Haar-Extensions.
+
+1152
+00:56:36,567 --> 00:56:39,400
+Alle Professoren in Hogwarts
+sind so schick gekleidet.
+
+1153
+00:56:39,500 --> 00:56:42,067
+Filch sieht dagegen
+richtig heruntergekommen aus,
+
+1154
+00:56:42,167 --> 00:56:44,033
+als hätte er sich im Dreck gesuhlt.
+
+1155
+00:56:44,133 --> 00:56:46,433
+Er hat einen altmodischen,
+braunen Frack an,
+
+1156
+00:56:46,533 --> 00:56:50,600
+der extra zerrissen und dreckig
+gemacht wurde von Breakdown-Artists.
+
+1157
+00:56:50,700 --> 00:56:53,067
+Das ist die offizielle Bezeichnung
+für Leute,
+
+1158
+00:56:53,167 --> 00:56:56,267
+die im Kostüm-Department arbeiten
+und dafür zuständig sind,
+
+1159
+00:56:56,367 --> 00:56:58,733
+dass neu geschneiderte Klamotten
+so aussehen,
+
+1160
+00:56:58,833 --> 00:57:01,667
+als hätte man sie schon
+20 Jahre lang getragen.
+
+1161
+00:57:01,767 --> 00:57:04,267
+Das alles zu tragen
+hat ihm sehr geholfen,
+
+1162
+00:57:04,367 --> 00:57:05,900
+in die Rolle reinzufinden.
+
+1163
+00:57:06,000 --> 00:57:08,533
+Er beschreibt sein Outfit
+als eine Mischung
+
+1164
+00:57:08,633 --> 00:57:11,933
+aus Wildwest-Cowboy
+und mittelalterlichem Taschendieb.
+
+1165
+00:57:12,033 --> 00:57:13,767
+Dieses ungepflegte Auftreten,
+
+1166
+00:57:13,867 --> 00:57:17,033
+kombiniert mit seiner
+unsympathischen Persönlichkeit,
+
+1167
+00:57:17,133 --> 00:57:19,367
+löst Unbehagen im Zuschauer aus.
+
+1168
+00:57:19,467 --> 00:57:21,900
+Und wirkt vor allem
+auf Kinder gruselig.
+
+1169
+00:57:22,000 --> 00:57:24,633
+Wobei Mr Filch eigentlich
+gar kein Bösewicht ist,
+
+1170
+00:57:24,733 --> 00:57:26,600
+sondern nur ein mürrischer Mann,
+
+1171
+00:57:26,700 --> 00:57:29,133
+der nur versucht,
+seine Arbeit zu machen.
+
+1172
+00:57:29,233 --> 00:57:31,567
+Mr Filch heißt mit Vornamen
+übrigens Argus.
+
+1173
+00:57:31,667 --> 00:57:32,967
+Dieser Name passt zu ihm
+
+1174
+00:57:33,067 --> 00:57:35,967
+und kommt schon wieder
+aus der griechischen Mythologie.
+
+1175
+00:57:36,067 --> 00:57:38,233
+Die Geliebte von Zeus,
+Bruder von Hades,
+
+1176
+00:57:38,333 --> 00:57:41,200
+das wissen wir ja schon,
+wurde in eine Kuh verwandelt.
+
+1177
+00:57:41,300 --> 00:57:44,133
+Und ein Riese namens Argus,
+der sehr wachsam war,
+
+1178
+00:57:44,233 --> 00:57:47,900
+musste auf sie aufpassen, damit Zeus
+sie nicht findet und begattet.
+
+1179
+00:57:48,000 --> 00:57:49,200
+Argus hatte 100 Augen,
+
+1180
+00:57:49,300 --> 00:57:52,367
+mit denen er in alle Richtungen
+gleichzeitig sehen konnte.
+
+1181
+00:57:52,467 --> 00:57:55,567
+Es schien für Zeus unmöglich
+zu seiner Geliebten zu kommen.
+
+1182
+00:57:55,667 --> 00:57:57,300
+Aber der Riese Argus konnte
+
+1183
+00:57:57,400 --> 00:58:00,367
+mit einem Flötenspiel
+eingeschläfert werden.
+
+1184
+00:58:00,467 --> 00:58:02,633
+Und dann wurde ihm
+der Kopf abgeschlagen.
+
+1185
+00:58:02,733 --> 00:58:05,067
+Dann hat sich Zeus
+in einen Stier verwandelt
+
+1186
+00:58:05,167 --> 00:58:07,733
+und seine Geliebte,
+immer noch eine Kuh, gefickt.
+
+1187
+00:58:07,833 --> 00:58:10,233
+Warum hat er das gemacht?
+Der Riese war ja tot
+
+1188
+00:58:10,333 --> 00:58:13,033
+und sie musste nicht mehr
+als Kuh versteckt werden.
+
+1189
+00:58:13,133 --> 00:58:15,333
+Aber whatever,
+ich mach kein Kink Shaming.
+
+1190
+00:58:15,433 --> 00:58:18,267
+Die 100 Augen des Riesen
+wurden daraufhin verwandelt
+
+1191
+00:58:18,367 --> 00:58:19,900
+in das Federkleid des Pfaus.
+
+1192
+00:58:20,000 --> 00:58:22,300
+Denn Pfauenfedern
+haben ja auch viele Augen.
+
+1193
+00:58:22,400 --> 00:58:25,633
+Daher kommt die Redewendung:
+Etwas mit Argusaugen beobachten.
+
+1194
+00:58:25,733 --> 00:58:29,367
+Das heißt, dass man etwas ganz genau
+und misstrauisch im Auge behält.
+
+1195
+00:58:29,467 --> 00:58:30,833
+Genauso wie Mr Filch.
+
+1196
+00:58:30,933 --> 00:58:33,833
+Und "to filch" bedeutet
+auf Englisch umgangssprachlich:
+
+1197
+00:58:33,933 --> 00:58:36,000
+etwas klauen oder mopsen.
+
+1198
+00:58:36,100 --> 00:58:39,633
+Zumindest im Buch beschlagnahmt
+Mr Filch auch gerne diverse Dinge
+
+1199
+00:58:39,733 --> 00:58:41,500
+und mopst sie den Kindern weg.
+
+1200
+00:58:41,600 --> 00:58:45,200
+Mr 100-Auge-Klaumops
+kommt nun schwer atmend,
+
+1201
+00:58:45,300 --> 00:58:47,467
+ein bisschen mit der Zunge hechelnd,
+
+1202
+00:58:47,567 --> 00:58:50,233
+den Gang der Bibliothek
+entlanggeschlurft.
+
+1203
+00:58:50,333 --> 00:58:53,900
+Der Zuschauer ist wieder mit Harry
+zusammen unter dem Tarnumhang.
+
+1204
+00:58:54,000 --> 00:58:55,800
+Er geht vorsichtig in eine Ecke,
+
+1205
+00:58:55,900 --> 00:59:00,567
+während Mr Filch immer noch schwer
+atmend und übertrieben eklig röchelnd
+
+1206
+00:59:00,667 --> 00:59:02,633
+den Gang an ihm vorbeigeht.
+
+1207
+00:59:02,733 --> 00:59:04,267
+Huch, noch mal Glück gehabt.
+
+1208
+00:59:04,367 --> 00:59:06,833
+Leise verzieht sich Harry
+aus der Bibliothek.
+
+1209
+00:59:06,933 --> 00:59:08,300
+Schnitt: Drehortwechsel.
+
+1210
+00:59:08,400 --> 00:59:11,233
+Wir sind nicht mehr in Oxford
+in der Bodleian Library,
+
+1211
+00:59:11,333 --> 00:59:12,833
+sondern in der Lacock Abbey.
+
+1212
+00:59:12,933 --> 00:59:15,333
+Teile davon haben wir
+schon im Film gesehen,
+
+1213
+00:59:15,433 --> 00:59:17,633
+etwa die Sakristei,
+Snapes Klassenzimmer.
+
+1214
+00:59:17,733 --> 00:59:21,533
+Nun befinden wir uns in einem
+Kreuzgang vor dem Kapitelhaus,
+
+1215
+00:59:21,633 --> 00:59:24,400
+was später im Film
+noch als Drehort benutzt wird.
+
+1216
+00:59:24,500 --> 00:59:27,467
+In diesem Gang öffnet sich nun
+wie von Geisterhand
+
+1217
+00:59:27,567 --> 00:59:30,767
+eine große,
+gar nicht auffällige knarzende Tür.
+
+1218
+00:59:30,867 --> 00:59:33,067
+Und Harry
+schleicht unsichtbar heraus.
+
+1219
+00:59:33,167 --> 00:59:35,433
+Doch Mrs Norris,
+die Katze von Mr Filch,
+
+1220
+00:59:35,533 --> 00:59:38,033
+sitzt schon da
+und macht böses Maunzen.
+
+1221
+00:59:38,133 --> 00:59:39,133
+Meow!
+
+1222
+00:59:39,233 --> 00:59:42,900
+Ihre roten Augen leuchten auf,
+und selbst unter dem Tarnumhang
+
+1223
+00:59:43,000 --> 00:59:45,433
+scheint sie ihn zu sehen
+und rennt auf ihn zu.
+
+1224
+00:59:45,600 --> 00:59:48,700
+Mrs Norris ist, laut J. K. Rowling,
+kein magisches Wesen,
+
+1225
+00:59:48,800 --> 00:59:51,033
+sondern eine normale,
+recht kluge Katze.
+
+1226
+00:59:51,133 --> 00:59:53,600
+Da scheint es ja irgendwie
+ein Fehler zu sein,
+
+1227
+00:59:53,700 --> 00:59:56,267
+dass sie Harry jetzt
+unter dem Tarnumhang sieht.
+
+1228
+00:59:56,367 --> 00:59:59,100
+Aber Katzen verlassen sich
+nicht nur auf ihre Sicht,
+
+1229
+00:59:59,200 --> 01:00:01,300
+sondern auch
+auf Gehör- und Geruchssinn.
+
+1230
+01:00:01,400 --> 01:00:04,233
+Da kann es sein,
+dass der vor Angst stinkende Harry
+
+1231
+01:00:04,333 --> 01:00:08,000
+trotz Unsichtbarkeit von ihr
+wahrgenommen und verfolgt wird.
+
+1232
+01:00:08,100 --> 01:00:11,000
+Während die böse Mrs Norris
+Harry verfolgt,
+
+1233
+01:00:11,100 --> 01:00:13,900
+nehmen wir als Zuschauer selbst
+Harrys Sicht ein.
+
+1234
+01:00:14,000 --> 01:00:16,733
+Er wuselt unbeholfen
+mit dem Tarnumhang vor der Nase
+
+1235
+01:00:16,833 --> 01:00:18,867
+ohne Laterne
+den düsteren Gang entlang.
+
+1236
+01:00:18,967 --> 01:00:22,300
+Im Hintergrund hört man
+immer noch ein: "Meow. Meow."
+
+1237
+01:00:22,400 --> 01:00:24,800
+Und dann wird ihm
+auch noch der Weg versperrt!
+
+1238
+01:00:24,900 --> 01:00:27,500
+Wie aus dem Nichts
+erscheint Professor Snape.
+
+1239
+01:00:27,600 --> 01:00:29,100
+Aber er sieht Harry nicht
+
+1240
+01:00:29,200 --> 01:00:32,167
+und drückt stattdessen
+Professor Quirrell an die Wand.
+
+1241
+01:00:32,267 --> 01:00:35,333
+Wodurch Voldemort bestimmt
+seine platte Nase bekommen hat.
+
+1242
+01:00:35,433 --> 01:00:37,800
+Quirrell stottert vor sich hin:
+"Severus ..."
+
+1243
+01:00:37,900 --> 01:00:40,800
+"Sie wollen mich doch nicht
+zum Feind haben, Quirrell?"
+
+1244
+01:00:40,900 --> 01:00:42,167
+Was ist denn da los?
+
+1245
+01:00:42,267 --> 01:00:43,567
+Und ich muss ja zugeben,
+
+1246
+01:00:43,667 --> 01:00:47,700
+dass diese Szene der Grund dafür war,
+dass ich Harry-Potter-Fan wurde.
+
+1247
+01:00:47,800 --> 01:00:50,833
+Ich muss dazu weiter ausholen.
+(Sie schnappt nach Luft.)
+
+1248
+01:00:50,933 --> 01:00:53,733
+Grüße gehen raus
+an meinen allerersten Online-Kumpel,
+
+1249
+01:00:53,833 --> 01:00:57,200
+den ich über Beepworld-Websiten
+und ICQ-Chat kennengelernt habe.
+
+1250
+01:00:57,300 --> 01:00:59,833
+Seinen richtigen Namen
+weiß ich bis heute nicht.
+
+1251
+01:00:59,933 --> 01:01:02,567
+Aber er war der einzige
+im frühen 2000er-Internet,
+
+1252
+01:01:02,667 --> 01:01:04,700
+der auch Snape-Quirrell-Shipper war.
+
+1253
+01:01:04,800 --> 01:01:06,800
+Moment,
+bitte schalt nicht ab, hör zu.
+
+1254
+01:01:06,900 --> 01:01:08,300
+Ich erinner mich deutlich,
+
+1255
+01:01:08,400 --> 01:01:10,833
+wie ich diese Szene
+zum ersten Mal gesehen hab
+
+1256
+01:01:10,933 --> 01:01:11,933
+und dachte: Oh.
+
+1257
+01:01:12,033 --> 01:01:13,767
+Und zwar in Kursivschrift.
+
+1258
+01:01:13,867 --> 01:01:17,100
+Sofern ein Gehirn in der Lage ist
+in Kursivschrift zu denken.
+
+1259
+01:01:17,200 --> 01:01:19,367
+Das ist die beste Metapher
+zur Erklärung.
+
+1260
+01:01:19,467 --> 01:01:21,733
+Ich fand Harry Potter
+damals total scheiße,
+
+1261
+01:01:21,833 --> 01:01:23,933
+weil's Mainstream-Kinderbuch-Kacke
+war.
+
+1262
+01:01:24,033 --> 01:01:27,400
+Den Film hab ich gesehen, weil
+Freunde mich hingeschleppt haben.
+
+1263
+01:01:27,500 --> 01:01:31,300
+Aber Alan Rickman fand ich toll, weil
+ich ihn aus "Galaxy Quest" kannte.
+
+1264
+01:01:31,400 --> 01:01:34,300
+Dann hast du Alan Rickman
+mit langen, schwarzen Haaren,
+
+1265
+01:01:34,400 --> 01:01:36,000
+in düsteres Mondlicht gehüllt.
+
+1266
+01:01:36,100 --> 01:01:38,567
+Er macht präzise Kraftanwendungen
+ohne Gewalt.
+
+1267
+01:01:38,667 --> 01:01:40,667
+Die Stimme kühl und leise flüsternd.
+
+1268
+01:01:40,767 --> 01:01:44,467
+Der drückt Quirrell an die Wand,
+als würde er ihn knutschen wollen!
+
+1269
+01:01:44,567 --> 01:01:46,267
+(Räuspern) 'Tschuldigung.
+
+1270
+01:01:46,367 --> 01:01:47,733
+Da läuft doch was!
+
+1271
+01:01:47,833 --> 01:01:51,400
+Das war der Auslöser für viele
+schlechte Harry-Potter-Fan-Fictions,
+
+1272
+01:01:51,500 --> 01:01:53,733
+noch bevor ich
+die Bücher gelesen habe.
+
+1273
+01:01:53,833 --> 01:01:56,600
+Offiziell fand ich den
+ja immer noch total scheiße.
+
+1274
+01:01:56,700 --> 01:02:00,533
+Dann hab ich in einer dunklen Stunde
+angefangen die Bücher zu lesen.
+
+1275
+01:02:00,633 --> 01:02:03,733
+Aus schlechten Fan-Fictions
+wurden Anfänge von Drehbüchern.
+
+1276
+01:02:03,833 --> 01:02:07,567
+Aus diesen Drehbüchern wurde die
+Synchro "Harry Potter und ein Stein".
+
+1277
+01:02:07,667 --> 01:02:11,267
+Daraus entsprang mein YouTube-Kanal,
+und nun gibt es diesen Podcast.
+
+1278
+01:02:11,367 --> 01:02:14,467
+Dann bin ich doch mit der Zeit
+Harry-Potter-Fan geworden.
+
+1279
+01:02:14,567 --> 01:02:16,200
+Habt ihr vielleicht gemerkt.
+
+1280
+01:02:16,300 --> 01:02:17,633
+Alles wegen dieser Szene.
+
+1281
+01:02:17,733 --> 01:02:21,500
+Wegen Alan Rickman und der blöden
+Kursivschrift in meinem Gehirn.
+
+1282
+01:02:21,600 --> 01:02:24,600
+Harry geht auf Zehenspitzen
+um Snape und Quirrell herum,
+
+1283
+01:02:24,700 --> 01:02:26,700
+die da irgendwas an der Wand machen.
+
+1284
+01:02:26,800 --> 01:02:29,167
+Er versteht nicht ganz,
+was da vor sich geht.
+
+1285
+01:02:29,267 --> 01:02:30,633
+Wir Zuschauer auch nicht.
+
+1286
+01:02:30,733 --> 01:02:33,533
+Denn augenscheinlich wird
+der arme, zittrige Quirrell
+
+1287
+01:02:33,633 --> 01:02:34,967
+vom bösen Snape bedrängt.
+
+1288
+01:02:35,067 --> 01:02:37,167
+Dabei hat Snape
+einen guten Grund dafür,
+
+1289
+01:02:37,267 --> 01:02:40,933
+und Quirrell ist nicht hilflos,
+der hat's faustdick hinter den Ohren.
+
+1290
+01:02:41,033 --> 01:02:44,833
+Wahrhaftig, denn hinter seinen Ohren
+ist Voldemort an seinem Hinterkopf,
+
+1291
+01:02:44,933 --> 01:02:47,933
+der Pläne schmiedet,
+um den Stein der Weisen zu stehlen,
+
+1292
+01:02:48,033 --> 01:02:50,067
+was Quirrell
+an Halloween versucht hat.
+
+1293
+01:02:50,167 --> 01:02:53,733
+Das ist Snape alles aufgefallen.
+Aber da wir das noch nicht wissen,
+
+1294
+01:02:53,833 --> 01:02:56,467
+sieht es so aus,
+als wär er wieder der Bösewicht.
+
+1295
+01:02:56,567 --> 01:02:59,100
+Grade als Harry
+an ihnen vorbeigeschlichen ist
+
+1296
+01:02:59,200 --> 01:03:01,900
+und sich in Sicherheit wähnt,
+passiert eine Sache,
+
+1297
+01:03:02,000 --> 01:03:04,100
+die mir vorher nie aufgefallen ist:
+
+1298
+01:03:04,200 --> 01:03:06,667
+Quirrell schaut
+eine Sekunde lang zu Harry.
+
+1299
+01:03:06,767 --> 01:03:10,700
+Es könnte Zufall sein, oder es liegt
+an Voldemorts Verbindung zu Harry.
+
+1300
+01:03:10,800 --> 01:03:14,333
+Aber es führt dazu, dass Snape
+Quirrells Augenbewegung folgt
+
+1301
+01:03:14,433 --> 01:03:17,267
+und sich mit einem Mal umdreht
+und hinter sich schaut.
+
+1302
+01:03:17,367 --> 01:03:19,367
+Snape weiß zwar nichts
+vom Tarnumhang,
+
+1303
+01:03:19,467 --> 01:03:21,233
+aber er wurde in seiner Schulzeit
+
+1304
+01:03:21,333 --> 01:03:23,967
+bestimmt oft genug
+von James Potter schikaniert,
+
+1305
+01:03:24,067 --> 01:03:28,500
+sodass er jetzt eine unerwünschte
+Präsenz in seiner Nähe spürt.
+
+1306
+01:03:28,667 --> 01:03:29,933
+Genauso wie Mrs Norris'
+
+1307
+01:03:30,033 --> 01:03:33,100
+scheint Snapes Wahrnehmung
+nicht nur auf sich zu basieren.
+
+1308
+01:03:33,200 --> 01:03:36,367
+Immerhin hat er den Spitznamen
+"Sniefelus" von James Potter.
+
+1309
+01:03:36,467 --> 01:03:39,900
+Weil er so einen riesen Zinken hat
+und allen hinterherschnüffelt.
+
+1310
+01:03:40,000 --> 01:03:42,767
+Er hat wohl wirklich
+einen verschärften Geruchssinn
+
+1311
+01:03:42,867 --> 01:03:45,167
+und lokalisiert Harry,
+genau wie Mrs Norris,
+
+1312
+01:03:45,267 --> 01:03:48,767
+durch kleine Angst-Stinke-Wölkchen,
+die in der Luft verteilt sind.
+
+1313
+01:03:48,867 --> 01:03:52,667
+Harry atmet schwer und schlägt sich
+vor Schreck die Hand vor den Mund.
+
+1314
+01:03:52,767 --> 01:03:55,500
+"Oh!" Was noch mehr
+Aufmerksamkeit auf ihn richtet.
+
+1315
+01:03:55,600 --> 01:03:58,667
+Snape streckt die Hand aus,
+greift in seine Richtung
+
+1316
+01:03:58,767 --> 01:04:01,367
+und nur wenige Zentimeter
+an im vorbei.
+
+1317
+01:04:01,467 --> 01:04:04,133
+Harry geht ohne zu atmen
+rückwärts von dannen
+
+1318
+01:04:04,233 --> 01:04:05,633
+und bleibt unentdeckt.
+
+1319
+01:04:05,733 --> 01:04:08,100
+Nicht weil er den Tarnumhang
+so klug benutzt,
+
+1320
+01:04:08,200 --> 01:04:10,633
+sondern weil er immer
+verdammt viel Glück hat.
+
+1321
+01:04:10,733 --> 01:04:13,000
+Snape guckt etwas zweifelnd
+auf seine Hand,
+
+1322
+01:04:13,100 --> 01:04:16,267
+als wäre er enttäuscht davon,
+dass sie nichts gegriffen hat,
+
+1323
+01:04:16,367 --> 01:04:18,933
+und nur Staubfussel
+aus der Luft gefangen wurden
+
+1324
+01:04:19,033 --> 01:04:20,867
+und keine unsichtbaren Leute.
+
+1325
+01:04:20,967 --> 01:04:23,867
+Mit einem Ruck
+dreht er sich zurück zu Quirrell.
+
+1326
+01:04:23,967 --> 01:04:26,433
+Seine lange Haare
+wehen durch die Luft.
+
+1327
+01:04:26,533 --> 01:04:27,700
+Ich dachte mir dabei:
+
+1328
+01:04:27,800 --> 01:04:31,533
+Die Haare von Film-Snape entsprechen
+nicht ganz der Buchvorlage.
+
+1329
+01:04:31,633 --> 01:04:34,500
+Da heißt es nämlich,
+dass er lange, fettige Haare hat,
+
+1330
+01:04:34,600 --> 01:04:36,433
+passend zu seiner öligen Stimme.
+
+1331
+01:04:36,533 --> 01:04:38,833
+Wie auch immer
+eine ölige Stimme klingt.
+
+1332
+01:04:38,933 --> 01:04:41,733
+Alan Rickmans Stimme
+ist jedenfalls ganz fantastisch.
+
+1333
+01:04:41,833 --> 01:04:45,000
+Aber es wird immer wieder betont,
+wie fettig die Haare sind.
+
+1334
+01:04:45,100 --> 01:04:47,700
+Was dazu führt,
+dass Fred Weasley den Gag bringt,
+
+1335
+01:04:47,800 --> 01:04:50,700
+dass sich Snape wohl
+mit Shampoo verscheuchen ließe.
+
+1336
+01:04:50,800 --> 01:04:53,367
+Das im Film sind nicht
+Alan Rickmans echte Haare,
+
+1337
+01:04:53,467 --> 01:04:56,533
+sondern eine Perücke.
+Da sind die Haare relativ gepflegt.
+
+1338
+01:04:56,633 --> 01:05:00,367
+Sie sind definitiv nicht fettig,
+sondern voll geschmeidiger Vitalität.
+
+1339
+01:05:00,467 --> 01:05:03,767
+(Snape imitierend:) Mit kräftigem
+Volumen und seidigem Glanz,
+
+1340
+01:05:03,900 --> 01:05:07,333
+dabei trotzdem leicht und locker
+ohne Ziepen beim Kämmen."
+
+1341
+01:05:07,433 --> 01:05:10,333
+"Weil ich es mir wert bin,
+Mister Potter."
+
+1342
+01:05:10,600 --> 01:05:13,167
+Filmsnape könnte Werbung
+für Shampoo machen.
+
+1343
+01:05:13,500 --> 01:05:18,700
+Ungepflegtes/unhygienisches Aussehen
+löst im Betrachter Abneigung aus,
+
+1344
+01:05:19,300 --> 01:05:22,633
+und somit hätte man den von den
+Filmemachern gewollten Eindruck
+
+1345
+01:05:22,733 --> 01:05:25,100
+von Bösewichtigkeit
+noch unterstützen können.
+
+1346
+01:05:25,200 --> 01:05:29,467
+Filmsnape ist leider noch zu hübsch
+und gepflegt, um abstoßend zu sein.
+
+1347
+01:05:29,767 --> 01:05:31,967
+Seine Haare
+kleben nicht speckig an ihm,
+
+1348
+01:05:32,067 --> 01:05:36,433
+sondern wirbeln fluffig-kraftvoll,
+shampoowerbung-mäßig durch die Luft.
+
+1349
+01:05:36,700 --> 01:05:39,833
+Und Snape zeigt jetzt drohend
+mit einem Finger auf Quirrell,
+
+1350
+01:05:39,967 --> 01:05:43,633
+den er immer noch fest im Griff hat
+und der im Close-up verängstigt,
+
+1351
+01:05:43,733 --> 01:05:46,767
+mit kleinen, flehenden Hundeaugen
+zu Snape hinaufschaut.
+
+1352
+01:05:47,000 --> 01:05:50,467
+Quirrell sagt die ganze Zeit
+so was wie "Severus, äh ... ich ...",
+
+1353
+01:05:50,600 --> 01:05:54,367
+nennt ihn also beim Vornamen, aber
+Snape nennt ihn nicht beim Vornamen.
+
+1354
+01:05:54,467 --> 01:05:56,833
+Er hat gar keinen.
+Genau wie bei Madame Hooch
+
+1355
+01:05:57,000 --> 01:05:59,400
+wird Quirrells Vorname
+in keinem Buch erwähnt.
+
+1356
+01:05:59,533 --> 01:06:02,500
+Und genau wie bei ihr
+ist in einer uralten IMDB-Liste
+
+1357
+01:06:02,633 --> 01:06:06,367
+noch bevor der Film erschien, ein
+seltsamer Vorname für ihn erschienen.
+
+1358
+01:06:06,467 --> 01:06:08,600
+Da hieß er dann "Slatero".
+
+1359
+01:06:09,000 --> 01:06:11,867
+Slut- ... Sladdero, Slater-o.
+
+1360
+01:06:12,433 --> 01:06:13,667
+Ist ja auch egal.
+
+1361
+01:06:13,900 --> 01:06:16,300
+Diese IMDB-Liste
+ist sowieso hinfällig.
+
+1362
+01:06:16,500 --> 01:06:19,700
+Und auch wie bei Madame Hooch
+ist für Quirrell im Nachhinein
+
+1363
+01:06:19,800 --> 01:06:23,100
+eine Sammelkarte im Harry Potter-
+Trading Card Game erschienen
+
+1364
+01:06:23,233 --> 01:06:26,233
+mit dem Schriftzug
+"Professor Quirinus Quirrell".
+
+1365
+01:06:26,567 --> 01:06:29,967
+Und dieser Name ist später auch
+auf Pottermore bestätigt worden.
+
+1366
+01:06:30,100 --> 01:06:32,467
+Und das passt ja
+in die Gruppe von Lehrern
+
+1367
+01:06:32,567 --> 01:06:35,633
+wie Minerva McGonagall,
+Severus Snape, Filius Flitwick -
+
+1368
+01:06:35,767 --> 01:06:40,300
+das sind alles schöne Alliterationen,
+da fügt sich Quirinus Quirrell ein.
+
+1369
+01:06:40,500 --> 01:06:44,033
+Der Name Quirinus hat auf jeden Fall
+eine tiefgehendere Bedeutung,
+
+1370
+01:06:44,233 --> 01:06:47,700
+die ich jedoch in einem anderen
+Podcast bei einer anderen Stelle
+
+1371
+01:06:47,833 --> 01:06:51,600
+später im Film weiter erläutere,
+wo es auch thematisch passt.
+
+1372
+01:06:52,000 --> 01:06:54,567
+Das Wort Quirrell
+hat keine direkte Übersetzung.
+
+1373
+01:06:54,700 --> 01:06:56,800
+J.K. Rowling
+meinte dazu auf Pottermore:
+
+1374
+01:06:56,933 --> 01:07:00,133
+"Man denkt natürlich direkt an
+squirrel, also Eichhörnchen,
+
+1375
+01:07:00,233 --> 01:07:02,233
+die sind klein, niedlich
+und harmlos."
+
+1376
+01:07:02,333 --> 01:07:06,033
+"Und das ist vermischt mit dem Wort
+'quiver', was 'zittern' bedeutet,
+
+1377
+01:07:06,133 --> 01:07:09,300
+denn Quirrell ist ja auch ein
+zitteriger, stotternder Typ,
+
+1378
+01:07:09,400 --> 01:07:11,767
+es ist ein Name,
+der unterbewusst ein Gefühl
+
+1379
+01:07:11,900 --> 01:07:14,733
+von bemitleidenswerter Harmlosigkeit
+vermitteln soll."
+
+1380
+01:07:14,833 --> 01:07:17,067
+Obwohl Quirrell
+das genaue Gegenteil ist.
+
+1381
+01:07:17,167 --> 01:07:19,567
+Und in der italienischen Version
+des Buches
+
+1382
+01:07:19,667 --> 01:07:22,300
+hat der Übersetzer
+aus irgendeinem Grund gedacht:
+
+1383
+01:07:22,467 --> 01:07:25,900
+"Hm, welchen Namen nehme ich,
+um dieses absolut harmlose Gefühl
+
+1384
+01:07:26,000 --> 01:07:29,067
+im Leser auszulösen?
+Ich hab's: Raptor!"
+
+1385
+01:07:29,433 --> 01:07:32,867
+Ich stell mir das so lustig vor
+beim Lesen, wenn es dann heißt:
+
+1386
+01:07:32,967 --> 01:07:36,467
+"Ja, jetzt haben wir wieder
+Verteidigung gegen die Dunklen Künste
+
+1387
+01:07:36,567 --> 01:07:38,367
+mit Professor Raptor!"
+(Brüllen)
+
+1388
+01:07:38,500 --> 01:07:41,100
+Und dann ist da ein Dinosaurier
+mit Magierrobe
+
+1389
+01:07:41,200 --> 01:07:43,933
+und kommt mit seinen kleinen Ärmchen
+nirgendwo ran.
+
+1390
+01:07:44,067 --> 01:07:47,833
+Es wurde in den späteren Ausgaben
+wieder zurück in Quirrell umbenannt.
+
+1391
+01:07:47,933 --> 01:07:50,033
+Warum auch immer,
+ich find's voll gut!
+
+1392
+01:07:50,133 --> 01:07:53,700
+Da ist ein Dinosaurier in Hogwarts -
+mit einem Professor-Titel!
+
+1393
+01:07:53,800 --> 01:07:57,033
+Und es wird nie erklärt,
+ist einfach als normal hingestellt.
+
+1394
+01:07:57,133 --> 01:08:00,567
+Natürlich ist da ein Dinosaurier,
+der Lehrer ist. Es wär so cool!
+
+1395
+01:08:00,700 --> 01:08:03,267
+Mr Filch heißt auf Italienisch
+übrigens Gazza,
+
+1396
+01:08:03,367 --> 01:08:05,500
+was übersetzt "Elster" bedeutet.
+
+1397
+01:08:05,833 --> 01:08:09,033
+Da ist zumindest die Gedankenbrücke
+grob zu erkennen,
+
+1398
+01:08:09,300 --> 01:08:12,200
+weil Elstern ja den Ruf haben,
+diebische Vögel zu sein,
+
+1399
+01:08:12,333 --> 01:08:15,167
+die einem angeblich glitzernde
+Gegenstände klauen.
+
+1400
+01:08:15,300 --> 01:08:17,567
+Und to filch
+heißt ja klauen und mopsen.
+
+1401
+01:08:17,833 --> 01:08:21,200
+Aber ich frag mich echt, wie
+die Gedankenbrücke zu Raptor war.
+
+1402
+01:08:21,300 --> 01:08:23,567
+Wie, zum Geier,
+sind sie darauf gekommen?
+
+1403
+01:08:23,700 --> 01:08:27,333
+Mr Filch kommt zufällig eben, wo ich
+von ihm rede, den Gang entlang,
+
+1404
+01:08:27,433 --> 01:08:30,767
+Mrs Norris an seiner Seite,
+die auf Italienisch Mrs Purr heißt.
+
+1405
+01:08:30,867 --> 01:08:33,633
+In der einen Hand trägt Filch
+seine eigene Laterne,
+
+1406
+01:08:33,767 --> 01:08:36,300
+und in der anderen
+Harrys kaputte Laterne.
+
+1407
+01:08:36,533 --> 01:08:39,067
+Filch bleibt damit vor Snape
+und Quirrell stehen
+
+1408
+01:08:39,167 --> 01:08:40,800
+und ... was wird er nun tun?
+
+1409
+01:08:40,900 --> 01:08:44,333
+Werden sie wissen, dass Harry es war?
+Werden sie Harry fangen?
+
+1410
+01:08:44,433 --> 01:08:47,300
+Wird Filch sich von Snape Tipps
+für Haarpflege holen?
+
+1411
+01:08:47,400 --> 01:08:50,033
+Seine Haare sind tatsächlich
+eklig und giddelig.
+
+1412
+01:08:50,133 --> 01:08:52,200
+Wird Quirrell anfangen zu jonglieren?
+
+1413
+01:08:52,333 --> 01:08:55,800
+Schon wieder stelle ich viele
+merkwürdige Fragen, was heißt das?
+
+1414
+01:08:55,933 --> 01:08:59,533
+Es tut mir leid, aber wir beantworten
+die Fragen beim nächsten Mal,
+
+1415
+01:08:59,700 --> 01:09:02,167
+denn hier ist die Fünf-Minuten-Marke
+erreicht,
+
+1416
+01:09:02,267 --> 01:09:04,267
+und somit das Ende für diese Folge.
+
+1417
+01:09:04,367 --> 01:09:07,167
+Also, hoffentlich hör ich mich ...
+hört ihr mich ...
+
+1418
+01:09:07,267 --> 01:09:09,567
+wir hören uns gegenseitig
+beim nächsten Mal
+
+1419
+01:09:09,667 --> 01:09:11,867
+bei "5 Minuten Harry Podcast".
+Tschüss!
+
+1420
+01:09:12,000 --> 01:09:14,267
+# Da-da-da-da-da-da-da-da
+da-da-da-da-daaa.
+
+1421
+01:09:14,400 --> 01:09:16,667
+(näselnd:) Und hier
+sind ein paar Outtakes.
+
+1422
+01:09:16,800 --> 01:09:17,833
+(Brüllen)
+
+1423
+01:09:17,933 --> 01:09:20,733
+Und jetzt wünsche ich viel Vergnügen
+bei Folge 18.
+
+1424
+01:09:20,833 --> 01:09:23,033
+Nein, gar nicht - Folge 19.
+Scheiße.
+
+1425
+01:09:23,133 --> 01:09:26,233
+Ich hab 30 Sekunden aufgenommen,
+schon der erste Outtake.
+
+1426
+01:09:26,933 --> 01:09:28,767
+Das kann ja was werden.
+(Brüllen)
+
+1427
+01:09:28,867 --> 01:09:33,267
+Nicht in dem Teil, in dem ... Nicht
+in den Teil, in DEM keiner reindarf?
+
+1428
+01:09:33,400 --> 01:09:35,733
+Nicht in DEM Teil,
+in DEN keiner reindarf.
+
+1429
+01:09:35,933 --> 01:09:37,100
+(Brüllen)
+
+1430
+01:09:37,233 --> 01:09:40,800
+Da gibt es den Gott der Unterwelt,
+Hades, dessen dreiköpfiger Hund,
+
+1431
+01:09:40,933 --> 01:09:44,767
+Wächter der Unterwelt, Zerberus, der
+auch als Fluffy in Herr der R- ...
+
+1432
+01:09:44,867 --> 01:09:46,233
+Herr der Ringe?
+(Lachen)
+
+1433
+01:09:46,367 --> 01:09:49,167
+Mein liebster Charakter.
+Fluffy aus Herr der Ringe.
+
+1434
+01:09:49,300 --> 01:09:50,400
+(Lachen)
+
+1435
+01:09:50,500 --> 01:09:53,600
+Mein liebster Charakter aus Star Wars
+ist Captain Spock.
+
+1436
+01:09:53,900 --> 01:09:54,933
+(Brüllen)
+
+1437
+01:09:55,033 --> 01:09:58,133
+Und bei einem Bild von dem goldenen
+Stern hab ich gedacht:
+
+1438
+01:09:58,233 --> 01:10:01,000
+Hm, so hab ich als Kind
+auch immer Dreiecke gemalt,
+
+1439
+01:10:01,100 --> 01:10:03,300
+einfach zwei Dreiecke übereinander.
+Was?
+
+1440
+01:10:03,400 --> 01:10:04,600
+(Lachen)
+
+1441
+01:10:07,700 --> 01:10:11,367
+Ich war nicht so gut in Kunst.
+"Kathrin, mal einfach ein Dreieck."
+
+1442
+01:10:11,467 --> 01:10:13,467
+ZWEI! Übereinander.
+(Lachen)
+
+1443
+01:10:15,100 --> 01:10:16,233
+(Brüllen)
+
+1444
+01:10:16,367 --> 01:10:19,200
+Herr ... Herr ... Herrrzlichen ...
+(Lachen)
+
+1445
+01:10:19,400 --> 01:10:20,867
+Ich will dieses Rrr machen.
+
+1446
+01:10:20,967 --> 01:10:22,000
+(Brüllen)
+
+1447
+01:10:22,200 --> 01:10:25,000
+Man nimmt diesen Eid
+trotzdem immer noch sehr ernst,
+
+1448
+01:10:25,167 --> 01:10:27,733
+und deshalb ist die Laterni ...
+Laternis Harry.
+
+1449
+01:10:27,833 --> 01:10:30,500
+(Lachen)
+Ohne Flamme. Laterni Potter.
+
+1450
+01:10:30,733 --> 01:10:31,767
+(Brüllen)
+
+1451
+01:10:31,900 --> 01:10:34,133
+Das Leuchten dieser ...
+was hab ich? Was?
+
+1452
+01:10:34,233 --> 01:10:38,033
+Alter! Es soll heißen: Das Leuchten,
+das die Bücher erhellt.
+
+1453
+01:10:38,400 --> 01:10:42,967
+Was hab ich geschrieben? Das
+Leuchten, das die Bbchcher reelt.
+
+1454
+01:10:43,133 --> 01:10:44,300
+(Lachen)
+
+1455
+01:10:44,700 --> 01:10:46,767
+Was, zum Geier,
+hab ich da geschrieben?
+
+1456
+01:10:46,900 --> 01:10:50,767
+Ist gut, wenn man nur Drehbücher ...
+für sich selber schreibt.
+
+1457
+01:10:51,167 --> 01:10:53,667
+Dann sieht niemand
+diese grauenvollen Fehler.
+
+1458
+01:10:53,767 --> 01:10:54,800
+(Brüllen)
+
+1459
+01:10:54,967 --> 01:10:58,533
+Und wenn man da nach den Namen sucht,
+wird man tatsächlich fündig.
+
+1460
+01:10:58,633 --> 01:11:00,667
+In der Sparte "Visual Effects by ..."
+
+1461
+01:11:01,133 --> 01:11:02,600
+Krankenwagen draußen.
+
+1462
+01:11:02,700 --> 01:11:05,467
+Ist eine komische Sparte
+für einen Film, ich weiß,
+
+1463
+01:11:05,567 --> 01:11:07,167
+aber so heißt es.
+(Lachen)
+
+1464
+01:11:08,267 --> 01:11:11,233
+Diese visuellen Effekte
+wurden von Krankenwagen gemacht.
+
+1465
+01:11:11,333 --> 01:11:12,367
+(Brüllen)
+
+1466
+01:11:12,467 --> 01:11:16,400
+Sein Gegenstück in unserer Realität
+in der Bodleian Libblule ...
+
+1467
+01:11:16,567 --> 01:11:17,600
+(Lachen)
+
+1468
+01:11:17,700 --> 01:11:19,800
+Was ist in dem Eistee drinnen?
+(Brüllen)
+
+1469
+01:11:19,900 --> 01:11:22,933
+Keine herumschleichenden unsichtbaren
+Leute. Und fluff!
+
+1470
+01:11:23,467 --> 01:11:27,700
+Oh, jetzt hab ich ... und fluff!,
+sabbere ich meinen Bildschirm an.
+
+1471
+01:11:27,833 --> 01:11:28,867
+(Brüllen)
+
+1472
+01:11:29,000 --> 01:11:32,533
+Hm, welchen Namen nehm ich jetzt,
+um dieses absolut harmlose Gefühl
+
+1473
+01:11:32,633 --> 01:11:34,633
+im Leber ... in der Leber auszulösen?
+
+1474
+01:11:34,800 --> 01:11:35,833
+(Kichern)
+

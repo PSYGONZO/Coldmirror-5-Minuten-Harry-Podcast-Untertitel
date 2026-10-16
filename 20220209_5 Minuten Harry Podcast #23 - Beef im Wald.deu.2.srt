@@ -1,0 +1,4858 @@
+1
+00:00:00,033 --> 00:00:03,300
+# Da-da da-da daa-daa,
+da-da-da-da-da, daaaa.
+
+2
+00:00:03,400 --> 00:00:05,567
+Willkommen zu
+"5 Minuten Harry Podcast".
+
+3
+00:00:05,667 --> 00:00:07,833
+Ein Podcast von und mit mir,
+Coldmirror,
+
+4
+00:00:07,933 --> 00:00:11,067
+in dem ich in jeder Folge jeweils
+fünf Minuten aus dem Film
+
+5
+00:00:11,167 --> 00:00:13,233
+"Harry Potter
+und der Stein der Weisen"
+
+6
+00:00:13,333 --> 00:00:14,733
+analysiere, interpretiere,
+
+7
+00:00:14,833 --> 00:00:18,467
+und dann länger als fünf Minuten
+meine Gedanken darüber verbalisiere.
+
+8
+00:00:18,567 --> 00:00:21,367
+Für Leute, die das
+immer noch nicht verstanden haben.
+
+9
+00:00:21,467 --> 00:00:24,667
+Diese Podcast ist gedacht zum
+Erinnern, Kichern, Einschlafen,
+
+10
+00:00:24,767 --> 00:00:28,333
+Wachbleiben oder zum entspannt
+in der Badewanne Zurücklehnen
+
+11
+00:00:28,433 --> 00:00:31,467
+und sich darüber ärgern,
+wie viel Wasser man verdrängt.
+
+12
+00:00:31,567 --> 00:00:35,067
+Viel Vergnügen bei Folge 23,
+wir beginnen in dieser Folge
+
+13
+00:00:35,167 --> 00:00:38,000
+bei Mr. Filch,
+der völlig entgeistert dreinschaut,
+
+14
+00:00:38,100 --> 00:00:41,800
+und enden bei Harry, der im
+dunklen Wald mit Firenze spricht.
+
+15
+00:00:41,900 --> 00:00:45,367
+Bevor ich mich mit dem Verlauf
+der nächsten Szene befasse,
+
+16
+00:00:45,467 --> 00:00:47,767
+muss ich noch mal
+den Film zurückspulen
+
+17
+00:00:47,867 --> 00:00:51,267
+und ein paar im letzten Podcast
+angesprochene Filmfehler,
+
+18
+00:00:51,367 --> 00:00:55,133
+von denen es einige gab,
+erläutern beziehungsweise begnadigen.
+
+19
+00:00:55,233 --> 00:00:57,400
+Sprechen wir den Elefanten
+im Raum an.
+
+20
+00:00:57,500 --> 00:01:00,067
+Nein, nicht Hagrid,
+sondern das schwarze Quadrat
+
+21
+00:01:00,167 --> 00:01:03,067
+bei der Szene am Kamin,
+das ich nicht einordnen konnte
+
+22
+00:01:03,167 --> 00:01:05,533
+und als Nachbearbeitungsfehler
+bezeichnete.
+
+23
+00:01:05,633 --> 00:01:07,967
+Das Tolle ist,
+es gibt unter euch Leute,
+
+24
+00:01:08,067 --> 00:01:10,367
+die haben die mir fehlende Expertise.
+
+25
+00:01:10,467 --> 00:01:13,900
+Und macprofire in den
+YouTube-Kommentaren hat versucht,
+
+26
+00:01:14,000 --> 00:01:16,367
+das zu erklären,
+was dieses Quadrat ist.
+
+27
+00:01:16,467 --> 00:01:18,500
+Es könnte eine Alpha-Maske sein.
+
+28
+00:01:18,600 --> 00:01:21,267
+Eine Alpha-Maske ist
+eine schwarz-weiße Bilddatei,
+
+29
+00:01:21,367 --> 00:01:24,133
+wo das Schwarz eigentlich
+am Ende transparent ist,
+
+30
+00:01:24,233 --> 00:01:26,733
+und was weiß ist,
+bleibt weiterhin zu sehen.
+
+31
+00:01:26,833 --> 00:01:29,033
+Nur diese Bilddatei
+wurde falsch gesetzt.
+
+32
+00:01:29,133 --> 00:01:30,133
+Ich zitiere:
+
+33
+00:01:47,833 --> 00:01:51,433
+Das könnte eine Erklärung sein:
+Das hat was mit Alpha-Masken zu tun.
+
+34
+00:01:51,533 --> 00:01:53,567
+Ich verstehe ein paar dieser Worte.
+
+35
+00:01:53,667 --> 00:01:57,500
+Die Sache, die verdeckt wurde, ist
+entweder ein heller Bereich im Dach,
+
+36
+00:01:57,600 --> 00:02:01,633
+oder irgendetwas das zu stark
+an der Decke Licht reflektiert.
+
+37
+00:02:01,733 --> 00:02:03,467
+Es ist nicht Teil des Kamins.
+
+38
+00:02:03,567 --> 00:02:07,067
+Einige von euch haben mich dazu
+angeschrieben und mir mitgeteilt,
+
+39
+00:02:07,167 --> 00:02:11,533
+dass dieses Quadrat im 4K Remaster
+des Film nicht zu sehen ist.
+
+40
+00:02:11,633 --> 00:02:13,933
+Da muss ich meine Aussage
+vom letzten Mal,
+
+41
+00:02:14,033 --> 00:02:17,367
+dass der Filmfehler mit dem Quadrat
+in allen Filmversionen ist,
+
+42
+00:02:17,467 --> 00:02:19,867
+zurückziehen,
+das stimmt nicht, tut mir leid.
+
+43
+00:02:19,967 --> 00:02:22,700
+Bei der 4K-Version
+hat man sich die Mühe gemacht,
+
+44
+00:02:22,800 --> 00:02:24,933
+diesen Nachbearbeitungsfehler
+zu beheben.
+
+45
+00:02:25,033 --> 00:02:28,433
+Und zwar, indem man überhaupt
+keine Nachbearbeitung gemacht hat?
+
+46
+00:02:28,533 --> 00:02:31,067
+Man sieht das Ding hinter Hagrid
+auf jeden Fall.
+
+47
+00:02:31,167 --> 00:02:33,233
+Ich vermute,
+dass es zu hell war.
+
+48
+00:02:33,333 --> 00:02:36,000
+Denn in der 4K-Version
+ist die generelle Helligkeit
+
+49
+00:02:36,100 --> 00:02:40,033
+dieser Szene und der Kontrast
+hinter Hagrid runtergeschraubt.
+
+50
+00:02:40,133 --> 00:02:43,433
+Vielleicht war dafür die Maske da,
+es einfach nur abzudunkeln.
+
+51
+00:02:43,533 --> 00:02:44,667
+Weil das helle Dingsi
+
+52
+00:02:44,767 --> 00:02:48,033
+zu sehr von der schummerigen
+Gemütlichkeit abgelenkt hätte.
+
+53
+00:02:48,133 --> 00:02:50,700
+Jetzt wissen wir jedenfalls,
+was das Quadrat war.
+
+54
+00:02:50,800 --> 00:02:53,200
+Aber was da hinter Hagrid ist -
+keine Ahnung.
+
+55
+00:02:53,300 --> 00:02:55,167
+Es bleibt weiterhin ein Mysterium.
+
+56
+00:02:55,267 --> 00:02:57,900
+Aber es ist kein offensichtlicher
+Filmfehler mehr.
+
+57
+00:02:58,000 --> 00:02:59,367
+Das war noch nicht alles.
+
+58
+00:02:59,467 --> 00:03:02,567
+Eine weitere Sache, die ich
+als Filmfehler bezeichnet habe,
+
+59
+00:03:02,667 --> 00:03:04,700
+wurde von einigen
+von euch kommentiert:
+
+60
+00:03:04,800 --> 00:03:06,833
+die Sicherheitsnadel
+an Hermines Kleid.
+
+61
+00:03:06,933 --> 00:03:09,667
+Auch hier muss ich
+einen schönen Kommentar zitieren,
+
+62
+00:03:09,767 --> 00:03:12,700
+es könnte ein Wikipedia-Artikel sein,
+von Thea_Karlotta:
+
+63
+00:03:12,800 --> 00:03:15,800
+"Es handelt sich um eine Kiltnadel
+bzw. einen Kilt Pin."
+
+64
+00:03:15,900 --> 00:03:18,900
+"Hermine trägt einen 'kilted skirt',
+also eine Abwandlung
+
+65
+00:03:19,000 --> 00:03:22,600
+des klassischen 'great kilts',
+den traditionell nur Männer tragen."
+
+66
+00:03:22,700 --> 00:03:26,400
+"Die Nadel wird dabei verwendet,
+um die Kante des Kilts zu beschweren,
+
+67
+00:03:26,500 --> 00:03:28,200
+damit er nicht aufklappt."
+
+68
+00:03:28,300 --> 00:03:31,900
+"Kilt-Röcke werden auch häufig
+mit diesen Nadeln oder Pins verziert,
+
+69
+00:03:32,000 --> 00:03:34,400
+um den traditionellen Look
+zu unterstreichen,
+
+70
+00:03:34,500 --> 00:03:36,533
+auch wenn sie
+nicht immer nötig sind."
+
+71
+00:03:36,633 --> 00:03:39,167
+"Der Pin passt also sehr gut
+zu Hermines Outfit,
+
+72
+00:03:39,267 --> 00:03:41,867
+da ihr Cardigan ja auch
+mit Tartan verziert ist."
+
+73
+00:03:41,967 --> 00:03:44,500
+Schottenmuster, Schottenrock -
+kein Filmfehler.
+
+74
+00:03:44,600 --> 00:03:47,500
+Ich krieg immer Komplimente darüber,
+wie viel ich weiß
+
+75
+00:03:47,600 --> 00:03:49,800
+oder wie gut der Podcast
+recherchiert ist.
+
+76
+00:03:49,900 --> 00:03:51,833
+Die Wahrheit: Ich lerne beim Machen.
+
+77
+00:03:51,933 --> 00:03:55,100
+Interessante Sachen versuche ich
+euch, aber auch mir selbst,
+
+78
+00:03:55,200 --> 00:03:56,200
+zu erklären.
+
+79
+00:03:56,300 --> 00:03:58,767
+Kann das aber nur
+bis zu einem gewissen Punkt,
+
+80
+00:03:58,867 --> 00:04:01,300
+weil mein Gehirn
+eingeschränkte Kapazität hat
+
+81
+00:04:01,400 --> 00:04:02,900
+und merkwürdige Prioritäten.
+
+82
+00:04:03,000 --> 00:04:05,467
+Ich möchte mich deshalb mal
+bei allen bedanken,
+
+83
+00:04:05,567 --> 00:04:07,800
+die echt informative Kommentare
+schreiben.
+
+84
+00:04:07,900 --> 00:04:11,000
+Ich find es sehr schön,
+wenn ich euch zum Nachdenken anrege
+
+85
+00:04:11,100 --> 00:04:12,933
+und ihr dann euer Wissen mitteilt.
+
+86
+00:04:13,033 --> 00:04:16,100
+Ich rate allen, mal in
+die YouTube-Kommentare zu schauen.
+
+87
+00:04:16,200 --> 00:04:18,667
+Da sind Perlen dabei,
+da lach ich mich schlapp
+
+88
+00:04:18,767 --> 00:04:21,567
+und ärger mich:
+Warum hab ich den Joke nicht gemacht!
+
+89
+00:04:21,667 --> 00:04:23,800
+Oder Informationen,
+die ich nicht wusste,
+
+90
+00:04:23,900 --> 00:04:25,733
+und echt bereichernde Erklärungen.
+
+91
+00:04:25,833 --> 00:04:27,933
+Vielen Dank dafür.
+Ich applaudiere euch.
+
+92
+00:04:28,033 --> 00:04:29,633
+(Zaghaftes Klatschen)
+Reicht!
+
+93
+00:04:29,733 --> 00:04:32,533
+Kommen wir nun wieder
+zum weiteren Verlauf des Films.
+
+94
+00:04:32,633 --> 00:04:36,000
+Mr. Filch rollt genervt mit den Augen
+während Hagrid erzählt,
+
+95
+00:04:36,100 --> 00:04:39,133
+dass der kleide Drache Norbert
+ganz allein in Rumänien
+
+96
+00:04:39,233 --> 00:04:40,900
+in einer Drachenkolonie lebt.
+
+97
+00:04:41,000 --> 00:04:43,633
+Vielleicht sind
+die anderen Drachen gemein zu ihm.
+
+98
+00:04:43,733 --> 00:04:46,100
+Er ist doch noch
+ein wehrloses kleines Baby.
+
+99
+00:04:46,200 --> 00:04:49,100
+Völlig ignorierend,
+dass dieser Drache selbst als Baby,
+
+100
+00:04:49,200 --> 00:04:51,767
+zumindest im Buch,
+ihm, seinem Hund Fang und Joan
+
+101
+00:04:51,867 --> 00:04:55,000
+schon ernsthafte Verletzungen
+zugefügt hat.
+
+102
+00:04:55,100 --> 00:04:57,667
+Warum reagiert Hagrid
+so emotional darauf?
+
+103
+00:04:57,767 --> 00:05:00,867
+Vielleich projiziert er
+eigene Gefühle auf den Drachen.
+
+104
+00:05:00,967 --> 00:05:03,867
+Denn er wurde auch
+von seiner eigenen Mutter verlassen.
+
+105
+00:05:03,967 --> 00:05:07,567
+Sie war eine Riesin, die weggegangen
+ist, als er drei Jahre alt war,
+
+106
+00:05:07,667 --> 00:05:10,000
+weil sie keinen Bock mehr
+auf Familie hatte.
+
+107
+00:05:10,100 --> 00:05:13,433
+In Hagrids Kopf ist dieser Drache
+ein winziges, hilfloses Kind,
+
+108
+00:05:13,533 --> 00:05:14,967
+das alleingelassen wurde.
+
+109
+00:05:15,067 --> 00:05:16,667
+Er weiß, wie sich das anfühlt.
+
+110
+00:05:16,767 --> 00:05:19,467
+Nach all diesem Wehklagen
+und Geschniefe von Hagrid
+
+111
+00:05:19,567 --> 00:05:22,967
+sagt Filch etwas, das auf ewig
+in meinem Gehirn gespeichert ist.
+
+112
+00:05:23,067 --> 00:05:25,267
+Voller Verständnis und Mitgefühl
+sagt er:
+
+113
+00:05:25,367 --> 00:05:28,500
+"Du meine Fresse, Mann,
+krieg dich gefälligst wieder ein!"
+
+114
+00:05:28,600 --> 00:05:31,200
+Ich liebe diese Betonung
+und sein Gesicht dabei.
+
+115
+00:05:31,300 --> 00:05:34,467
+Es ist so untypisch für diesen
+netten, magischen Kinderfilm.
+
+116
+00:05:34,567 --> 00:05:36,600
+Aber Filch ist halt
+auch nicht magisch,
+
+117
+00:05:36,700 --> 00:05:38,367
+sondern ein verbitterter Arsch.
+
+118
+00:05:38,467 --> 00:05:41,200
+Er ist nicht böse,
+er war immer einer von den Guten,
+
+119
+00:05:41,300 --> 00:05:43,033
+aber er ist so fertig mit allem.
+
+120
+00:05:43,133 --> 00:05:45,767
+Er ist genervt von jedem.
+Er hat keinen Bock mehr
+
+121
+00:05:45,867 --> 00:05:48,600
+und kein Mitgefühl,
+und verheimlicht das auch nicht.
+
+122
+00:05:48,700 --> 00:05:50,967
+Scheiße, Hagrid,
+krieg dich mal wieder ein.
+
+123
+00:05:51,067 --> 00:05:54,667
+Du gehst gleich wieder in den Wald.
+Da musst du wissen, was du tust.
+
+124
+00:05:54,767 --> 00:05:56,533
+Draco hört auf und ist verwirrt.
+
+125
+00:05:56,633 --> 00:05:59,133
+Denn allen Kindern
+wurde am Schulanfang gesagt,
+
+126
+00:05:59,233 --> 00:06:02,100
+dass der Wald von keinem Schüler
+betreten werden darf.
+
+127
+00:06:02,200 --> 00:06:03,200
+Ohne Ausnahme!
+
+128
+00:06:03,300 --> 00:06:06,900
+Ein Beispiel dafür, wie bescheuert
+das Regelsystem von Hogwarts ist.
+
+129
+00:06:07,000 --> 00:06:08,833
+Es gibt keine Regeln, kein System.
+
+130
+00:06:08,933 --> 00:06:11,067
+Verbote, die explizit
+aufgestellt werden,
+
+131
+00:06:11,167 --> 00:06:12,733
+sind am Ende doch irrelevant?
+
+132
+00:06:12,833 --> 00:06:16,033
+Bis jetzt konnte Draco sich
+wohl gut durch das System wuseln,
+
+133
+00:06:16,133 --> 00:06:19,867
+weil er ein Favourite von Snape ist,
+der ein Freund seines Vaters ist.
+
+134
+00:06:19,967 --> 00:06:24,000
+Er bekommt nun aber auch zu spüren,
+das alles nicht mehr korrekt zugeht.
+
+135
+00:06:24,100 --> 00:06:28,000
+Denn als Filch erwähnt, dass sie zur
+Strafe mit Hagrid in den Wald müssen,
+
+136
+00:06:28,100 --> 00:06:29,933
+dachte er, das wär nur ein Scherz.
+
+137
+00:06:30,033 --> 00:06:32,167
+Jetzt ist er
+verängstigt und stammelt:
+
+138
+00:06:32,267 --> 00:06:34,367
+"Schüler dürfen da doch
+gar nicht rein."
+
+139
+00:06:34,467 --> 00:06:36,900
+"Da gibt es ..."
+Er hält inne, guckt zum Wald.
+
+140
+00:06:37,000 --> 00:06:41,033
+Guckt zu Filch. Und dann hört man
+in der Ferne ein Wolfsgeheul.
+
+141
+00:06:41,133 --> 00:06:43,200
+Woraufhin Draco noch mal bestätigend
+
+142
+00:06:43,300 --> 00:06:45,767
+"He, siehste, siehste!"
+in Richtung Wald guckt.
+
+143
+00:06:45,867 --> 00:06:46,867
+"Werwölfe!"
+
+144
+00:06:46,967 --> 00:06:49,267
+Als hätte er
+auf dieses Geräusch gewartet.
+
+145
+00:06:49,367 --> 00:06:53,233
+Während dieser ganzen Szene hat Draco
+einen kleinen Ratschi an der Wange.
+
+146
+00:06:53,333 --> 00:06:55,867
+Ich dachte zuerst:
+Gehört das zu seinem Gesicht?
+
+147
+00:06:55,967 --> 00:06:59,033
+Aber den Ratscher hatte er
+in den vorherigen Szenen nicht.
+
+148
+00:06:59,133 --> 00:07:01,867
+Vielleicht hat er von Snape
+eine gewatscht gekriegt.
+
+149
+00:07:01,967 --> 00:07:04,433
+Oder Tom Felton hat sich
+vor dem Dreh verletzt,
+
+150
+00:07:04,533 --> 00:07:07,633
+weil Kinder nun mal hibbelig sind
+und gerne wo gegenlaufen.
+
+151
+00:07:07,733 --> 00:07:10,467
+Jedoch erwähne ich
+an dieser Stelle mal einen ...
+
+152
+00:07:10,567 --> 00:07:13,667
+Alle Kinderdarsteller waren
+vertraglich dazu verpflichtet,
+
+153
+00:07:13,767 --> 00:07:15,200
+sich nicht zu verletzten!
+
+154
+00:07:15,300 --> 00:07:16,533
+In den Verträgen stand,
+
+155
+00:07:16,633 --> 00:07:19,367
+dass sie ihr Aussehen
+nicht krass verändern durften.
+
+156
+00:07:19,467 --> 00:07:21,667
+Emma Watson hat da
+stark drunter gelitten.
+
+157
+00:07:21,767 --> 00:07:23,867
+Es sind zehn Jahre
+ihres Lebens gewesen,
+
+158
+00:07:23,967 --> 00:07:27,067
+in denen sie nicht mit ihren Haaren
+experimentieren durfte.
+
+159
+00:07:27,167 --> 00:07:28,800
+Nicht abschneiden oder färben.
+
+160
+00:07:28,900 --> 00:07:31,467
+Sodass sie sich,
+sobald die Filmreihe vorbei war,
+
+161
+00:07:31,567 --> 00:07:33,100
+alles abgeschnitten hat.
+
+162
+00:07:33,200 --> 00:07:35,500
+Dann durften die Kinder
+nicht Urlaub machen,
+
+163
+00:07:35,600 --> 00:07:37,833
+zumindest nicht
+in supersonnigen Gebieten,
+
+164
+00:07:37,933 --> 00:07:39,367
+um nicht braun zu werden.
+
+165
+00:07:39,467 --> 00:07:41,733
+Sie mussten ihre britische Blässe
+behalten.
+
+166
+00:07:41,833 --> 00:07:43,933
+Und sie durften
+keinen Vollkontaktsport
+
+167
+00:07:44,033 --> 00:07:46,767
+oder sonstige übertriebene
+Körperaktivitäten machen,
+
+168
+00:07:46,867 --> 00:07:49,400
+aus Angst, dass sie sich
+ernsthaft dabei wehtun.
+
+169
+00:07:49,500 --> 00:07:51,867
+Nicht, weil man so besorgt
+um die Kinder war,
+
+170
+00:07:51,967 --> 00:07:54,967
+sondern weil das den knappen
+Filmzeitplan ruiniert hätte.
+
+171
+00:07:55,067 --> 00:07:57,233
+Kleine Pickelchen
+kann man überschminken.
+
+172
+00:07:57,333 --> 00:08:00,867
+Ein fehlender Milchzahn wird mit
+angefertigtem Zahnabdruck ersetzt.
+
+173
+00:08:00,967 --> 00:08:03,767
+Da hat man extra in der Crew
+einen Dental Technician,
+
+174
+00:08:03,867 --> 00:08:07,333
+einen Zahntechniker dabeigehabt,
+um solche Vorfälle zu verhindern.
+
+175
+00:08:07,433 --> 00:08:08,767
+Man hat an alles gedacht.
+
+176
+00:08:08,867 --> 00:08:11,600
+Aber wenn da einer
+mit einem gebrochenen Arm ankommt
+
+177
+00:08:11,700 --> 00:08:14,333
+oder sichtbare Wunden hat,
+ist die Szene im Arsch.
+
+178
+00:08:14,433 --> 00:08:16,233
+Das kann man nicht überschminken.
+
+179
+00:08:16,333 --> 00:08:18,533
+Da muss man umplanen,
+und das kostet Geld.
+
+180
+00:08:18,633 --> 00:08:21,467
+Tom Felton hat sich hier,
+obwohl vertraglich verboten,
+
+181
+00:08:21,567 --> 00:08:24,400
+trotzdem verletzt.
+Und das auch noch im Gesicht!
+
+182
+00:08:24,500 --> 00:08:27,033
+Wo doch so viele Nahaufnahmen
+von ihm passieren.
+
+183
+00:08:27,133 --> 00:08:30,800
+Trotz dieses groben Vertragsbruchs
+ist er weiterhin im Film.
+
+184
+00:08:30,900 --> 00:08:33,133
+Noch mal Glück gehabt, Tom.
+Pass bloß auf!
+
+185
+00:08:33,233 --> 00:08:36,900
+Andere werden bei Vertragsbruch
+aus dem Drehbuch rausgeschrieben.
+
+186
+00:08:37,000 --> 00:08:40,467
+Sie werden kommentarlos ersetzt.
+Und kommen dann nie wieder vor.
+
+187
+00:08:40,567 --> 00:08:44,033
+Denk darüber nach, wenn du nächstes
+Mal an deinem Kindergeburtstag
+
+188
+00:08:44,133 --> 00:08:45,400
+Fahrrad fahren willst.
+
+189
+00:08:45,500 --> 00:08:48,700
+Draco ist verwirrt, und Harry
+ist sowieso geistig überspannt.
+
+190
+00:08:48,800 --> 00:08:51,267
+Seine Augen huschen
+zwischen allen hin und her.
+
+191
+00:08:51,367 --> 00:08:52,367
+Bei ihm ist längst
+
+192
+00:08:52,467 --> 00:08:55,333
+die Sicherung für
+Realitätswahrnehmung durchgebrannt.
+
+193
+00:08:55,433 --> 00:08:57,033
+Er stellt nichts mehr infrage.
+
+194
+00:08:57,133 --> 00:09:00,667
+Filch dreht sich unangenehm langsam
+zu den Kindern um und flüstert,
+
+195
+00:09:00,767 --> 00:09:03,767
+dass da hinter den Bäumen
+noch ganz andere Dinge lauern.
+
+196
+00:09:03,867 --> 00:09:06,167
+Schaut dann selbst
+etwas besorgt um sich,
+
+197
+00:09:06,267 --> 00:09:09,300
+und wünscht allen
+(düster:) eine gute Nacht.
+
+198
+00:09:09,400 --> 00:09:12,300
+Während er mit seiner
+quietschlig-wackeligen Laterne
+
+199
+00:09:12,400 --> 00:09:13,600
+davonschlurft.
+
+200
+00:09:13,700 --> 00:09:15,400
+Er ist so herrlich unheimlich.
+
+201
+00:09:15,500 --> 00:09:17,800
+Aber selbst Filch
+gruselt sich vor dem Wald.
+
+202
+00:09:17,900 --> 00:09:19,333
+Das soll schon was heißen.
+
+203
+00:09:19,433 --> 00:09:23,500
+Hagrid schnappt sich seine Armbrust
+und trägt dazu eine Seitentasche
+
+204
+00:09:23,600 --> 00:09:26,267
+mit Köcher,
+wo große Bolzen drinstecken.
+
+205
+00:09:26,367 --> 00:09:28,800
+Er ist bereit,
+irgendjemanden oder irgendetwas
+
+206
+00:09:28,900 --> 00:09:30,367
+im Wald damit abzuschießen.
+
+207
+00:09:30,467 --> 00:09:32,333
+Jetzt wird's richtig gefährlich.
+
+208
+00:09:32,433 --> 00:09:35,267
+Zuvor müssen wir aber noch
+über Hagrids Outfit reden.
+
+209
+00:09:35,367 --> 00:09:37,633
+Er trägt in dieser Szene
+einen Fellmantel.
+
+210
+00:09:37,733 --> 00:09:40,900
+Aber nicht so einen, den eine reiche
+alte Lady tragen würde.
+
+211
+00:09:41,000 --> 00:09:44,067
+Dieser ist offensichtlich
+selbst gemacht und sehr flickig
+
+212
+00:09:44,167 --> 00:09:48,200
+und sieht aus, als würde er aus
+vernähten toten Tieren bestehen.
+
+213
+00:09:48,300 --> 00:09:50,767
+Man weiß nicht genau,
+wo Hagrids Haare aufhören
+
+214
+00:09:50,867 --> 00:09:52,300
+und wo der Mantel anfängt.
+
+215
+00:09:52,400 --> 00:09:54,100
+Es ist ein fließender Übergang.
+
+216
+00:09:54,200 --> 00:09:57,400
+Auf der IMDb-Seite steht
+eine interessante Bemerkung:
+
+217
+00:09:57,500 --> 00:09:59,067
+Dass Hagrids Aussehen,
+
+218
+00:09:59,167 --> 00:10:01,833
+seine Klamotten
+und auch sein ruppiges Auftreten
+
+219
+00:10:01,933 --> 00:10:05,033
+große Ähnlichkeit aufweist
+zu einer anderen Rolle,
+
+220
+00:10:05,133 --> 00:10:07,267
+die Robbie Coltrane,
+der ihn verkörpert,
+
+221
+00:10:07,367 --> 00:10:10,133
+schon im Jahre 1988 gespielt hat,
+
+222
+00:10:10,233 --> 00:10:13,800
+nämlich im BBC-Fernsehfilm
+"Blackadder's Christmas Carol".
+
+223
+00:10:13,900 --> 00:10:16,033
+Da spielt er den Geist der Weihnacht,
+
+224
+00:10:16,133 --> 00:10:18,500
+der kläglich versucht,
+dem Hauptcharakter,
+
+225
+00:10:18,600 --> 00:10:22,400
+gespielt von Rowan Atkinson
+aka "Mr. Bean", davon zu überzeugen,
+
+226
+00:10:22,500 --> 00:10:24,300
+ein netterer Mensch zu werden.
+
+227
+00:10:24,400 --> 00:10:27,500
+Dieser Geist der Weihnacht
+kommt durch eine Tür gebrochen,
+
+228
+00:10:27,600 --> 00:10:29,133
+schmeißt sie nach vorne um.
+
+229
+00:10:29,233 --> 00:10:32,467
+Genauso wie Hagrid, als er Harry
+an seinem Geburtstag besucht
+
+230
+00:10:32,567 --> 00:10:34,567
+und erklärt,
+dass er ein Zauberer ist.
+
+231
+00:10:34,667 --> 00:10:36,767
+Der Geist der Weihnacht
+hat zwar graue,
+
+232
+00:10:36,867 --> 00:10:39,433
+aber auch lange, wuschelige Haare
+und einen Bart.
+
+233
+00:10:39,533 --> 00:10:42,000
+Er hat einen flickenbesetzten
+Weihnachtsmantel,
+
+234
+00:10:42,100 --> 00:10:45,167
+so ein totes Tier als Fellapplikation
+eingearbeitet wurde.
+
+235
+00:10:45,267 --> 00:10:47,133
+Dann schnappt er sich eine Flasche.
+
+236
+00:10:47,233 --> 00:10:49,433
+Er ist auch
+so ein Alkoholiker wie Hagrid.
+
+237
+00:10:49,533 --> 00:10:51,733
+Robbie Coltrane
+war die allererste Person,
+
+238
+00:10:51,833 --> 00:10:53,967
+die für "Harry Potter"
+gecastet wurde,
+
+239
+00:10:54,067 --> 00:10:55,633
+außerwählt von J.K. Rowling.
+
+240
+00:10:55,733 --> 00:10:59,400
+Es ist nicht auszuschließen, dass
+der Look und das Gemüt von Hagrid
+
+241
+00:10:59,500 --> 00:11:02,133
+auf dieser BBC-Weihnachtsepisode
+beruht,
+
+242
+00:11:02,233 --> 00:11:05,233
+die J.K. Rowling
+1988 vielleicht mal geguckt hat,
+
+243
+00:11:05,333 --> 00:11:08,233
+neun Jahre, bevor das
+erste Harry-Potter-Buch 1997
+
+244
+00:11:08,333 --> 00:11:09,800
+überhaupt erschienen ist,
+
+245
+00:11:09,900 --> 00:11:12,400
+und seitdem unterbewusst
+oder ganz bewusst
+
+246
+00:11:12,500 --> 00:11:14,633
+dieses Bild von ihm im Kopf hatte.
+
+247
+00:11:14,733 --> 00:11:17,200
+Hagrid dreht sich
+mit der Armbrust um und sagt:
+
+248
+00:11:17,300 --> 00:11:19,600
+"Es geht los."
+Es beginnt die nächste Szene.
+
+249
+00:11:19,700 --> 00:11:21,467
+Wir befinden uns tief im Wald.
+
+250
+00:11:21,567 --> 00:11:24,667
+Fang geht voran, Hagrid trägt
+als Einziger eine Laterne,
+
+251
+00:11:24,767 --> 00:11:27,767
+die verschwindend wenig Licht
+in dieser Dunkelheit macht.
+
+252
+00:11:27,867 --> 00:11:30,133
+Harry, Ron, Hermine
+und ganz hinten Draco
+
+253
+00:11:30,233 --> 00:11:31,700
+folgen ihm im Entenmarsch.
+
+254
+00:11:31,800 --> 00:11:34,633
+Es ist in einer
+Supertotalen-Einstellung gefilmt,
+
+255
+00:11:34,733 --> 00:11:37,333
+also von sehr weit weg,
+was dazu beiträgt,
+
+256
+00:11:37,433 --> 00:11:40,033
+ein Gefühl der Größe dieses Waldes
+zu vermitteln.
+
+257
+00:11:40,133 --> 00:11:44,200
+Selbst Hagrid als Halbriese ist
+zwischen diesen Bäumen ganz klein.
+
+258
+00:11:44,300 --> 00:11:47,167
+Der Verbotene Wald,
+auf Englisch Forbidden Forest,
+
+259
+00:11:47,267 --> 00:11:50,300
+wird in den Filmen auch vermehrt
+"Dark Forest" genannt,
+
+260
+00:11:50,400 --> 00:11:51,467
+der Dunkle Wald.
+
+261
+00:11:51,567 --> 00:11:55,467
+Er macht diesem Namen alle Ehre,
+denn eine unnatürliche Dunkelheit
+
+262
+00:11:55,567 --> 00:11:57,133
+scheint über allem zu liegen.
+
+263
+00:11:57,233 --> 00:11:59,967
+Die Baumstämme
+ragen weit hoch in den Himmel.
+
+264
+00:12:00,067 --> 00:12:02,167
+Aber es ist
+kein Blätterdach zu sehen.
+
+265
+00:12:02,267 --> 00:12:06,300
+Sie verschwinden im dunklen Nichts,
+als wären sie unendlich groß.
+
+266
+00:12:06,400 --> 00:12:09,100
+Drehort für diese Szene
+war wieder der Black Park,
+
+267
+00:12:09,200 --> 00:12:11,667
+genauso wie die Szenen
+mit Hagrids Hütte außen.
+
+268
+00:12:11,767 --> 00:12:15,133
+Jetzt sind wir aber nicht mehr
+am Waldrand, sondern mittendrin.
+
+269
+00:12:15,233 --> 00:12:18,100
+Der Black Park heißt übrigens so,
+weil er größtenteils
+
+270
+00:12:18,200 --> 00:12:20,567
+aus Black Pines besteht,
+also Schwarzkiefern.
+
+271
+00:12:20,667 --> 00:12:23,967
+Der ist eine halbe Stunden
+von den Leavesden Studios entfernt.
+
+272
+00:12:24,067 --> 00:12:26,067
+Da konnte man ordentlich Geld sparen.
+
+273
+00:12:26,167 --> 00:12:28,433
+Er ist auch in weiteren
+Harry-Potter-Filmen
+
+274
+00:12:28,533 --> 00:12:30,067
+immer wieder benutzt worden.
+
+275
+00:12:30,167 --> 00:12:32,633
+In "Harry Potter
+und die Kammer des Schreckens"
+
+276
+00:12:32,733 --> 00:12:35,267
+als Harry und Ron den Spinnen
+in den Wald folgen
+
+277
+00:12:35,367 --> 00:12:36,967
+und vom Auto gerettet werden.
+
+278
+00:12:37,067 --> 00:12:39,133
+In "Harry Potter und der Feuerkelch"
+
+279
+00:12:39,233 --> 00:12:41,400
+als Hagrid sich
+mit Madam Maxim trifft.
+
+280
+00:12:41,500 --> 00:12:43,700
+In "Harry Potter
+und der Orden der Phönix"
+
+281
+00:12:43,800 --> 00:12:46,967
+als die Schüler mit von Thestralen
+gezogenen Kutschen fahren
+
+282
+00:12:47,067 --> 00:12:49,400
+und am Ende des Schuljahres
+nach Hause sind,
+
+283
+00:12:49,500 --> 00:12:51,633
+wurde eine Bahnstation
+im Wald aufgebaut.
+
+284
+00:12:51,733 --> 00:12:55,533
+Nicht für für "Harry Potter" wurde
+der Park als Filmlocation benutzt.
+
+285
+00:12:55,633 --> 00:12:57,933
+Auch für andere Filme
+wie "Captain America".
+
+286
+00:12:58,033 --> 00:13:00,533
+Als Mini-Steve-Rogers
+noch ohne Beef-Serum
+
+287
+00:13:00,633 --> 00:13:02,300
+mit den Truppen Übungen machte.
+
+288
+00:13:02,400 --> 00:13:04,567
+Auch später,
+als er als Captain America
+
+289
+00:13:04,667 --> 00:13:08,333
+mit seiner Truppe unterwegs ist
+und im Wald gegen Hydra-Nazis kämpft.
+
+290
+00:13:08,433 --> 00:13:11,433
+Ganz besonders hab ich mich gefreut,
+als ich gelesen hab,
+
+291
+00:13:11,533 --> 00:13:15,133
+was noch da gefilmt wurde, der Film
+mit dem geilsten Titel der Welt:
+
+292
+00:13:16,700 --> 00:13:20,233
+Da wurde auch am Anfang, als die
+Rennautos durch die Gegend fahren,
+
+293
+00:13:20,333 --> 00:13:21,567
+in diesem Park gedreht.
+
+294
+00:13:21,667 --> 00:13:23,133
+Der Film ist von 1968.
+
+295
+00:13:23,233 --> 00:13:26,467
+Die Bäume in diesem Wald sind
+echte Stars, schon lange dabei.
+
+296
+00:13:26,567 --> 00:13:29,267
+Ich hab mir mal die Website
+zum Park durchgelesen,
+
+297
+00:13:29,367 --> 00:13:31,500
+wo die Parkleute
+für sich selber werben.
+
+298
+00:13:31,600 --> 00:13:34,767
+Sie bezeichnen sich als
+filmfreundlich und äußerst erfahren.
+
+299
+00:13:34,867 --> 00:13:37,133
+Alle Filmproduktionswünsche
+werden erfüllt.
+
+300
+00:13:37,233 --> 00:13:39,333
+Du kannst da tags drehen,
+nachts drehen.
+
+301
+00:13:39,433 --> 00:13:43,200
+Sie unterstützen den Bau von großen
+Sets und komplexen Stunt-Sequenzen.
+
+302
+00:13:43,300 --> 00:13:46,200
+Captain America ist ja auch
+mit dem Moped durchgefahren
+
+303
+00:13:46,300 --> 00:13:49,567
+und Feuerbällen und Lasern
+ausgewichen mit Explosionen.
+
+304
+00:13:49,667 --> 00:13:52,267
+Du kannst aber auch
+einfach nur spazieren gehen,
+
+305
+00:13:52,367 --> 00:13:54,867
+deinen Hund Gassi führen,
+mit dem Pferd reiten.
+
+306
+00:13:54,967 --> 00:13:57,133
+Da ist ein Spinnennetz
+und Plattformen,
+
+307
+00:13:57,233 --> 00:13:58,900
+damit Kinder klettern können.
+
+308
+00:13:59,000 --> 00:14:01,667
+Du kannst Fahrrad fahren, angeln,
+alles machen.
+
+309
+00:14:01,767 --> 00:14:03,133
+Aber nicht grillen!
+
+310
+00:14:03,233 --> 00:14:04,900
+Das ist ausdrücklich verboten.
+
+311
+00:14:05,000 --> 00:14:07,567
+Weil durch Funkenflug
+ein Feuer entstehen könnte.
+
+312
+00:14:07,667 --> 00:14:11,500
+Wenn du ein BBQ machst, kommt sofort
+ein Ranger-Team und löscht das.
+
+313
+00:14:11,600 --> 00:14:13,200
+Aber Explosionen sind okay?
+
+314
+00:14:13,300 --> 00:14:16,733
+Das heißt doch, ich melde mich da an
+und sag denen,
+
+315
+00:14:16,833 --> 00:14:18,967
+ich drehe
+einen künstlerischen Kurzfilm.
+
+316
+00:14:19,067 --> 00:14:22,067
+In dem Film bin ich Hauptdarsteller,
+und ich grille.
+
+317
+00:14:22,167 --> 00:14:24,633
+Ich bau das BBQ auf
+und mach das dickste Feuer.
+
+318
+00:14:24,733 --> 00:14:28,533
+Dann kommt das Ranger-Team,
+und ich sag: Ich dreh einen Film.
+
+319
+00:14:28,633 --> 00:14:32,533
+Dieses BBQ ist vollkommen legal,
+solange die Kamera läuft.
+
+320
+00:14:32,833 --> 00:14:35,467
+Ja, hab ich einfach
+euer Loophole gefunden, Junge.
+
+321
+00:14:35,567 --> 00:14:37,767
+(brüllt:) So ein Feuer, mein Junge!
+
+322
+00:14:37,867 --> 00:14:41,667
+Und die unterstützen das auch noch
+und bringen mir ein Würstchen vorbei,
+
+323
+00:14:41,767 --> 00:14:43,500
+weil sie so filmfreundlich sind.
+
+324
+00:14:43,600 --> 00:14:46,933
+Wir bleiben übrigens bis zum Ende
+dieser Podcast-Folge im Wald.
+
+325
+00:14:47,033 --> 00:14:48,800
+Es folgen keine Ortswechsel mehr.
+
+326
+00:14:48,900 --> 00:14:51,767
+Jedoch bleiben wir nicht
+die ganze Zeit im Black Park.
+
+327
+00:14:51,867 --> 00:14:55,500
+Der Übergang in einen anderen Drehort
+ist an den Bäumen zu erkennen.
+
+328
+00:14:55,600 --> 00:14:58,133
+Vielleicht könnt ihr erraten,
+wann das passiert.
+
+329
+00:14:58,233 --> 00:15:01,133
+Es folgt eine sanfte Überblende
+in die nächste Szene.
+
+330
+00:15:01,233 --> 00:15:04,333
+Hagrid und die Kinder
+gehen zu einem umgestürzten Baum.
+
+331
+00:15:04,433 --> 00:15:07,800
+Seine knorrigen Wurzeln
+versperren dem Zuschauer die Sicht.
+
+332
+00:15:07,900 --> 00:15:10,333
+Man hört die Tiere des Waldes
+im Hintergrund,
+
+333
+00:15:10,433 --> 00:15:13,033
+deren Geräusche man
+nicht richtig einordnen kann.
+
+334
+00:15:13,133 --> 00:15:15,833
+Es ist Wolfsgeheul,
+aber auch ein dumpfes Grollen.
+
+335
+00:15:15,933 --> 00:15:20,467
+Als würde sich ein sehr großes Wesen
+irgendwo tiefer im Wald befinden.
+
+336
+00:15:20,567 --> 00:15:24,167
+Hagrid macht Halt und stellt seine
+Armbrust am umgestürzten Baum ab,
+
+337
+00:15:24,267 --> 00:15:26,533
+kniet sich hin,
+die Kamera schwenkt runter.
+
+338
+00:15:26,633 --> 00:15:29,433
+Wir sehen eine sehr reflektierende
+Pfütze am Boden,
+
+339
+00:15:29,533 --> 00:15:32,967
+in der Hagrid prompt
+mit seiner dicken Hand drin rumrührt.
+
+340
+00:15:33,067 --> 00:15:35,967
+Er hält seine angeschleimten Finger
+hoch und prüft,
+
+341
+00:15:36,067 --> 00:15:38,533
+was genau er da grade angefasst hat.
+
+342
+00:15:38,633 --> 00:15:40,200
+Zerreibt es ein bisschen,
+
+343
+00:15:40,300 --> 00:15:43,700
+während dickflüssige silberne Fäden
+heruntertropfen.
+
+344
+00:15:43,800 --> 00:15:46,700
+Draco rümpft ein bisschen
+angewidert die Nase, zurecht.
+
+345
+00:15:46,800 --> 00:15:49,333
+Das könnte ja sonst
+'ne schöne Körperflüssigkeit
+
+346
+00:15:49,433 --> 00:15:50,767
+von 'nem Werwolf sein.
+
+347
+00:15:50,867 --> 00:15:52,900
+Was reibt Hagrid
+da so eklig drin rum?
+
+348
+00:15:53,000 --> 00:15:55,867
+Harry fragt eher beunruhigt:
+"Hagrid, was ist das?"
+
+349
+00:15:55,967 --> 00:15:59,767
+Und bekommt die Antwort:
+"Das ist Einhornblut."
+
+350
+00:15:59,867 --> 00:16:01,867
+In Wahrheit ist diese Pfütze am Boden
+
+351
+00:16:01,967 --> 00:16:04,100
+laut Wizarding World,
+ehemals Pottermore,
+
+352
+00:16:04,200 --> 00:16:05,933
+ein Gemisch aus Öl und Glyzerin.
+
+353
+00:16:06,033 --> 00:16:08,933
+Also eine schön dickflüssige,
+sirupartige Flüssigkeit
+
+354
+00:16:09,033 --> 00:16:10,500
+mit spiegelnder Oberfläche.
+
+355
+00:16:10,600 --> 00:16:13,667
+Bei dem Matsch an Hagrids Fingern
+wurde offensichtlich
+
+356
+00:16:13,767 --> 00:16:15,167
+am Computer nachgeholfen,
+
+357
+00:16:15,267 --> 00:16:17,433
+um das Ganze
+besonders silbrig zu machen.
+
+358
+00:16:17,533 --> 00:16:19,033
+Die Tropfen sind nicht echt.
+
+359
+00:16:19,133 --> 00:16:21,633
+Aber warum ist hier
+'ne Pfütze mit Einhornblut?
+
+360
+00:16:21,733 --> 00:16:23,967
+Hagrid erklärt,
+er hat vor ein paar Wochen
+
+361
+00:16:24,067 --> 00:16:25,867
+schon ein totes Einhorn gefunden.
+
+362
+00:16:25,967 --> 00:16:29,633
+Jetzt ist ein zweites Einhorn
+von irgendwas schwer verletzt worden.
+
+363
+00:16:29,733 --> 00:16:32,033
+In dem Moment hört man
+ein Blätterrascheln
+
+364
+00:16:32,133 --> 00:16:34,667
+und ein gruseliges
+(gespenstig:) Huuuuh!
+
+365
+00:16:34,767 --> 00:16:35,833
+Harry dreht sich um
+
+366
+00:16:35,933 --> 00:16:38,900
+und sieht eine vermummte Gestalt
+zwischen den Bäumen,
+
+367
+00:16:39,000 --> 00:16:40,133
+sagt aber nichts.
+
+368
+00:16:40,233 --> 00:16:43,367
+Er sagt nicht: "Hagrid, guck mal da,
+ist das jemand Böses?"
+
+369
+00:16:43,467 --> 00:16:46,533
+"Hab die Kreatur gefunden,
+die das Einhorn verletzt hat."
+
+370
+00:16:46,633 --> 00:16:49,667
+"Baller da mit deiner Armbrust drauf
+und töte ihn."
+
+371
+00:16:49,767 --> 00:16:50,767
+Film vorbei!
+
+372
+00:16:50,867 --> 00:16:53,567
+Aber nein, Harry macht nur ...
+(Erschrockener Laut)
+
+373
+00:16:53,667 --> 00:16:56,267
+und guckt in die Richtung.
+Hagrid guckt auch hin.
+
+374
+00:16:56,367 --> 00:16:58,533
+Aber es kümmert sich
+keiner weiter darum,
+
+375
+00:16:58,633 --> 00:17:00,000
+dass da wer rumschleicht.
+
+376
+00:17:00,100 --> 00:17:03,167
+Hagrid verkündet, sie müssen
+das verletzte Einhorn finden.
+
+377
+00:17:03,267 --> 00:17:05,333
+Ab hier sollte den Kindern
+klar werden,
+
+378
+00:17:05,433 --> 00:17:08,600
+dass es gefährlich im Wald ist
+und nachts heimlich rumlaufen
+
+379
+00:17:08,700 --> 00:17:10,867
+wirklich dumm ist
+und fatal enden kann.
+
+380
+00:17:10,967 --> 00:17:11,967
+Hier ist Blut.
+
+381
+00:17:12,067 --> 00:17:15,467
+Es gibt einen Grund für das Verbot,
+nachts draußen rumzuwuseln.
+
+382
+00:17:15,567 --> 00:17:18,200
+Es gibt hier einige Wesen,
+die euch töten könnten.
+
+383
+00:17:18,300 --> 00:17:20,433
+Das haben sie
+mit eigenen Augen gesehen
+
+384
+00:17:20,533 --> 00:17:22,200
+und hoffentlich Angst gekriegt.
+
+385
+00:17:22,300 --> 00:17:24,567
+Bis hierhin ist
+die Strafe nachvollziehbar,
+
+386
+00:17:24,667 --> 00:17:26,200
+um ihnen das klar zu machen.
+
+387
+00:17:26,300 --> 00:17:28,500
+Aber um das verletzte Einhorn
+zu finden,
+
+388
+00:17:28,600 --> 00:17:31,000
+schlägt Hagrid vor,
+dass sie sich aufteilen.
+
+389
+00:17:31,100 --> 00:17:34,467
+"Ron, Hermine, ihr kommt mit mir.
+Harry, du gehst mit Malfoy."
+
+390
+00:17:34,567 --> 00:17:38,133
+Er nennt ihn nicht Draco, um hier
+noch mal die Freundschaftsdynamik
+
+391
+00:17:38,233 --> 00:17:40,600
+von ihm zu den Gryffindors
+zu unterstreichen
+
+392
+00:17:40,700 --> 00:17:42,033
+und Draco auszuschließen.
+
+393
+00:17:42,133 --> 00:17:45,600
+Aber das geht ja über die Strafe,
+ordentlich Angst machen, hinaus.
+
+394
+00:17:45,700 --> 00:17:47,633
+Hagrid will sie
+allein im Wald lassen
+
+395
+00:17:47,733 --> 00:17:49,700
+und verletzt seine Aufsichtspflicht.
+
+396
+00:17:49,800 --> 00:17:51,933
+Draco findet jetzt
+alles richtig scheiße
+
+397
+00:17:52,033 --> 00:17:54,133
+und macht
+so einen Och-Gesichtsausdruck
+
+398
+00:17:54,233 --> 00:17:56,933
+und verlangt, dass Hagrids Hund Fang
+mit ihm kommt.
+
+399
+00:17:57,033 --> 00:18:00,567
+Woraufhin Fang anfängt zu winseln,
+denn er ist ein Feigling
+
+400
+00:18:00,667 --> 00:18:03,767
+und ist selber unzufrieden,
+dass er im Wald rumlaufen muss.
+
+401
+00:18:03,867 --> 00:18:06,700
+Guckt ängstlich zu ihnen,
+sofern er mit diesen Augen,
+
+402
+00:18:06,800 --> 00:18:09,667
+von Felllappen überdeckt,
+überhaupt gucken kann.
+
+403
+00:18:09,767 --> 00:18:12,867
+Denn Fang ist dargestellt
+von einem Mastino Napoletano,
+
+404
+00:18:12,967 --> 00:18:15,067
+auch Neapolitanischer Mastiff
+genannt.
+
+405
+00:18:15,167 --> 00:18:18,333
+Typisch für diese Hunderasse ist,
+dass sie besonders am Kopf
+
+406
+00:18:18,433 --> 00:18:22,033
+viel lockere Haut haben,
+die in starken Falten runterhängt.
+
+407
+00:18:22,133 --> 00:18:25,467
+Eine Qualzüchtung, weil die Tiere
+dann nicht mehr sehen können
+
+408
+00:18:25,567 --> 00:18:27,600
+und die Augenlieder sich entzünden.
+
+409
+00:18:27,700 --> 00:18:29,733
+Fang ist da noch ein mildes Beispiel.
+
+410
+00:18:29,833 --> 00:18:32,367
+Diese Hunde können
+bis zu zehn Jahre alt werden.
+
+411
+00:18:32,467 --> 00:18:35,267
+Also, dieser Hund in einem Film
+aus dem Jahre 2001
+
+412
+00:18:35,367 --> 00:18:38,200
+ist jetzt
+mit höchster Wahrscheinlichkeit ...
+
+413
+00:18:38,300 --> 00:18:42,100
+glücklich und zufrieden
+auf einem ganz schönen Bauernhof.
+
+414
+00:18:42,200 --> 00:18:44,533
+Fang wurde
+von mehreren Hunden verkörpert.
+
+415
+00:18:44,633 --> 00:18:48,167
+In den ersten beiden Filmen
+von Hugo, Bully, Bella und Vito.
+
+416
+00:18:48,267 --> 00:18:50,833
+Bully war ursprünglich
+gar kein Schauspielhund,
+
+417
+00:18:50,933 --> 00:18:52,300
+sondern ein Rescue-Hund.
+
+418
+00:18:52,400 --> 00:18:54,700
+Den hat man
+auf dem Schrottplatz gefunden.
+
+419
+00:18:54,800 --> 00:18:58,567
+Die Tiertrainerin Jules Tottman hat
+sich um ihn gekümmert und trainiert
+
+420
+00:18:58,667 --> 00:19:02,167
+und sich bemüht, dass Tiere aus
+Tierheimen für den Film ausgesucht
+
+421
+00:19:02,267 --> 00:19:03,733
+und dann adoptiert wurden.
+
+422
+00:19:03,833 --> 00:19:07,367
+Im Laufe der Filme kamen noch mehr
+Hunde-Schauspielkollegen dazu.
+
+423
+00:19:07,467 --> 00:19:08,467
+Die hießen:
+
+424
+00:19:10,400 --> 00:19:13,133
+Es waren immer zwei Hunde am Set,
+nur für den Fall,
+
+425
+00:19:13,233 --> 00:19:16,333
+dass man sie austauschen musste,
+wenn einer mal müde war,
+
+426
+00:19:16,433 --> 00:19:18,767
+oder um verschiedene Kommandos
+auszuführen.
+
+427
+00:19:18,867 --> 00:19:22,067
+Da gab's dann ein "Lieg-rum-Fang",
+ein "Guck-ängstlich-Fang"
+
+428
+00:19:22,167 --> 00:19:23,967
+oder ein "Lauf-im-Wald-rum-Fang".
+
+429
+00:19:24,067 --> 00:19:27,133
+Wenn ein Hund mehrere Takes lang
+nur am Feuer sitzen muss,
+
+430
+00:19:27,233 --> 00:19:28,667
+kann man nicht erwarten,
+
+431
+00:19:28,767 --> 00:19:31,633
+dass er in einer anderen Szene
+voller Elan herumläuft.
+
+432
+00:19:31,733 --> 00:19:34,900
+Da brauchte man einen Hund
+mit einer anderen Persönlichkeit.
+
+433
+00:19:35,000 --> 00:19:38,067
+Das Einzige, was man ihnen
+nicht antrainieren konnte, war,
+
+434
+00:19:38,167 --> 00:19:39,200
+weniger zu sabbern.
+
+435
+00:19:39,300 --> 00:19:42,133
+Die Hunde schütteln sich gerne
+und verzieren das Set
+
+436
+00:19:42,233 --> 00:19:44,133
+mit einer ominösen Glibberschlonze.
+
+437
+00:19:44,233 --> 00:19:47,067
+Daher hatten die Tiertrainer
+immer ein Handtuch dabei,
+
+438
+00:19:47,167 --> 00:19:48,633
+um das Gröbste abzuwischen.
+
+439
+00:19:48,733 --> 00:19:52,533
+Der Name Fang fällt mal wieder in
+Hagrids lustiges Namensgebungsschema.
+
+440
+00:19:52,633 --> 00:19:56,067
+Fang ist zwar ein großer, schwerer
+Hund, der gut zubeißen könnte,
+
+441
+00:19:56,167 --> 00:19:57,667
+aber er ist superängstlich.
+
+442
+00:19:57,767 --> 00:19:59,500
+"Fang" auf Englisch bedeutet ja:
+
+443
+00:20:01,500 --> 00:20:04,300
+Es lässt im Kopf 'n Bild
+von 'nem Raubtier entstehen,
+
+444
+00:20:04,400 --> 00:20:06,400
+es ist 'n Name,
+der Gefahr suggeriert.
+
+445
+00:20:06,500 --> 00:20:08,533
+Den Hagrid ihm
+vielleicht gegeben hat,
+
+446
+00:20:08,633 --> 00:20:10,967
+um ihm etwas mehr Selbstvertrauen
+zu geben.
+
+447
+00:20:11,067 --> 00:20:13,500
+Nach Fangs Gewimmer
+folgt ein harter Schnitt.
+
+448
+00:20:13,600 --> 00:20:16,000
+Harry und Draco sind allein
+im Wald unterwegs.
+
+449
+00:20:16,100 --> 00:20:17,600
+Und Fang trottet hinterher,
+
+450
+00:20:17,700 --> 00:20:19,967
+ist Hagrid tatsächlich
+einfach weggegangen.
+
+451
+00:20:20,067 --> 00:20:23,467
+Der berühmte Harry fucking Potter
+und sein Erzfeind Draco Malfoy
+
+452
+00:20:23,567 --> 00:20:26,367
+sind einfach unter sich,
+kabbeln sich die ganze Zeit,
+
+453
+00:20:26,467 --> 00:20:28,833
+und das in dieser
+supergefährlichen Umgebung.
+
+454
+00:20:28,933 --> 00:20:30,967
+Nicht besonders pädagogisch wertvoll,
+
+455
+00:20:31,067 --> 00:20:33,600
+Draco regt sich auf
+und sagt den berühmten Satz:
+
+456
+00:20:33,700 --> 00:20:35,733
+"Warte, bis mein Vater
+davon erfährt!"
+
+457
+00:20:35,833 --> 00:20:39,233
+Ich dachte immer, den Satz sagt er
+die ganze Zeit in jedem Film,
+
+458
+00:20:39,333 --> 00:20:42,033
+aber er sagt das
+über alle Filme verteilt
+
+459
+00:20:42,133 --> 00:20:44,467
+so dreimal
+mit ähnlichem Wortlaut.
+
+460
+00:20:44,567 --> 00:20:46,500
+In den Büchern sagt er das nie.
+
+461
+00:20:46,600 --> 00:20:49,733
+Nur in den Filmen und nicht so oft,
+wie ich dachte.
+
+462
+00:20:49,833 --> 00:20:51,933
+Und diesen Meme-Satz:
+
+463
+00:20:52,733 --> 00:20:54,200
+sagt er genau einmal.
+
+464
+00:20:54,300 --> 00:20:56,467
+Nur in "Harry Potter
+und der Feuerkelch".
+
+465
+00:20:56,567 --> 00:20:59,233
+Und in "Harry Potter
+und die Heiligtümer des Todes"
+
+466
+00:20:59,333 --> 00:21:00,867
+kommt der Satz noch mal vor,
+
+467
+00:21:00,967 --> 00:21:03,300
+als Todesser
+den Hogwarts-Express aufhalten,
+
+468
+00:21:03,400 --> 00:21:05,733
+durch die Abteile gehen,
+um Harry zu suchen.
+
+469
+00:21:05,833 --> 00:21:07,467
+Da steht jemand auf und sagt:
+
+470
+00:21:08,067 --> 00:21:11,033
+Aber es ist nicht Draco,
+sondern Cormac McLaggen.
+
+471
+00:21:11,167 --> 00:21:13,700
+Der Korken sieht so geil aus,
+ich lieb den voll.
+
+472
+00:21:13,867 --> 00:21:15,833
+Dass Draco das die ganze Zeit sagt,
+
+473
+00:21:15,933 --> 00:21:18,533
+ist 'n kollektiver
+Fandom-Insider-Gag geworden.
+
+474
+00:21:18,633 --> 00:21:21,000
+Eigentlich ist das gar nicht
+so oft passiert.
+
+475
+00:21:21,100 --> 00:21:23,200
+Er meckert weiter,
+das kann nicht sein,
+
+476
+00:21:23,300 --> 00:21:26,800
+dass er hier ein Einhorn suchen muss.
+Es gibt Personal für so was!
+
+477
+00:21:26,900 --> 00:21:29,700
+Ja, hat er vollkommen recht,
+das Personal ist Hagrid.
+
+478
+00:21:29,800 --> 00:21:30,867
+Das ist ...
+
+479
+00:21:30,967 --> 00:21:32,333
+sein Job als Wildhüter.
+
+480
+00:21:32,433 --> 00:21:35,300
+Draco hat anscheinend
+die Laterne von Hagrid gekriegt,
+
+481
+00:21:35,400 --> 00:21:38,133
+das war zumindest die einzige,
+die sie dabei hatten,
+
+482
+00:21:38,233 --> 00:21:40,067
+als sie in den Wald gegangen sind.
+
+483
+00:21:40,167 --> 00:21:43,500
+Das heißt, Hagrid ist mit Ron
+und Hermine im Dunkeln unterwegs.
+
+484
+00:21:43,600 --> 00:21:45,667
+Die sehen nichts.
+Auch nicht so clever.
+
+485
+00:21:45,767 --> 00:21:49,367
+Da hat sich das Aufteilen nicht
+gelohnt, was ist das für 'ne Aktion?
+
+486
+00:21:49,467 --> 00:21:52,633
+Wildhüter- und Aufsichtsjob verfehlt.
+Harry bleibt ganz cool
+
+487
+00:21:52,733 --> 00:21:54,767
+und unterstellt Draco:
+"Du hast Angst."
+
+488
+00:21:54,867 --> 00:21:57,267
+Das lässt sich Draco
+natürlich nicht gefallen
+
+489
+00:21:57,367 --> 00:22:00,267
+und will sich mit ihm anlegen,
+da schreckt er zusammen,
+
+490
+00:22:00,367 --> 00:22:02,800
+weil er wieder Gruselgeräusche
+ausm Wald hört.
+
+491
+00:22:02,900 --> 00:22:06,633
+Harry hat mental längst abgeschaltet.
+Den beeindruckt gar nichts mehr.
+
+492
+00:22:06,733 --> 00:22:09,033
+Der zuckt nicht zusammen,
+guckt nur genervt.
+
+493
+00:22:09,133 --> 00:22:11,367
+Um zu zeigen,
+wie wenig Angst er doch hat,
+
+494
+00:22:11,467 --> 00:22:14,300
+geht Draco wütend mit Laterne
+zügigen Schrittes voran.
+
+495
+00:22:14,400 --> 00:22:15,700
+"Komm Fang! Angst ... "
+
+496
+00:22:15,800 --> 00:22:17,100
+Und leitet den Weg.
+
+497
+00:22:17,200 --> 00:22:19,933
+Die Laterne bringt dabei
+aber maximal gar nichts.
+
+498
+00:22:20,067 --> 00:22:23,400
+In der vorherigen Einstellung
+sieht man den Beleuchtungsradius.
+
+499
+00:22:23,500 --> 00:22:24,633
+zu dem sie fähig ist.
+
+500
+00:22:24,733 --> 00:22:27,433
+Da wird ein Teilbereich
+von Dracos Gesicht erhellt.
+
+501
+00:22:27,533 --> 00:22:30,200
+Und Harry erreicht das Licht
+schon gar nicht mehr.
+
+502
+00:22:30,300 --> 00:22:33,133
+Trotzdem sind die beiden
+im weiteren Verlauf der Szene
+
+503
+00:22:33,233 --> 00:22:35,300
+mit gelbem Licht
+perfekt ausgeleuchtet.
+
+504
+00:22:35,400 --> 00:22:36,967
+Da ist 'ne andere Lichtquelle
+
+505
+00:22:37,067 --> 00:22:39,167
+außerhalb des Bildes
+auf sie gerichtet.
+
+506
+00:22:39,267 --> 00:22:42,300
+Das sind Tricks, die man benutzt
+für Szenen in der Nacht.
+
+507
+00:22:42,400 --> 00:22:45,300
+Der Zuschauer soll glauben,
+es ist gruselig und dunkel.
+
+508
+00:22:45,400 --> 00:22:47,133
+Gleichzeitig soll man was sehen.
+
+509
+00:22:47,233 --> 00:22:49,867
+Um eine natürliche Lichtkomposition
+zu simulieren,
+
+510
+00:22:49,967 --> 00:22:53,167
+wird hier mit Scheinwerfer
+Mondlicht auf die Bäume geballert.
+
+511
+00:22:53,267 --> 00:22:55,467
+Der künstliche Nebel
+erhellt die Umgebung
+
+512
+00:22:55,567 --> 00:22:57,333
+auch noch mal mit diffusem Licht.
+
+513
+00:22:57,433 --> 00:23:00,700
+Für die Gesichter werden
+den Schauspielern gerne Taschenlampen
+
+514
+00:23:00,800 --> 00:23:03,700
+in die Hand gedrückt,
+um eine glaubwürdige Lichtquelle
+
+515
+00:23:03,800 --> 00:23:04,800
+im Bild zu haben.
+
+516
+00:23:04,900 --> 00:23:08,333
+Wobei die Beleuchtung von außen
+kommt, nicht der Lampe selbst.
+
+517
+00:23:08,467 --> 00:23:10,933
+Die nichts bringende Dekolaterne
+in Dracos Hand
+
+518
+00:23:11,033 --> 00:23:12,767
+leuchtet kläglich vor sich hin.
+
+519
+00:23:12,867 --> 00:23:15,500
+Und die dunklen Silhouetten
+der Kinder werden eins
+
+520
+00:23:15,600 --> 00:23:17,333
+mit dem Nebel des Waldes.
+
+521
+00:23:17,433 --> 00:23:20,300
+Es folgt eine sanfte Überblende
+in die nächste Szene.
+
+522
+00:23:20,400 --> 00:23:23,400
+Und ab hier befinden wir uns
+nicht mehr im Black Park.
+
+523
+00:23:23,500 --> 00:23:27,267
+Der Übergang in einen anderen Drehort
+ist an den Bäumen zu erkennen.
+
+524
+00:23:27,400 --> 00:23:30,833
+Harry und Draco sind mittlerweile
+noch tiefer im Wald angekommen.
+
+525
+00:23:30,933 --> 00:23:33,667
+Man sieht keine
+hochgewachsenen Schwarzkiefern mehr,
+
+526
+00:23:33,767 --> 00:23:35,400
+sondern meterdicke Baumstämme.
+
+527
+00:23:35,500 --> 00:23:38,667
+Sie sind größer und breiter geworden,
+verworrene Baumwurzeln
+
+528
+00:23:38,767 --> 00:23:40,167
+bedecken den ganzen Boden.
+
+529
+00:23:40,267 --> 00:23:41,900
+Man hat sowohl
+in einem echten
+
+530
+00:23:42,000 --> 00:23:44,733
+als auch einem
+im Studio nachgebauten Wald gedreht.
+
+531
+00:23:44,833 --> 00:23:47,133
+Wir sind wieder
+in den Leavesden Studios.
+
+532
+00:23:47,233 --> 00:23:50,067
+Grund dafür war einmal,
+dass man unnötige Natur,
+
+533
+00:23:50,167 --> 00:23:52,867
+die man nicht kontrollieren kann,
+vermeiden wollte.
+
+534
+00:23:52,967 --> 00:23:55,333
+Wie irgendwelche Tierchen
+oder Störgeräusche.
+
+535
+00:23:55,433 --> 00:23:58,900
+Und in 'nem Studiowald, wo jeder
+Zweig da ist, wo er hin soll,
+
+536
+00:23:59,000 --> 00:24:00,467
+konnte man besser planen.
+
+537
+00:24:00,567 --> 00:24:02,967
+Und den so schaurig gestalten,
+wie man wollte.
+
+538
+00:24:03,067 --> 00:24:05,600
+Man hat außerdem den Boden
+extra weich gemacht,
+
+539
+00:24:05,700 --> 00:24:08,267
+damit der Schauspielerhund von Fang
+gut rumlaufen
+
+540
+00:24:08,367 --> 00:24:10,700
+und sich nicht die Pfoten
+verletzten konnte.
+
+541
+00:24:10,800 --> 00:24:12,867
+Wo man denkt,
+das ist doch übertrieben,
+
+542
+00:24:12,967 --> 00:24:15,400
+rauen Waldboden wird ein Hund
+wohl überleben.
+
+543
+00:24:15,500 --> 00:24:17,567
+Aber immerhin
+ist die ganze Zeit jemand
+
+544
+00:24:17,667 --> 00:24:20,300
+von der American Humane Association
+dabei gewesen,
+
+545
+00:24:20,400 --> 00:24:21,967
+damit im Abspann stehen darf:
+
+546
+00:24:22,067 --> 00:24:24,733
+"No animal was harmed
+in the making of this film."
+
+547
+00:24:24,833 --> 00:24:28,167
+Ein Satz, der getrademarkt ist
+und den nur die benutzen dürfen.
+
+548
+00:24:28,267 --> 00:24:31,533
+Das Wohl der Tiere begutachten
+schließt Hundepfötchen mit ein.
+
+549
+00:24:31,633 --> 00:24:34,167
+Nicht dass der im Wald
+auf 'ne Glasscheibe tritt
+
+550
+00:24:34,267 --> 00:24:35,833
+oder sich den Fuß verknackst.
+
+551
+00:24:35,933 --> 00:24:38,033
+Die Priorität war,
+alles auszuschließen,
+
+552
+00:24:38,133 --> 00:24:39,700
+was nicht in die Szene gehört
+
+553
+00:24:39,800 --> 00:24:41,967
+und jegliche Störfaktoren
+zu eliminieren.
+
+554
+00:24:42,067 --> 00:24:44,967
+Das muss man sich vorstellen,
+dass die lieber 'nen Wald
+
+555
+00:24:45,067 --> 00:24:46,533
+im Studio nachgebaut haben,
+
+556
+00:24:46,633 --> 00:24:49,267
+anstatt kleinste Fehler
+im realen Wald zuzulassen.
+
+557
+00:24:49,367 --> 00:24:53,033
+Die Studiogröße war begrenzt, und
+um die Illusion von Weite zu geben,
+
+558
+00:24:53,133 --> 00:24:56,633
+wurde klassisch ein gemalter
+Hintergrund mit Bäumen benutzt,
+
+559
+00:24:56,733 --> 00:24:58,467
+der so drumrum gespannt wurde.
+
+560
+00:24:58,567 --> 00:25:01,133
+Der im Laufe der Filme
+immer größer geworden ist,
+
+561
+00:25:01,233 --> 00:25:03,500
+bis er am Ende
+mehrere 100 Meter lang war,
+
+562
+00:25:03,600 --> 00:25:06,767
+denn das ist ja 'ne Kulisse,
+die immer wieder benutzt wurde.
+
+563
+00:25:06,867 --> 00:25:10,800
+Der Studiowald lebt zwar nicht,
+ist aber mit jedem Film gewachsen.
+
+564
+00:25:10,933 --> 00:25:14,233
+Je tiefer Harry und Co.
+sich in den Wald hineinbewegt haben,
+
+565
+00:25:14,333 --> 00:25:17,967
+desto mehr Bäume wurden hinzugefügt
+mit noch größeren Wurzeln.
+
+566
+00:25:18,067 --> 00:25:21,867
+Der Studiowald wurde immer dunkler
+und unwirklicher und größer.
+
+567
+00:25:21,967 --> 00:25:24,933
+Ein weiterer Grund
+für diesen Studionachbau könnte sein,
+
+568
+00:25:25,033 --> 00:25:27,933
+dass man hier noch besser
+Nachtaufnahmen machen konnte.
+
+569
+00:25:28,033 --> 00:25:30,767
+Man hat 'n abgeschlossenes Studio,
+Licht aus, Klick,
+
+570
+00:25:30,867 --> 00:25:34,367
+kannst zu jeder Tageszeit Nacht
+simulieren und musst nicht warten.
+
+571
+00:25:34,467 --> 00:25:36,900
+Das war bestimmt von Vorteil
+für den Zeitplan.
+
+572
+00:25:37,000 --> 00:25:39,533
+Es gibt eine Sache,
+die ich richtig krass finde:
+
+573
+00:25:39,633 --> 00:25:41,700
+Um wieder zum Thema
+Verträge zu kommen.
+
+574
+00:25:41,800 --> 00:25:45,433
+Nicht nur, dass den Kindern verboten
+wurde, ihr Aussehen zu verändern
+
+575
+00:25:45,533 --> 00:25:48,100
+oder sich zu verletzen,
+es wurden - ohne Scheiß -
+
+576
+00:25:48,200 --> 00:25:51,000
+Kinderarbeitsgesetze
+in Großbritannien umgeschrieben,
+
+577
+00:25:51,100 --> 00:25:53,900
+wegen Harry Potter!
+Um den Filmzeitplan einzuhalten.
+
+578
+00:25:54,067 --> 00:25:56,933
+Daniel Radcliffe,
+der zum Zeitpunkt des Drehs elf war,
+
+579
+00:25:57,033 --> 00:26:00,500
+und seine anderen kindlichen Kollegen
+duften maximal vier Stunden
+
+580
+00:26:00,600 --> 00:26:02,033
+Dreharbeiten am Tag haben.
+
+581
+00:26:02,133 --> 00:26:05,867
+Dann gab's drei Stunden Schule mit
+'nem Privatlehrer und dann Freizeit.
+
+582
+00:26:05,967 --> 00:26:09,367
+Weil die Kindern nicht ständig
+Hochglanzleistung gebracht haben,
+
+583
+00:26:09,467 --> 00:26:11,800
+sondern manchmal
+in die Kamera geguckt haben
+
+584
+00:26:11,900 --> 00:26:15,133
+oder am Rumalbern waren,
+wurde weniger geschafft als gehofft.
+
+585
+00:26:15,233 --> 00:26:19,033
+Man hat versucht, die kostbare Zeit
+mit den Kindern effizient zu nutzen.
+
+586
+00:26:19,133 --> 00:26:22,333
+Manchmal hat man für eine Szene
+mehrere Kameras aufgestellt.
+
+587
+00:26:22,433 --> 00:26:24,633
+Normalerweise dreht man
+eine Einstellung,
+
+588
+00:26:24,733 --> 00:26:27,400
+positioniert die Kamera neu
+und macht's noch mal.
+
+589
+00:26:27,500 --> 00:26:31,233
+Dann hat man zwei, drei Blickwinkel,
+wo man hin und her schneiden kann.
+
+590
+00:26:31,333 --> 00:26:33,800
+Das konnte man von den Kindern
+nicht erwarten,
+
+591
+00:26:33,900 --> 00:26:37,167
+dass sie ein Take in vielen
+Einstellungen perfekt wiederholen.
+
+592
+00:26:37,267 --> 00:26:40,767
+Darum hat man mehrere Kameras
+auf sie gerichtet und laufen lassen,
+
+593
+00:26:40,867 --> 00:26:44,100
+um so den einen Take, den die Kinder
+ohne Fehler hinkriegen,
+
+594
+00:26:44,200 --> 00:26:46,033
+in mehreren Blickwinkeln zu haben.
+
+595
+00:26:46,133 --> 00:26:47,500
+Das war eine Möglichkeit,
+
+596
+00:26:47,600 --> 00:26:50,033
+um mehr Filmmaterial
+fertig zu kriegen.
+
+597
+00:26:50,167 --> 00:26:53,933
+Dann hat man, wo es möglich war,
+Stand-Ins oder Body-Doubles benutzt.
+
+598
+00:26:54,033 --> 00:26:58,200
+Kinder oder kleinere Leute,
+die von weit weg ungefähr so aussehen
+
+599
+00:26:58,300 --> 00:27:01,800
+wie die Hauptdarsteller, um die Szene
+zu beleuchten, zu proben,
+
+600
+00:27:01,900 --> 00:27:04,100
+Kamerafokus einzustellen
+und so weiter .
+
+601
+00:27:04,200 --> 00:27:06,733
+Weil auch das zur Arbeitszeit
+gezählt hätte.
+
+602
+00:27:06,833 --> 00:27:09,000
+Jede Minute,
+die die Kinder am Set waren,
+
+603
+00:27:09,100 --> 00:27:10,100
+war Arbeitszeit.
+
+604
+00:27:10,200 --> 00:27:12,000
+Die wollte man
+nicht verschwenden.
+
+605
+00:27:12,100 --> 00:27:14,233
+Das hat sich
+als Problem herausgestellt,
+
+606
+00:27:14,333 --> 00:27:17,300
+sie durften nur zu 'ner
+bestimmten Tageszeit da bleiben,
+
+607
+00:27:17,400 --> 00:27:19,533
+und nur eine gewisse
+Gesamtzahl an Tagen
+
+608
+00:27:19,633 --> 00:27:21,767
+mit der Filmproduktion
+beschäftigt sein.
+
+609
+00:27:21,867 --> 00:27:24,767
+Und Duncan Henderson,
+einer der Produzenten des Films,
+
+610
+00:27:24,867 --> 00:27:27,700
+der dafür zuständig war,
+Geld für den Film auszugeben,
+
+611
+00:27:27,800 --> 00:27:30,033
+beziehungsweise zu sparen,
+hat im Podcast:
+
+612
+00:27:30,600 --> 00:27:34,167
+von und mit Flick Miles, dem
+ehemaligen Double von Emma Watson,
+
+613
+00:27:34,267 --> 00:27:37,833
+erzählt, dass die Filmleute zum
+britischen Parlament gegangen sind,
+
+614
+00:27:37,933 --> 00:27:39,233
+und meinten: "Hi, na?"
+
+615
+00:27:39,333 --> 00:27:42,233
+"Wir wollten eigentlich den Film
+zum megaberühmten Buch
+
+616
+00:27:42,333 --> 00:27:44,600
+Harry Potter
+hier in Großbritannien drehen,
+
+617
+00:27:44,700 --> 00:27:47,867
+aber das geht leider nicht
+wegen den Kinderarbeitsgesetzen."
+
+618
+00:27:47,967 --> 00:27:50,800
+"Da müssen wir die Produktion
+nach Amiland verlegen."
+
+619
+00:27:50,900 --> 00:27:53,467
+"Und da all unsere
+Produktionsgelder ausgeben."
+
+620
+00:27:53,567 --> 00:27:54,933
+"Es ist sehr viel Geld."
+
+621
+00:27:55,033 --> 00:27:57,133
+"Meine Fresse, so viel Geld!"
+
+622
+00:27:57,233 --> 00:27:59,900
+"Das könnte hier
+in diesem Land ausgegeben werden,
+
+623
+00:28:00,000 --> 00:28:02,000
+wenn ihr die Gesetze ändert."
+
+624
+00:28:02,600 --> 00:28:05,867
+Und dann wurden Großbritanniens
+Kinderarbeitsgesetze geändert.
+
+625
+00:28:05,967 --> 00:28:08,267
+Damit der Film weiterhin
+da gedreht wird
+
+626
+00:28:08,367 --> 00:28:10,567
+und das Geld schön
+im eigenen Land bleibt.
+
+627
+00:28:10,667 --> 00:28:12,700
+Den Kinderschauspielern
+wurde erlaubt,
+
+628
+00:28:12,800 --> 00:28:14,433
+längere Schichten zu arbeiten.
+
+629
+00:28:14,533 --> 00:28:17,500
+Sie durften am Tag mal
+'ne Stunde länger am Set bleiben.
+
+630
+00:28:17,600 --> 00:28:19,967
+Dafür wurde aber
+der Gesamtzeitraum an Tagen,
+
+631
+00:28:20,067 --> 00:28:21,833
+wo sie beschäftigt waren, gekürzt
+
+632
+00:28:21,933 --> 00:28:24,133
+Keine Sorge,
+da wurde niemand ausgelastet.
+
+633
+00:28:24,233 --> 00:28:26,333
+Es wurde nichts
+an Gesetzen abgeschafft,
+
+634
+00:28:26,433 --> 00:28:29,900
+sondern umgeschrieben, die für
+Theaterproduktionen gedacht waren.
+
+635
+00:28:30,000 --> 00:28:33,200
+Und die wurden erneuert
+und für Filmproduktionen angepasst,
+
+636
+00:28:33,300 --> 00:28:35,000
+die ja nun mal anders abläuft.
+
+637
+00:28:35,167 --> 00:28:38,967
+Einen Dreh bei Nacht im Wald stell
+ich mir selbst bei den neuen Gesetzen
+
+638
+00:28:39,067 --> 00:28:41,700
+immer noch schwierig vor,
+da ist so ein Studiowald
+
+639
+00:28:41,800 --> 00:28:42,867
+eine gute Lösung.
+
+640
+00:28:42,967 --> 00:28:46,233
+Wo man zu jeder Tageszeit
+eine dunkle Nacht vortäuschen kann.
+
+641
+00:28:46,333 --> 00:28:47,833
+So wie in dieser Szene hier.
+
+642
+00:28:47,933 --> 00:28:51,500
+Während Harry und Draco hinter
+einem großen Baumstamm hervorkommen,
+
+643
+00:28:51,600 --> 00:28:54,467
+bleibt Fang plötzlich stehen
+und fängt an, zu knurren.
+
+644
+00:28:54,567 --> 00:28:58,567
+Harry stolpert über eine der Wurzeln,
+hat die Augen auf den Boden gerichtet
+
+645
+00:28:58,733 --> 00:29:00,500
+und fragt: "Was ist denn, Fang?"
+
+646
+00:29:00,600 --> 00:29:03,933
+Doch Draco, der mit erhobener
+Laterne schon längst gesehen hat,
+
+647
+00:29:04,033 --> 00:29:06,167
+was Fang da anknurrt,
+erstarrt vor Angst.
+
+648
+00:29:06,267 --> 00:29:08,300
+Jetzt guckt Harry auch
+in die Richtung,
+
+649
+00:29:08,400 --> 00:29:10,167
+und da ist das verletzte Einhorn!
+
+650
+00:29:10,267 --> 00:29:12,733
+Das mittlerweile
+tot am Boden liegende Einhorn.
+
+651
+00:29:12,833 --> 00:29:15,133
+Über dem eine vermummte Gestalt
+gebeugt ist.
+
+652
+00:29:15,233 --> 00:29:18,300
+Die, die vorher zwischen
+den Bäumen umher geschlichen ist,
+
+653
+00:29:18,400 --> 00:29:20,200
+wo Harry keinen Pieps gesagt hat.
+
+654
+00:29:20,300 --> 00:29:22,767
+Sonst wär das Einhorn
+vielleicht noch am Leben,
+
+655
+00:29:22,867 --> 00:29:25,567
+alles wär nicht passiert,
+Hagrid hätte sie längst
+
+656
+00:29:25,667 --> 00:29:27,767
+mitm Crossbow Stealth Kill
+weggemördert.
+
+657
+00:29:27,867 --> 00:29:31,233
+Harry muss ich an den Kopf fassen,
+nicht weil er überrascht ist,
+
+658
+00:29:31,333 --> 00:29:34,333
+sondern weil seine Narbe wehtut,
+er verzieht das Gesicht.
+
+659
+00:29:34,467 --> 00:29:37,133
+Das ist zuletzt passiert,
+als er Snape und Quirrell
+
+660
+00:29:37,233 --> 00:29:39,067
+in der Großen Halle angeguckt hat.
+
+661
+00:29:39,167 --> 00:29:42,167
+Jetzt guckt er das Einhorn
+und die vermummte Gestalt an.
+
+662
+00:29:42,267 --> 00:29:45,700
+Die hat die Kinder bemerkt.
+In einem Close-up sehen wir den Mund,
+
+663
+00:29:45,800 --> 00:29:47,933
+der schleimig
+voller Einhornblut sabbert.
+
+664
+00:29:48,033 --> 00:29:50,133
+Dracos bricht
+aus seiner Angststarre aus
+
+665
+00:29:50,233 --> 00:29:53,667
+und schreit wie am Spieß, dreht sich
+um und rennt mit der Laterne
+
+666
+00:29:53,767 --> 00:29:55,033
+um Hilfe rufend davon.
+
+667
+00:29:55,133 --> 00:29:57,933
+Fang tut es ihm gleich
+und läuft bellend hinterher.
+
+668
+00:29:58,033 --> 00:29:59,700
+Jetzt ist Harry ganz allein.
+
+669
+00:29:59,800 --> 00:30:02,867
+Gelähmt vor Angst und vor Schmerz
+guckt er ihnen nur nach,
+
+670
+00:30:02,967 --> 00:30:05,700
+während die dunkle Gestalt
+sich vom Einhorn entfernt
+
+671
+00:30:05,800 --> 00:30:07,233
+und ihn fixiert.
+
+672
+00:30:07,333 --> 00:30:09,633
+Sie schwebt unmenschlich
+über den Waldboden,
+
+673
+00:30:09,733 --> 00:30:11,333
+als hätte sie
+gar keine Beine,
+
+674
+00:30:11,433 --> 00:30:13,467
+und bewegt sich
+merkwürdig hin und her,
+
+675
+00:30:13,567 --> 00:30:14,900
+als wär sie 'ne Schlange.
+
+676
+00:30:15,000 --> 00:30:18,367
+Harry guckt ganz erschrocken
+und ich mag diese Einstellung sehr,
+
+677
+00:30:18,467 --> 00:30:22,167
+weil im Hintergrund für eine Sekunde
+der schreiende Draco vorbeiläuft.
+
+678
+00:30:22,267 --> 00:30:23,300
+"Hilfe! Hilfe!"
+
+679
+00:30:23,400 --> 00:30:25,667
+Man sieht ihn
+mit der Laterne vorbeiflitzen
+
+680
+00:30:25,767 --> 00:30:28,933
+und er ist gar nicht so weit
+weggelaufen wie er sein könnte.
+
+681
+00:30:29,033 --> 00:30:32,000
+Er ist vielleicht zwischendurch
+über Wurzeln gestolpert.
+
+682
+00:30:32,100 --> 00:30:34,833
+Die dunkle Gestalt
+richtet sich zur vollen Größe auf
+
+683
+00:30:34,933 --> 00:30:37,467
+und kommt mit ausgebreiteten Armen
+auf Harry zu,
+
+684
+00:30:37,567 --> 00:30:39,500
+der die ganze Zeit
+hin und her guckt,
+
+685
+00:30:39,600 --> 00:30:43,300
+kleine Schritte nach hinten macht,
+Wurzelhügel versperren ihm den Weg,
+
+686
+00:30:43,400 --> 00:30:46,733
+und er stolpert und fällt auf
+ganz besonders weichen Waldboden,
+
+687
+00:30:46,833 --> 00:30:49,900
+krabbelt nach hinten,
+in den Dreck, in die Wurzeln hinein,
+
+688
+00:30:50,000 --> 00:30:51,933
+aber es gibt scheinbar
+keinen Ausweg.
+
+689
+00:30:52,033 --> 00:30:54,067
+Und um Sie,
+verängstigte Zuhörerschaft,
+
+690
+00:30:54,167 --> 00:30:56,267
+nicht vor Spannung
+zerplatzen zu lassen,
+
+691
+00:30:56,367 --> 00:30:59,900
+möchte ich nun eine beruhigende
+Anekdote aus meinem Leben erzählen.
+
+692
+00:31:00,000 --> 00:31:02,367
+Diese Szene
+hat besondere Bedeutung für mich.
+
+693
+00:31:02,467 --> 00:31:04,567
+Ich wurde von Freunden
+damals gezwungen,
+
+694
+00:31:04,667 --> 00:31:08,300
+den Film im Kino zu gucken, denn
+ich hab damals Harry Potter gehasst,
+
+695
+00:31:08,400 --> 00:31:12,200
+weil's für mich 'n Scheißhype war,
+dem alle Leute hinterhergelaufen sind
+
+696
+00:31:12,300 --> 00:31:14,667
+und da waren viele
+kleine Kinder im Kinosaal.
+
+697
+00:31:14,767 --> 00:31:17,667
+Obwohl der Film ab sechs ist,
+es waren noch jüngere da.
+
+698
+00:31:17,767 --> 00:31:19,967
+Und ich erinner mich genau
+an diese Szene,
+
+699
+00:31:20,067 --> 00:31:22,800
+weil als die dunkle Gestalt
+immer näher gekommen ist
+
+700
+00:31:22,900 --> 00:31:25,700
+eins der Kinder angefangen hat,
+hysterisch zu weinen.
+
+701
+00:31:25,800 --> 00:31:26,800
+Es war wundervoll!
+
+702
+00:31:26,900 --> 00:31:30,500
+Und dann war da noch 'n kleiner
+Junge, der es unglaublich cool fand,
+
+703
+00:31:30,600 --> 00:31:32,700
+alle Leute
+mit "Alohomora!" zu verhexen.
+
+704
+00:31:32,800 --> 00:31:36,333
+Wo selbst ich wusste, och, das
+ist der Spruch um Türen aufzumachen.
+
+705
+00:31:36,433 --> 00:31:39,767
+Und das ist aus irgendeinem Grund
+eine Kernerinnerung geworden.
+
+706
+00:31:39,867 --> 00:31:43,733
+Ein einschneidender Moment in meinem
+Leben, den ich nicht vergessen habe.
+
+707
+00:31:43,833 --> 00:31:47,700
+Nicht weil diese Szene so toll ist,
+sondern weil Kinder verängstigt waren
+
+708
+00:31:47,800 --> 00:31:49,267
+und ich das so lustig fand,
+
+709
+00:31:49,367 --> 00:31:51,933
+dass der Film für mich
+dann doch ganz okay wurde.
+
+710
+00:31:52,033 --> 00:31:53,867
+Liebes kleines Kind von damals,
+
+711
+00:31:53,967 --> 00:31:56,200
+du bist jetzt
+auf jeden Fall über 20.
+
+712
+00:31:56,300 --> 00:31:58,667
+Falls du 18.12.2001
+in der 17-Uhr-Vorstellung
+
+713
+00:31:58,767 --> 00:32:01,133
+von Harry Potter
+im Cinemaxx in Bremen warst:
+
+714
+00:32:01,233 --> 00:32:04,233
+Du bist einer der Gründe,
+warum ich diesen Podcast mache.
+
+715
+00:32:04,333 --> 00:32:06,433
+Du und Alan Rickman.
+Fühl dich geknufft.
+
+716
+00:32:07,067 --> 00:32:09,467
+Nun, da die Zuhörerschaft
+wieder beruhigt ist,
+
+717
+00:32:09,567 --> 00:32:11,067
+geht es weiter mit dem Film.
+
+718
+00:32:11,167 --> 00:32:12,400
+Harry ist in der Falle.
+
+719
+00:32:12,500 --> 00:32:14,433
+Die dunkle Gestalt
+kommt immer näher,
+
+720
+00:32:14,533 --> 00:32:16,633
+doch da hört man plötzlich
+Pferdegalopp.
+
+721
+00:32:16,733 --> 00:32:19,067
+Harry schaut erschrocken über sich,
+
+722
+00:32:19,167 --> 00:32:20,867
+etwas springt über ihn hinweg
+
+723
+00:32:20,967 --> 00:32:23,200
+und landet genau
+vor der dunklen Gestalt.
+
+724
+00:32:23,300 --> 00:32:27,433
+Nicht ein Pferd, sondern ein Zentaur,
+halb Mensch, halb Pferd.
+
+725
+00:32:27,533 --> 00:32:28,733
+Und der bäumt sich auf
+
+726
+00:32:28,833 --> 00:32:31,667
+und vertreibt mit fuchtelnden
+Vorderhufen die Gestalt,
+
+727
+00:32:31,767 --> 00:32:35,167
+die mit wehendem Umhang wieder
+über den nebligen Boden schwebt,
+
+728
+00:32:35,267 --> 00:32:37,633
+dann in die Luft abhebt
+und verschwindet.
+
+729
+00:32:37,733 --> 00:32:39,567
+Vorsichtig rappelt Harry sich auf,
+
+730
+00:32:39,667 --> 00:32:42,733
+er kann gar nicht glauben,
+was da grad alles passiert ist:
+
+731
+00:32:42,833 --> 00:32:46,467
+Einhorn, dunkle Gestalt, 'n Zentaur -
+ist 'n bisschen viel los heute.
+
+732
+00:32:46,567 --> 00:32:49,567
+Dann kommt der Zentaur auch noch
+hinter 'nem Busch hervor
+
+733
+00:32:49,667 --> 00:32:51,533
+und spricht ihn
+mit vollem Namen an.
+
+734
+00:32:51,633 --> 00:32:53,733
+"Harry Potter,
+Sie müssen verschwinden."
+
+735
+00:32:53,833 --> 00:32:55,567
+"Sie sind auch hier zu bekannt."
+
+736
+00:32:55,667 --> 00:32:57,067
+Harry ist einfach zu fame,
+
+737
+00:32:57,167 --> 00:33:00,800
+kommen gleich die ganzen Waldgestalt
+und wollen 'n Autogramm von ihm?
+
+738
+00:33:00,900 --> 00:33:02,667
+Aber der Zentaur erklärt weiter:
+
+739
+00:33:02,767 --> 00:33:05,400
+"Im Augenblick
+ist in diesem Wald niemand sicher."
+
+740
+00:33:05,500 --> 00:33:08,733
+Schön, dass dieses wilde Wesen
+des Waldes Harry das mitteilt,
+
+741
+00:33:08,833 --> 00:33:11,300
+aber Hagrid lässt die Kinder
+alleine losziehen.
+
+742
+00:33:11,400 --> 00:33:13,333
+Ohne den Zentaur
+wär Harry jetzt tot.
+
+743
+00:33:13,433 --> 00:33:16,133
+Da Harry weder
+"Hey, danke schön fürs Retten!" sagt
+
+744
+00:33:16,233 --> 00:33:18,633
+oder fragt,
+wer oder was dieser Zentaur ist:
+
+745
+00:33:18,733 --> 00:33:21,800
+Der Zentaur heißt Firenze,
+im Buch ist er beschrieben als:
+
+746
+00:33:21,900 --> 00:33:23,700
+"bis zur Hüfte ein junger Mann
+
+747
+00:33:23,800 --> 00:33:27,500
+mit eindrucksvollen blauen Augen
+wie blasse Saphire
+
+748
+00:33:27,600 --> 00:33:29,500
+und mit weißblondem Haar".
+
+749
+00:33:29,600 --> 00:33:33,000
+Und darunter hatte er
+"den Körper eines Palominos".
+
+750
+00:33:33,100 --> 00:33:35,067
+Wow! Was zum Geier
+ist ein Palomino?
+
+751
+00:33:35,167 --> 00:33:38,800
+Wenn man sich nicht so sehr mit
+Farbschlägen von Pferden beschäftigt,
+
+752
+00:33:38,900 --> 00:33:41,700
+kann man mit dieser Beschreibung
+nicht viel anfangen.
+
+753
+00:33:41,800 --> 00:33:45,067
+Es ist der englische Begriff
+für Pferde mit ganz hellbraunem,
+
+754
+00:33:45,167 --> 00:33:46,700
+fast goldenem Fell.
+
+755
+00:33:46,800 --> 00:33:49,533
+Auf deutsch heißt es Isabell
+oder Goldisabell,
+
+756
+00:33:49,633 --> 00:33:50,700
+was so genannt wird,
+
+757
+00:33:50,800 --> 00:33:54,133
+weil angeblich die spanische
+Prinzessin Isabella Clara Eugenia
+
+758
+00:33:54,233 --> 00:33:56,400
+ihr weißes Hemd
+nicht ausziehen wollte,
+
+759
+00:33:56,500 --> 00:33:58,800
+bis ihr Mann
+aus dem Krieg zurück war.
+
+760
+00:33:58,900 --> 00:34:01,733
+Da das mehr als drei Jahre
+gedauert hat,
+
+761
+00:34:01,833 --> 00:34:04,433
+war es dann am Ende
+nicht mehr weiß.
+
+762
+00:34:04,533 --> 00:34:08,500
+Und weil "Farbe wie drei Jahre altes
+versifftes Hemd mit Schweißflecken"
+
+763
+00:34:08,600 --> 00:34:12,367
+nicht so schön klingt,
+nennt man diese Farbe eben Isabell.
+
+764
+00:34:12,467 --> 00:34:16,300
+Ein Palomino ist also ein helles,
+milchkaffeefarbenes Pferd.
+
+765
+00:34:16,400 --> 00:34:19,500
+Und im Film sieht Firenze ...
+anders aus.
+
+766
+00:34:19,600 --> 00:34:20,600
+Ganz anders.
+
+767
+00:34:20,700 --> 00:34:22,667
+Eher wie das komplette Gegenteil.
+
+768
+00:34:22,767 --> 00:34:24,967
+Er ist dunkelgrau
+mit schwarzen Haaren
+
+769
+00:34:25,067 --> 00:34:27,100
+und hat bernsteinfarbene Augen.
+
+770
+00:34:27,200 --> 00:34:30,867
+Sein Gesicht ist umrundet
+mit struppigem Kinn- und Backenbart.
+
+771
+00:34:30,967 --> 00:34:33,500
+Er ist sehr beefy
+und haarig von oben bis unten.
+
+772
+00:34:33,600 --> 00:34:37,567
+Nicht nur auf der Brust, sondern auch
+auf dem Rücken und auf den Schultern.
+
+773
+00:34:37,667 --> 00:34:39,133
+Aber es ist eben kein Fell,
+
+774
+00:34:39,233 --> 00:34:41,633
+es ist Menschenhaut
+mit Menschenhaaren.
+
+775
+00:34:41,733 --> 00:34:44,000
+Er sieht aus
+wie ein extrem behaarter Mann.
+
+776
+00:34:44,100 --> 00:34:46,300
+Und das Gesicht
+ist nicht ganz menschlich,
+
+777
+00:34:46,400 --> 00:34:50,033
+sondern es geht minimal
+in einen Pferdemorph über
+
+778
+00:34:50,133 --> 00:34:53,767
+mit spitzen Pferdeohren, die
+an der Seite aus dem Haar rausstehen.
+
+779
+00:34:53,867 --> 00:34:56,333
+Sein Mund und Kinn
+sind noch normal menschlich,
+
+780
+00:34:56,433 --> 00:34:58,733
+aber nach oben hin
+wird das Gesicht breiter,
+
+781
+00:34:58,833 --> 00:35:01,533
+seine Nase ist ein bisschen
+abgeflacht wie Nüstern.
+
+782
+00:35:01,633 --> 00:35:03,833
+Seine Wangen und Augen
+stehen auseinander,
+
+783
+00:35:03,933 --> 00:35:06,300
+mit großer Stirn
+ähnlich wie bei einem Pferd.
+
+784
+00:35:06,400 --> 00:35:10,000
+Da hat man also nicht die klare
+Trennung von Mensch- und Tierhälfte,
+
+785
+00:35:10,100 --> 00:35:11,433
+sondern es ist vermischt.
+
+786
+00:35:11,533 --> 00:35:14,900
+Nicht nur sein Aussehen ist
+ganz anders als im Buch beschrieben,
+
+787
+00:35:15,000 --> 00:35:18,467
+sondern auch sein Werdegang -
+der ist nämlich gar nicht vorhanden.
+
+788
+00:35:18,567 --> 00:35:21,200
+In dem Film ist seine
+ganze Storyline nonexistent,
+
+789
+00:35:21,300 --> 00:35:23,300
+obwohl er 'ne interessante Figur ist.
+
+790
+00:35:23,400 --> 00:35:25,333
+Nachdem Firenze
+nämlich Harry rettet,
+
+791
+00:35:25,433 --> 00:35:27,733
+trägt er ihn
+auf seinem Rücken in Sicherheit
+
+792
+00:35:27,833 --> 00:35:30,833
+und wird dafür heftig
+von zwei anderen, älteren Zentauren
+
+793
+00:35:30,933 --> 00:35:32,700
+namens Bane und Ronan kritisiert,
+
+794
+00:35:32,800 --> 00:35:35,100
+dass er einen Menschen
+auf sich reiten lässt
+
+795
+00:35:35,200 --> 00:35:37,433
+wie so 'n Maultier,
+das ist ja demütigend.
+
+796
+00:35:37,533 --> 00:35:40,867
+Aber Firenze ist entschlossen,
+sich gegen Voldemort zu stellen,
+
+797
+00:35:40,967 --> 00:35:44,200
+selbst wenn das bedeutet,
+mit Menschen zusammenzuarbeiten.
+
+798
+00:35:44,300 --> 00:35:47,233
+Die anderen Zentauren
+kommen überhaupt nicht im Film vor
+
+799
+00:35:47,333 --> 00:35:50,067
+und auch nicht,
+wie sehr sie die Menschen verachten.
+
+800
+00:35:50,167 --> 00:35:51,933
+Denn es soll ja
+'n Kinderfilm sein
+
+801
+00:35:52,033 --> 00:35:53,500
+und diese ganze Problematik
+
+802
+00:35:53,600 --> 00:35:55,867
+mit intelligenten
+empfindungsfähigen Wesen,
+
+803
+00:35:55,967 --> 00:35:58,867
+die von der Zaubererwelt
+gezielt ausgeschlossen werden,
+
+804
+00:35:58,967 --> 00:36:00,433
+wurde einfach rausgelassen.
+
+805
+00:36:00,533 --> 00:36:03,000
+Es sind vornehmlich Menschenkinder
+in Hogwarts,
+
+806
+00:36:03,100 --> 00:36:04,833
+mal 'n Halbriese oder Halbveela,
+
+807
+00:36:04,933 --> 00:36:07,500
+aber was ist mit Kindern
+anderer magischer Wesen?
+
+808
+00:36:07,600 --> 00:36:09,800
+"Hi, kann ich auch
+hier zur Schule gehen?"
+
+809
+00:36:09,900 --> 00:36:12,933
+"Gar nix kriegst du,
+du hast Hufe, geh in den Wald!"
+
+810
+00:36:13,033 --> 00:36:16,233
+Die einzige Instanz, wo Zentauren
+im Film noch mal vorkommen,
+
+811
+00:36:16,333 --> 00:36:17,633
+ist im Orden des Phönix.
+
+812
+00:36:17,733 --> 00:36:20,433
+Im Buch wird die Lehrerin
+für Wahrsagen, Trelawney,
+
+813
+00:36:20,533 --> 00:36:22,733
+suspendiert
+von der beschissenen Umbridge.
+
+814
+00:36:22,833 --> 00:36:24,600
+Und als großes "Fuck you!" an sie
+
+815
+00:36:24,700 --> 00:36:27,100
+stellt Dumbledore dann
+Firenze als Lehrer ein,
+
+816
+00:36:27,200 --> 00:36:28,767
+um Wahrsagen zu unterrichten,
+
+817
+00:36:28,867 --> 00:36:31,400
+denn Zentauren deuten,
+was in den Sternen steht,
+
+818
+00:36:31,500 --> 00:36:33,600
+und sehen darin
+die Zukunft voraus.
+
+819
+00:36:33,700 --> 00:36:36,333
+Firenze wird aber brutal
+von den anderen Zentauren
+
+820
+00:36:36,433 --> 00:36:37,833
+aus der Herde ausgestoßen,
+
+821
+00:36:37,933 --> 00:36:40,200
+weil er so viel
+mit Menschen sympathisiert.
+
+822
+00:36:40,300 --> 00:36:44,567
+Diese Zwietracht wird nur
+bruchteilhaft im Film angedeutet.
+
+823
+00:36:44,667 --> 00:36:45,800
+Als Harry und Hermine
+
+824
+00:36:45,900 --> 00:36:49,000
+Umbridge unter einem Vorwand
+in den Verbotenen Wald locken,
+
+825
+00:36:49,100 --> 00:36:50,867
+kommen zufällig Zentauren vorbei,
+
+826
+00:36:50,967 --> 00:36:54,233
+und nachdem Umbridge sie dann
+mit 'nem Zauber angegriffen hat,
+
+827
+00:36:54,333 --> 00:36:55,467
+verschleppen sie sie.
+
+828
+00:36:55,567 --> 00:36:58,500
+Dass da generelle Antipathie
+zu allen Menschen existiert
+
+829
+00:36:58,600 --> 00:36:59,867
+wird gar nicht erklärt,
+
+830
+00:36:59,967 --> 00:37:03,133
+Umbridge ist einfach scheiße
+und kriegt jetzt Hufe aufs Maul
+
+831
+00:37:03,233 --> 00:37:05,233
+und Firenze
+kommt überhaupt nicht vor,
+
+832
+00:37:05,333 --> 00:37:06,900
+während er im Buch eigentlich
+
+833
+00:37:07,000 --> 00:37:10,100
+beim Unterricht von allen
+Teenie-Girls angeschmachtet wird,
+
+834
+00:37:10,200 --> 00:37:13,200
+alle verlieben sich in ihn,
+weil sie ihn so schön finden.
+
+835
+00:37:13,300 --> 00:37:15,333
+Und ich würde diese
+Filmversion von ihm
+
+836
+00:37:15,433 --> 00:37:17,800
+nicht unbedingt
+in die Kategorie "schön" tun.
+
+837
+00:37:17,900 --> 00:37:19,900
+Fuckable auf jeden Fall, don't judge.
+
+838
+00:37:20,000 --> 00:37:22,633
+Aber ich weiß nicht,
+es ist eher die Kategorie ...
+
+839
+00:37:22,833 --> 00:37:24,633
+Klar, das Buch "Orden des Phönix"
+
+840
+00:37:24,733 --> 00:37:28,267
+war zum Zeitpunkt des ersten Films
+noch gar nicht da,
+
+841
+00:37:28,367 --> 00:37:31,433
+aber das Aussehen ist ja
+schon im ersten Buch beschrieben.
+
+842
+00:37:31,533 --> 00:37:35,067
+Und man könnte argumentieren,
+das ist halt 'ne eigene Fantasyfigur,
+
+843
+00:37:35,167 --> 00:37:37,967
+es ist ein völlig
+eigenständiges Design für den Film.
+
+844
+00:37:38,067 --> 00:37:41,000
+Und Wertung von Schönheit
+liegt im Auge des Betrachters,
+
+845
+00:37:41,100 --> 00:37:42,767
+das ist jedem
+selbst überlassen.
+
+846
+00:37:42,867 --> 00:37:46,300
+Aber er sieht halt aus wie einer
+von diesen blauen Avatar-Aliens,
+
+847
+00:37:46,400 --> 00:37:48,067
+aber im Discounterladen geklaut
+
+848
+00:37:48,167 --> 00:37:51,600
+und dann aus dem Laster gefallen
+in eine Friseurmülltonne.
+
+849
+00:37:51,700 --> 00:37:54,867
+Dabei hat man extra Aufnahmen gemacht
+von richtigen Pferden,
+
+850
+00:37:54,967 --> 00:37:57,700
+wie sie gehen, laufen,
+springen oder sich aufbäumen,
+
+851
+00:37:57,800 --> 00:38:02,200
+um das für die Bewegung des im Com-
+puter animierten Zentauren zu nutzen.
+
+852
+00:38:02,300 --> 00:38:05,033
+Man kann es nicht
+mit heutigen Effekten vergleichen,
+
+853
+00:38:05,133 --> 00:38:07,233
+immerhin ist der Film
+über 20 Jahre alt.
+
+854
+00:38:07,333 --> 00:38:09,733
+Aber er ist auch für damals
+nicht überzeugend.
+
+855
+00:38:09,833 --> 00:38:11,867
+Ich hab neulich
+"Men in Black" geguckt,
+
+856
+00:38:11,967 --> 00:38:14,700
+und der ist vier Jahr
+vor Harry Potter rausgekommen,
+
+857
+00:38:14,800 --> 00:38:16,900
+und hat auch noch
+weniger Geld gekostet,
+
+858
+00:38:17,000 --> 00:38:20,833
+und die ganzen Aliens, die da vor-
+kommen, sind immer noch faszinierend.
+
+859
+00:38:20,933 --> 00:38:24,133
+Das ist 'ne gesunde Mischung
+aus Puppen, verkleideten Leuten,
+
+860
+00:38:24,233 --> 00:38:27,233
+Computeranimation, und die
+ist grade kurz genug zu sehen,
+
+861
+00:38:27,333 --> 00:38:30,133
+um zu denken, oah, ist das cool.
+
+862
+00:38:30,233 --> 00:38:32,633
+Und Firenze ist leider doch
+zu lange zu sehen,
+
+863
+00:38:32,733 --> 00:38:35,000
+dass dieser Wow-Effekt
+schnell vorbei ist
+
+864
+00:38:35,100 --> 00:38:38,733
+und das Wissen, dass man was
+Künstliches sieht, nimmt überhand.
+
+865
+00:38:38,833 --> 00:38:40,967
+Die Schatten
+funktionieren nicht richtig,
+
+866
+00:38:41,067 --> 00:38:43,867
+das wurde mit 'nem Busch
+vor seinen Beinen kaschiert.
+
+867
+00:38:43,967 --> 00:38:47,233
+Er atmet nicht und die Mundanimation
+ist irgendwie merkwürdig.
+
+868
+00:38:47,333 --> 00:38:49,167
+Auf deutsch
+fällt es nicht so auf,
+
+869
+00:38:49,267 --> 00:38:51,933
+weil man an ein bisschen
+Asynchronität gewöhnt ist,
+
+870
+00:38:52,033 --> 00:38:55,667
+aber auf englisch merkt man halt,
+der Mund bewegt sich nur auf und zu
+
+871
+00:38:55,767 --> 00:38:59,400
+und macht nicht die richtigen
+Lippenbewegungen zum Gesprochenen.
+
+872
+00:38:59,500 --> 00:39:01,767
+Chris Columbus,
+der Regisseur dieses Films,
+
+873
+00:39:01,867 --> 00:39:04,533
+hat in einem Interview
+mit CinemaBlend auch gesagt,
+
+874
+00:39:04,633 --> 00:39:07,700
+dass er mit den Effekten
+nicht wirklich zufrieden war.
+
+875
+00:39:07,800 --> 00:39:11,400
+Die Special Effects, also das,
+was tatsächlich vor Ort passiert ist,
+
+876
+00:39:11,500 --> 00:39:13,900
+und die praktischen Effekte
+waren fantastisch,
+
+877
+00:39:14,000 --> 00:39:17,900
+aber die Visual Effects, also alles,
+was später im Computer gemacht wurde,
+
+878
+00:39:18,000 --> 00:39:19,133
+fand er enttäuschend.
+
+879
+00:39:19,233 --> 00:39:22,067
+Aber in der kurzen Zeit
+war halt nicht so viel möglich
+
+880
+00:39:22,167 --> 00:39:23,667
+und es kann ja keiner ahnen,
+
+881
+00:39:23,767 --> 00:39:26,300
+dass solche CGI-Figuren zu basteln
+lange dauert.
+
+882
+00:39:26,400 --> 00:39:29,333
+Der Film wurde gedreht
+von September 2000 bis März 2001,
+
+883
+00:39:29,433 --> 00:39:31,767
+und dann sollte er
+schon im Juli erscheinen.
+
+884
+00:39:31,867 --> 00:39:35,300
+Da hatten sie grad mal vier Monate
+für die ganze Nachbearbeitung.
+
+885
+00:39:35,400 --> 00:39:37,867
+Der Release wurde dann
+auf November verschoben,
+
+886
+00:39:37,967 --> 00:39:41,767
+weil Warner Bros eingesehen hat, dass
+es der Marke nicht gutgetan hätte,
+
+887
+00:39:41,867 --> 00:39:43,433
+das einfach so hinzupfuschen.
+
+888
+00:39:43,533 --> 00:39:45,633
+Es steckt sehr viel Herz
+in diesem Film,
+
+889
+00:39:45,733 --> 00:39:49,100
+aber man bemerkt beim genaueren
+Hinsehen doch ein paar Engpässe,
+
+890
+00:39:49,200 --> 00:39:51,500
+und die Figur von Firenze
+ist einer davon.
+
+891
+00:39:51,600 --> 00:39:53,000
+Und was ich komisch finde:
+
+892
+00:39:53,100 --> 00:39:55,233
+Es gibt eine exakte
+Beschreibung im Buch,
+
+893
+00:39:55,333 --> 00:39:57,000
+so wie Firenze
+im Film aussieht,
+
+894
+00:39:57,100 --> 00:40:00,000
+aber für einen anderen Zentauren,
+nämlich Bane.
+
+895
+00:40:00,100 --> 00:40:02,567
+Firenze ist so 'n blauäugiger,
+blonder Legolas,
+
+896
+00:40:02,667 --> 00:40:04,867
+aber Bane
+ist ein wild aussehender Zentaur
+
+897
+00:40:04,967 --> 00:40:07,067
+mit schwarzem Haar
+und schwarzem Körper.
+
+898
+00:40:07,167 --> 00:40:09,333
+Das ist er doch,
+so sieht er im Film aus.
+
+899
+00:40:09,433 --> 00:40:10,900
+Und ich hab so die Theorie,
+
+900
+00:40:11,000 --> 00:40:14,800
+dass von allen Zentauren aus dem Buch
+Konzeptzeichnungen gemacht wurden,
+
+901
+00:40:14,900 --> 00:40:17,700
+und irgendso'n Bullshit-Producer
+hat das dann gesehen
+
+902
+00:40:17,800 --> 00:40:20,233
+und gesagt,
+wir nehmen nur einen, ähm, den da,
+
+903
+00:40:20,333 --> 00:40:24,300
+ohne zu kapieren, dass es nicht
+alles Designs für Firenze sind.
+
+904
+00:40:24,400 --> 00:40:26,200
+Eine weitere Theorie von mir ist,
+
+905
+00:40:26,300 --> 00:40:29,400
+dass sie genau wussten,
+dass es nicht wie Firenze aussieht,
+
+906
+00:40:29,500 --> 00:40:32,167
+aber das Design von Bane
+mit seinem schwarzen Fell
+
+907
+00:40:32,267 --> 00:40:35,867
+war einfacher zu animieren und besser
+in diese Dunkelheit einzufügen
+
+908
+00:40:35,967 --> 00:40:37,700
+als so 'n ganz helles Pferd.
+
+909
+00:40:37,800 --> 00:40:40,700
+Und dann wurde aus dem Design
+für Bane einfach Firenze,
+
+910
+00:40:40,800 --> 00:40:42,200
+weil das Zeit gespart hat,
+
+911
+00:40:42,300 --> 00:40:45,100
+von der man in dieser Filmproduktion
+so wenig hatte.
+
+912
+00:40:45,200 --> 00:40:48,467
+Ich kann nur Vermutungen aufstellen,
+mein Wissen ist begrenzt,
+
+913
+00:40:48,567 --> 00:40:51,567
+aber vielleicht gibt es ja unter euch
+3D-Animationsleute,
+
+914
+00:40:51,667 --> 00:40:55,133
+die sich damit auskennen und das
+vielleicht näher erklären wollen.
+
+915
+00:40:55,233 --> 00:40:57,600
+So, jetzt haben wir geklärt,
+wer Firenze ist,
+
+916
+00:40:57,700 --> 00:40:59,433
+obwohl Harry nicht danach fragt.
+
+917
+00:40:59,533 --> 00:41:03,333
+Es interessiert ihn überhaupt nicht,
+sondern er will einfach nur wissen:
+
+918
+00:41:03,433 --> 00:41:05,567
+"Vor was hast du mich
+da grade gerettet?"
+
+919
+00:41:05,667 --> 00:41:07,833
+Firenze:
+"Es war eine monströse Kreatur."
+
+920
+00:41:07,933 --> 00:41:11,033
+"Ach nee." - "Es ist ein Verbrechen,
+ein Einhorn zu töten."
+
+921
+00:41:11,133 --> 00:41:13,867
+"Doch wenn man das Blut trinkt,
+bleibt man am Leben,
+
+922
+00:41:13,967 --> 00:41:16,000
+selbst wenn der Tod
+nach einem greift."
+
+923
+00:41:16,100 --> 00:41:18,833
+"Einhornblut hält am Leben,
+aber wenn man es trinkt,
+
+924
+00:41:18,933 --> 00:41:21,567
+ist man fortan verflucht
+und hat ein halbes Leben,
+
+925
+00:41:21,667 --> 00:41:23,800
+weil man etwas so Reines
+gemeuchelt hat."
+
+926
+00:41:23,900 --> 00:41:25,833
+"Ähm, Herr Firenze,
+meine Frage wäre:
+
+927
+00:41:25,933 --> 00:41:29,633
+Ab wann gilt das Berühren von
+Einhornblut als Fluch?" - "Ähh ..."
+
+928
+00:41:29,733 --> 00:41:32,533
+"Gilt das nur für die Lippen
+oder für Haut generell?"
+
+929
+00:41:32,633 --> 00:41:34,967
+"Hagrid hat darin
+so rumgematscht ..."
+
+930
+00:41:35,067 --> 00:41:38,800
+"Sind seine Finger jetzt superhealthy
+und geschmeidig und unsterblich?"
+
+931
+00:41:38,900 --> 00:41:41,033
+"Hat Hagrid jetzt
+ein verfluchtes Leben?"
+
+932
+00:41:41,133 --> 00:41:43,167
+"Oder sind nur
+seine Finger verflucht?"
+
+933
+00:41:43,267 --> 00:41:46,433
+"Was, wenn Hagrid sich nicht
+ganz gründlich die Hände wäscht
+
+934
+00:41:46,533 --> 00:41:48,000
+und einen Felsenkeks isst?"
+
+935
+00:41:48,100 --> 00:41:51,200
+"Reicht ein Tropfen oder muss es
+'ne bestimmte Menge sein?"
+
+936
+00:41:51,300 --> 00:41:54,633
+"Oder muss das Einhornblut aktiv
+mit dem Mund getrunken werden,
+
+937
+00:41:54,733 --> 00:41:56,500
+um den Fluchmodus zu aktivieren?"
+
+938
+00:41:56,600 --> 00:41:59,867
+"Oder giltet der Fluch nur,
+wenn man das Einhorn getötet hat?"
+
+939
+00:41:59,967 --> 00:42:03,233
+"Was, wenn man es tötet,
+aber jemand anderes das Blut trinkt?"
+
+940
+00:42:03,333 --> 00:42:04,833
+"Sind dann beide verflucht?"
+
+941
+00:42:04,933 --> 00:42:08,367
+"Sie haben gesagt, dass das Töten
+vom Einhorn ein Verbrechen ist,
+
+942
+00:42:08,467 --> 00:42:10,133
+aber der Fluch kommt vom Blut."
+
+943
+00:42:10,233 --> 00:42:12,333
+"Was, wenn man das
+aus Versehen trinkt?"
+
+944
+00:42:12,433 --> 00:42:15,933
+"Und was meinen Sie damit, dass
+der Fluch ein halbes Leben macht?"
+
+945
+00:42:16,033 --> 00:42:19,567
+"Ist das einmalig oder wird das
+halbierte Leben noch mal halbiert?"
+
+946
+00:42:19,667 --> 00:42:22,633
+"Sinkt die Lebenserwartung
+expotenziell ab oder linear?"
+
+947
+00:42:22,733 --> 00:42:25,633
+"Entsteht ein Sättigungseffekt,
+der gegen null strebt?"
+
+948
+00:42:25,733 --> 00:42:29,233
+"Muss man dann konstant das Blut
+trinken, um am Leben zu bleiben?"
+
+949
+00:42:29,333 --> 00:42:32,233
+"Herr Firenze, das hab ich
+noch nicht ganz verstanden."
+
+950
+00:42:32,333 --> 00:42:33,833
+Das alles fragt Harry nicht,
+
+951
+00:42:33,933 --> 00:42:37,167
+aber seine Gehirnsynapsen
+sind in Bewegung gekommen.
+
+952
+00:42:37,267 --> 00:42:39,667
+Wer würde denn
+so einen Fluch auf sich nehmen?
+
+953
+00:42:39,767 --> 00:42:40,900
+Wer würde das wollen?
+
+954
+00:42:41,000 --> 00:42:44,867
+Shit, der der das Einhorn getötet hat
+und sich sattgetrunken hat am Blut,
+
+955
+00:42:44,967 --> 00:42:45,967
+war das Voldemort?
+
+956
+00:42:46,067 --> 00:42:48,433
+Könnte man meinen,
+aber völlig falsch, Harry.
+
+957
+00:42:48,533 --> 00:42:50,633
+Wir wissen es
+in diesem Film noch nicht,
+
+958
+00:42:50,733 --> 00:42:53,833
+Aber Voldemort wird am Leben gehalten
+durch seine Horkruxe.
+
+959
+00:42:53,933 --> 00:42:56,500
+Seelenfragmente von ihm
+sind in Objekten gebannt,
+
+960
+00:42:56,600 --> 00:42:59,267
+und er kann nicht sterben,
+so lange die existieren.
+
+961
+00:42:59,367 --> 00:43:02,633
+Nein, Quirrell hat das Einhorn
+getötet und das Blut getrunken.
+
+962
+00:43:02,733 --> 00:43:06,500
+Voldemort zehrt an seiner
+Lebensenergie und tötet ihn langsam,
+
+963
+00:43:06,600 --> 00:43:09,433
+denn wie wir im Buch
+"Harry Potter und der Feuerkelch"
+
+964
+00:43:09,533 --> 00:43:11,900
+in seiner Bösewicht-Speech
+an Harry erfahren:
+
+965
+00:43:12,000 --> 00:43:15,600
+Voldemorts Geist kann in Tieren
+überleben, besonders gern Schlangen,
+
+966
+00:43:15,700 --> 00:43:18,133
+aber die sind alle
+nach kurzer Zeit gestorben.
+
+967
+00:43:18,233 --> 00:43:19,533
+Quirrells Körper stirbt,
+
+968
+00:43:19,633 --> 00:43:21,900
+weil Voldemort
+in ihm wie ein Parasit lebt.
+
+969
+00:43:22,000 --> 00:43:25,100
+Des Weiteren ist Einhornblut
+auch eine der Zutaten gewesen,
+
+970
+00:43:25,200 --> 00:43:27,767
+um Voldemort
+in "Harry Potter und der Feuerkelch"
+
+971
+00:43:27,867 --> 00:43:30,400
+seinen verkümmerten
+kleinen Babykörper zu geben.
+
+972
+00:43:30,500 --> 00:43:34,133
+Es kann also sein, dass aus Einhorn-
+blut gemischt mit anderen Dingen
+
+973
+00:43:34,233 --> 00:43:37,300
+und besonderen Zaubern
+Körpermasse entwickelt werden kann,
+
+974
+00:43:37,400 --> 00:43:39,000
+wenn auch nur sehr wenig.
+
+975
+00:43:39,100 --> 00:43:41,267
+Und Quirrell
+hat es vielleicht getrunken,
+
+976
+00:43:41,367 --> 00:43:44,633
+um seinen Körper am Leben zu halten
+und die Kraft zu bekommen,
+
+977
+00:43:44,733 --> 00:43:48,067
+Voldemort als separates Gesicht
+auf sich selbst heranzuzüchten
+
+978
+00:43:48,167 --> 00:43:50,100
+und aus sich
+herauswachsen zu lassen,
+
+979
+00:43:50,200 --> 00:43:53,167
+und dann mit dem Elixier des Lebens
+vom Stein der Weisen
+
+980
+00:43:53,267 --> 00:43:54,833
+eigenständig leben zu lassen.
+
+981
+00:43:54,933 --> 00:43:57,567
+Es ist richtig weird,
+also es steht nicht im Buch,
+
+982
+00:43:57,667 --> 00:44:00,100
+aber genau so was
+würde Voldemort doch machen.
+
+983
+00:44:00,200 --> 00:44:02,833
+Aber davon wissen wir und Harry
+jetzt noch nichts,
+
+984
+00:44:02,933 --> 00:44:04,600
+er fragt: "War das Voldemort?"
+
+985
+00:44:04,700 --> 00:44:08,167
+und Firenze beantwortet das nicht,
+sondern stellt eine Gegenfrage:
+
+986
+00:44:08,267 --> 00:44:11,733
+"Wissen Sie, was in dieser Sekunde
+in der Schule verborgen liegt?"
+
+987
+00:44:11,833 --> 00:44:14,733
+"Ey, sonst stell ich immer
+an dieser Stelle die Fragen,
+
+988
+00:44:14,833 --> 00:44:18,633
+jetzt hat Firenze das schon gemacht,
+ja, was liegt denn dort verborgen?"
+
+989
+00:44:18,733 --> 00:44:21,167
+Das erfahren wir
+in der nächsten Podcastfolge.
+
+990
+00:44:21,267 --> 00:44:23,367
+Hier ist das Ende
+dieser Folge erreicht.
+
+991
+00:44:23,467 --> 00:44:24,933
+Falls irgendwas unklar war,
+
+992
+00:44:25,033 --> 00:44:27,833
+ihr irgendwas nicht verstanden habt
+oder Fragen habt,
+
+993
+00:44:27,933 --> 00:44:29,500
+schaut mal in die Kommentare:
+
+994
+00:44:29,600 --> 00:44:31,867
+Qualifiziertes Personal
+wird mit Sicherheit
+
+995
+00:44:31,967 --> 00:44:34,633
+interessante und verständliche
+Erläuterungen geben.
+
+996
+00:44:34,733 --> 00:44:37,267
+Also hoffentlich
+hören wir uns beim nächsten Mal
+
+997
+00:44:37,367 --> 00:44:39,033
+beim "5 Minuten Harry Podcast".
+
+998
+00:44:39,133 --> 00:44:40,133
+Tschüss!
+
+999
+00:44:43,733 --> 00:44:45,467
+Und hier sind ein paar Outtakes.
+
+1000
+00:44:45,600 --> 00:44:47,500
+Zu einer anderen Rolle ...
+
+1001
+00:44:47,600 --> 00:44:49,733
+Rollee ... Rrolle ...
+
+1002
+00:44:49,833 --> 00:44:51,800
+die Robbie Coltrane ...
+
+1003
+00:44:51,900 --> 00:44:54,533
+Du kannst da tags drehen,
+du kannst nachts drehen,
+
+1004
+00:44:54,633 --> 00:44:56,833
+sie unterstützen den Bau
+von großen Sex...
+
+1005
+00:44:56,933 --> 00:44:59,133
+(Gelächter)
+
+1006
+00:44:59,233 --> 00:45:01,367
+Ja, den unterstütz ich auch, du!
+
+1007
+00:45:01,833 --> 00:45:03,867
+Hagrid und die Kinder
+gehen walter ...
+
+1008
+00:45:03,967 --> 00:45:06,400
+Walter in den Weid hinein.
+
+1009
+00:45:06,500 --> 00:45:08,900
+Und in dem Moment
+hört man ein Blätterrascheln
+
+1010
+00:45:09,000 --> 00:45:10,400
+und ein huu ...
+
+1011
+00:45:10,500 --> 00:45:11,500
+(Gelächter)
+
+1012
+00:45:12,133 --> 00:45:14,100
+Und ein Schwein hört man dann.
+
+1013
+00:45:14,200 --> 00:45:17,933
+Und der Release wurde dann
+auf November verschoben, wheil ...
+
+1014
+00:45:18,033 --> 00:45:19,700
+While Warner Bros ...
+
+1015
+00:45:19,800 --> 00:45:22,867
+Voldemort wird am Leben erhalten
+durch seine HORkruxe.
+
+1016
+00:45:22,967 --> 00:45:24,167
+HORkruxe!
+
+1017
+00:45:24,267 --> 00:45:25,433
+Jesus, Doc!
+

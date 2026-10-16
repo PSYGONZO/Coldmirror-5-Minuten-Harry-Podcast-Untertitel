@@ -1,0 +1,5199 @@
+1
+00:00:00,233 --> 00:00:03,233
+# Da-da da-da daa-daa,
+da-da-da-da-da, daaaa.
+
+2
+00:00:03,833 --> 00:00:06,067
+Willkommen zu
+"5 Minuten Harry Podcast".
+
+3
+00:00:06,200 --> 00:00:08,300
+Ein Podcast von und mit mir,
+Coldmirror,
+
+4
+00:00:08,433 --> 00:00:11,533
+in dem ich in jeder Folge jeweils
+fünf Minuten aus dem Film
+
+5
+00:00:11,667 --> 00:00:14,700
+"Harry Potter und der Stein
+der Weisen" auseinandernehme,
+
+6
+00:00:14,833 --> 00:00:18,700
+analysiere und interpretiere, Szene
+für Szene, manchmal frame für frame.
+
+7
+00:00:18,833 --> 00:00:22,167
+Diese Podcast ist gedacht zum
+Erinnern, Kichern, Einschlafen,
+
+8
+00:00:22,300 --> 00:00:24,667
+Wachbleiben
+oder zum Pferdekoppel Abmisten.
+
+9
+00:00:24,800 --> 00:00:27,867
+Viel Vergnügen bei Folge 22,
+wir beginnen in dieser Folge
+
+10
+00:00:28,000 --> 00:00:31,767
+bei Hermine, die energiegeladen
+und belehrend einen Zeigefinger hebt
+
+11
+00:00:31,900 --> 00:00:34,400
+und enden bei Mr Filch,
+der entgeistert schaut.
+
+12
+00:00:34,567 --> 00:00:38,333
+Hermine hat grade aus einem wunder-
+schön geschmückten Buch vorgelesen,
+
+13
+00:00:38,467 --> 00:00:40,633
+dass der sagenumwobene
+Stein der Weisen,
+
+14
+00:00:40,767 --> 00:00:43,933
+der das Elixier des Lebens,
+das unsterblich macht, erzeugt,
+
+15
+00:00:44,067 --> 00:00:47,333
+vom berühmten Alchimisten
+Nicholas Flamel hergestellt wurde,
+
+16
+00:00:47,467 --> 00:00:50,867
+der vergangenes Jahr
+seinen 665. Geburtstag beging.
+
+17
+00:00:51,167 --> 00:00:53,733
+Das ist nicht nur
+eine merkwürdige Formulierung,
+
+18
+00:00:53,867 --> 00:00:57,467
+es ist auch in der Zaubererwelt
+ein beachtliches Alter für Menschen.
+
+19
+00:00:57,600 --> 00:01:00,067
+Nicholas Flamel
+ballert sich also regelmäßig
+
+20
+00:01:00,200 --> 00:01:03,767
+dieses Elixier des Lebens rein,
+und es scheint zu funktionieren,
+
+21
+00:01:03,900 --> 00:01:07,867
+da er so viele Hundert Jahre alt ist.
+Den Stein der Weisen gibt's wirklich.
+
+22
+00:01:08,000 --> 00:01:11,167
+Und ich bin im letzten Podcast-Teil
+nicht drauf eingegangen,
+
+23
+00:01:11,300 --> 00:01:13,633
+aber es scheint ja sehr ineffizient
+zu sein,
+
+24
+00:01:13,767 --> 00:01:15,800
+in diesem mit Tinte
+handgeschriebenen,
+
+25
+00:01:15,933 --> 00:01:19,667
+kunstvoll mit kleinen Metallplättchen
+geschmückten Buch zu schreiben,
+
+26
+00:01:19,800 --> 00:01:22,767
+den wievielten Geburtstag er
+letztes Jahr gefeiert hat.
+
+27
+00:01:22,900 --> 00:01:25,800
+Das ist dann ja nächstes Jahr
+schon nicht mehr aktuell.
+
+28
+00:01:25,933 --> 00:01:29,467
+Muss man das Erscheinungsdatum vom
+Buch rausfinden und ausrechnen,
+
+29
+00:01:29,600 --> 00:01:32,767
+wie alt er jetzt ist?
+Ist das der Mathe-Ersatz in Hogwarts?
+
+30
+00:01:32,900 --> 00:01:36,633
+Oder wird das Buch jedes Jahr neu
+kunstvoll geschrieben und gebastelt?
+
+31
+00:01:36,767 --> 00:01:40,500
+Es sieht aber schon recht alt aus
+durch die etwas zerfledderten Seiten.
+
+32
+00:01:40,633 --> 00:01:43,267
+Kein Wunder, so wie Hermine
+das um sich schmeißt!
+
+33
+00:01:43,400 --> 00:01:46,133
+Es könnte also sein,
+dass Buch und Seiten alt sind
+
+34
+00:01:46,267 --> 00:01:49,600
+und nur der Tintentext immer wieder
+neu gezaubert werden muss.
+
+35
+00:01:49,733 --> 00:01:52,533
+Das wäre zumindest
+keine komplette Sisyphos-Arbeit.
+
+36
+00:01:52,667 --> 00:01:56,100
+Aber wer weiß das schon? Da muss
+trotzdem immer jemand beigehen
+
+37
+00:01:56,233 --> 00:01:59,700
+und den Text jedes Jahr neu zaubern
+oder einen Zauber drauflegen,
+
+38
+00:01:59,833 --> 00:02:03,033
+dass es sich selbst aktualisiert -
+zur Aufwandsminimierung.
+
+39
+00:02:03,167 --> 00:02:05,700
+Man könnte auch einfach
+das Datum schreiben -
+
+40
+00:02:05,867 --> 00:02:07,800
+aber nicht in Hogwarts, nein, Mann!
+
+41
+00:02:07,967 --> 00:02:11,433
+Alles in Hogwarts ist total unnötig
+und kompliziert,
+
+42
+00:02:11,767 --> 00:02:14,933
+Zauberer sind einfach so
+verschwenderisch in allen Dingen,
+
+43
+00:02:15,067 --> 00:02:18,467
+die sie kreieren, weil man es einfach
+mit Magie neu hexen kann.
+
+44
+00:02:18,600 --> 00:02:20,933
+Aber was ist denn nun
+die Schlussfolgerung,
+
+45
+00:02:21,067 --> 00:02:23,567
+die Hermine aus dem eben gelesenen
+Text zieht?
+
+46
+00:02:23,700 --> 00:02:25,733
+Dazu muss man
+ein paar Dinge beachten,
+
+47
+00:02:25,867 --> 00:02:29,333
+die die Kinder bis jetzt im Laufe
+des Films herausgefunden haben.
+
+48
+00:02:29,467 --> 00:02:33,233
+Die Prämissen fasse ich zusammen:
+Hagrid hat im Auftrag von Dumbledore
+
+49
+00:02:33,367 --> 00:02:36,667
+ein kleines geheimes Etwas
+aus dem Gringotts-Verlies geholt.
+
+50
+00:02:36,800 --> 00:02:40,567
+Harry war dabei, später wurde dort
+eingebrochen, stand in der Zeitung.
+
+51
+00:02:40,700 --> 00:02:44,200
+Der dreiköpfige Hund Fluffy bewacht
+im dritten Stock eine Falltür,
+
+52
+00:02:44,333 --> 00:02:47,200
+in der sich die geheime Sache
+aus Gringotts befindet,
+
+53
+00:02:47,333 --> 00:02:50,067
+die jemand Böses - Snape -
+weiterhin stehlen will,
+
+54
+00:02:50,200 --> 00:02:53,533
+das hat Harry Sherlock-Holmes-mäßig
+beim Frühstück kombiniert.
+
+55
+00:02:53,733 --> 00:02:56,667
+Was Fluffy bewacht, geht nur
+Dumbledore und Flamel an,
+
+56
+00:02:56,800 --> 00:03:00,400
+hat Hagrid aus Versehen gesagt,
+das hat die Suchaktion ausgelöst.
+
+57
+00:03:00,533 --> 00:03:03,067
+Dumbledore und Flamel
+haben zusammengearbeitet,
+
+58
+00:03:03,200 --> 00:03:07,067
+steht auf einer Schokofrosch-Karte.
+Flamel erfand den Stein der Weisen.
+
+59
+00:03:07,200 --> 00:03:09,267
+Das wird nicht noch mal
+alles erklärt,
+
+60
+00:03:09,400 --> 00:03:11,900
+die Kinderzuschauer
+haben natürlich aufgepasst
+
+61
+00:03:12,033 --> 00:03:13,667
+und das alles im Hinterkopf.
+
+62
+00:03:13,867 --> 00:03:16,867
+Und Hermine hebt nun energiegeladen
+ihren Zeigefinger
+
+63
+00:03:17,000 --> 00:03:20,267
+und verkündet, während sie mit dem
+Zeigefinger triumphierend
+
+64
+00:03:20,400 --> 00:03:23,433
+auf das eh schon geschundene Buch
+haut, ihre Konklusion:
+
+65
+00:03:23,567 --> 00:03:26,133
+"Das bewacht Fluffy da drüben
+im dritten Stock!"
+
+66
+00:03:26,267 --> 00:03:29,433
+"Das verbirgt sich unter der Falltür:
+der Stein der Weisen!"
+
+67
+00:03:29,567 --> 00:03:31,533
+(schrill:) "Verdammt, bin ich gut!"
+
+68
+00:03:31,667 --> 00:03:34,800
+Darauf folgen sogenannte
+reaction shots von Harry und Ron.
+
+69
+00:03:34,933 --> 00:03:37,067
+Das sind Nahaufnahmen
+der Schauspieler,
+
+70
+00:03:37,200 --> 00:03:39,967
+die auf das eben Geschehene
+ohne Dialog reagieren,
+
+71
+00:03:40,133 --> 00:03:42,867
+um besondere Emotionen
+in den Gesichtern zu zeigen,
+
+72
+00:03:43,000 --> 00:03:45,333
+in diesem Fall milde Überraschung.
+
+73
+00:03:45,700 --> 00:03:48,767
+Über dieses verblüffende Ergebnis
+aus all den Hinweisen,
+
+74
+00:03:48,900 --> 00:03:51,300
+über die sie die ganze Zeit
+gegrübelt haben.
+
+75
+00:03:51,433 --> 00:03:53,967
+Weniger überraschend
+ist es für den Zuschauer,
+
+76
+00:03:54,100 --> 00:03:58,167
+denn das ist der Titel des Films. Ir-
+gendwann musste das Thema aufkommen.
+
+77
+00:03:58,300 --> 00:04:01,933
+Hier ist die Szene eigentlich vorbei,
+als nächstes rennen die Kinder
+
+78
+00:04:02,067 --> 00:04:03,767
+schon über den Rasen zu Hagrid.
+
+79
+00:04:03,900 --> 00:04:06,233
+Aber in einer älteren Version
+des Drehbuchs
+
+80
+00:04:06,367 --> 00:04:09,467
+geht die Szene in der Bibliothek
+noch ein bisschen weiter.
+
+81
+00:04:09,600 --> 00:04:12,800
+Das ist deshalb bemerkenswert,
+weil es auch gedreht wurde.
+
+82
+00:04:12,933 --> 00:04:15,200
+Sieht man in "behind the
+scenes"-footage.
+
+83
+00:04:15,333 --> 00:04:18,333
+Es gab mehr Dialog.
+Harry erklärt sich selbst noch mal:
+
+84
+00:04:18,467 --> 00:04:22,233
+"Flamel hat Dumbledore den Stein
+zur sicheren Aufbewahrung gegeben."
+
+85
+00:04:22,367 --> 00:04:25,867
+"Aber sie haben nicht damit
+gerechnet, dass jemand aus der Schule
+
+86
+00:04:26,000 --> 00:04:28,600
+hinter dem Stein her ist -
+ohne Zweifel Snape!"
+
+87
+00:04:28,733 --> 00:04:31,833
+"Denn der ist und bleibt böse!"
+Und Ron sagt darauf cool:
+
+88
+00:04:31,967 --> 00:04:35,300
+"Gut, Snape will Gold und ewig leben.
+Wer will das nicht?"
+
+89
+00:04:35,433 --> 00:04:39,333
+Er findet das anscheinend nicht so
+schlimm, aber Hermine erinnert daran:
+
+90
+00:04:39,467 --> 00:04:43,300
+"Ich will euch keine Angst machen,
+aber wenn Snape nur den Stein will,
+
+91
+00:04:43,433 --> 00:04:46,633
+wieso hat er versucht, Harry
+beim Quidditch umzubringen?"
+
+92
+00:04:46,767 --> 00:04:47,833
+# Ba-badamm-bam!
+
+93
+00:04:47,967 --> 00:04:51,133
+Das wär auch ein interessantes Ende
+für die Szene gewesen.
+
+94
+00:04:51,267 --> 00:04:55,100
+Vielleicht hat das Alles-Erklären
+dem Ganzen den Schwung rausgenommen,
+
+95
+00:04:55,267 --> 00:04:58,833
+denn immerhin geht es ja im Anschluss
+in der nächsten Szene weiter
+
+96
+00:04:58,967 --> 00:05:01,167
+mit schwungvollem Gerenne
+über den Rasen.
+
+97
+00:05:01,300 --> 00:05:04,233
+Die Kinder erzählen Hagrid
+sowieso noch mal von Snape,
+
+98
+00:05:04,367 --> 00:05:07,667
+vielleicht wurde es rausgeschnitten
+für dynamischeren Flow
+
+99
+00:05:07,800 --> 00:05:11,367
+und mehr Drive und sonstige
+Anglizismen, die cool klingen.
+
+100
+00:05:11,567 --> 00:05:15,233
+Aber ich find's interessant zu sehen,
+wenn was rausgelassen wurde,
+
+101
+00:05:15,367 --> 00:05:17,400
+selbst, wenn man nicht weiß, was.
+
+102
+00:05:17,533 --> 00:05:21,467
+Denn laut dem Uralt-Drehbuch gibt es
+zwischen der Szene in der Bibliothek
+
+103
+00:05:21,600 --> 00:05:24,400
+und der auf dem Rasen
+noch vier weitere Szenen,
+
+104
+00:05:24,533 --> 00:05:26,800
+überall steht "omitted",
+also "entfallen"
+
+105
+00:05:26,933 --> 00:05:29,600
+Und von einer Szene
+gab's noch mehrere Versionen.
+
+106
+00:05:29,733 --> 00:05:33,133
+A, B, C, oft umgeschrieben,
+bis sie komplett weggelassen wurde.
+
+107
+00:05:33,267 --> 00:05:36,933
+Laut dem Buch sind da Osterferien
+oder sie lernen für die Prüfungen,
+
+108
+00:05:37,067 --> 00:05:39,200
+das hätte auch zu wenig Drive gehabt.
+
+109
+00:05:39,333 --> 00:05:41,467
+Wer weiß,
+was noch alles passiert wäre
+
+110
+00:05:41,600 --> 00:05:45,633
+und wie lange sich der Drehbuchautor
+Steve Kloves den Kopf zerbrochen hat,
+
+111
+00:05:45,767 --> 00:05:49,267
+bis er sagte: "Drauf geschissen,
+ist langweilig! Ich lösch das."
+
+112
+00:05:49,400 --> 00:05:52,700
+"Mir fällt nichts ein. Was Harry
+erklärt, lass ich jetzt weg,
+
+113
+00:05:52,900 --> 00:05:56,067
+das gibt besseren Flow
+und mehr Drive, Bounce und Dash."
+
+114
+00:05:56,200 --> 00:05:59,433
+"Der Rest ist unnötiger Kack,
+der alles in die Länge zieht."
+
+115
+00:05:59,567 --> 00:06:01,567
+Ja. Harter Schnitt, nächste Szene.
+
+116
+00:06:01,700 --> 00:06:05,433
+Es gibt einen Orts- und Zeitwechsel,
+nicht mehr die Bibliothek am Tag,
+
+117
+00:06:05,567 --> 00:06:07,933
+sondern es ist Nacht
+und wir sind draußen.
+
+118
+00:06:08,067 --> 00:06:11,000
+Wir sehen nassen Rasen,
+über den Harry, Ron und Hermine
+
+119
+00:06:11,133 --> 00:06:14,667
+an uns vorbeilaufen und dabei
+matschige Pitschi-Patschi-Geräusche
+
+120
+00:06:14,800 --> 00:06:18,100
+mit ihren Schuhen machen.
+Die Kamera schwenkt vom Rasen hoch,
+
+121
+00:06:18,233 --> 00:06:20,900
+sie rennen zu einem kleinen Häuschen
+am Waldrand.
+
+122
+00:06:21,033 --> 00:06:24,067
+Das ist nicht irgendein Wald,
+es ist der Verbotene Wald.
+
+123
+00:06:24,200 --> 00:06:28,167
+Alles ist in Dunkelheit gehüllt, die
+Bäume werden nur vom Mond beleuchtet.
+
+124
+00:06:28,300 --> 00:06:32,100
+Oder von Scheinwerfern, die in der
+Ferne in großer Höhe aufgebaut sind,
+
+125
+00:06:32,233 --> 00:06:35,233
+weil echtes Mondlicht
+niemals genug Leuchtkraft hätte,
+
+126
+00:06:35,367 --> 00:06:36,900
+um die Szene auszuleuchten.
+
+127
+00:06:37,033 --> 00:06:39,967
+Ein letztes Fünkchen
+glimmt noch in einem Lagerfeuer.
+
+128
+00:06:40,100 --> 00:06:42,933
+Aus einem einzelnen winzigen Fenster
+leuchtet Licht,
+
+129
+00:06:43,067 --> 00:06:45,767
+Rauch kommt aus dem Schornstein.
+Da wohnt jemand!
+
+130
+00:06:45,900 --> 00:06:49,167
+Es ist Hagrids Hütte, die wir
+zum ersten Mal im Film sehen.
+
+131
+00:06:49,300 --> 00:06:52,067
+Per Definition ist eine Hütte
+ein einfaches Gebäude
+
+132
+00:06:52,200 --> 00:06:55,000
+mit meist nur einem Raum,
+das aus Holz gebaut wurde
+
+133
+00:06:55,133 --> 00:06:57,267
+oder leichtem Baumaterial
+aus der Nähe.
+
+134
+00:06:57,400 --> 00:07:01,367
+Massive Gebäude aus Stein oder Beton
+werden selten als Hütten bezeichnet.
+
+135
+00:07:01,500 --> 00:07:05,033
+Hagrids Hütte ist nicht ganz
+hüttengetreu, auch nicht buchgetreu,
+
+136
+00:07:05,167 --> 00:07:08,400
+da wird es nämlich beschrieben
+als kleines Holzhaus.
+
+137
+00:07:08,533 --> 00:07:11,233
+Hier im Film ist das sogenannte
+"Haus" aus Stein.
+
+138
+00:07:11,367 --> 00:07:15,200
+Im Vergleich zu Hogwarts sind die
+Steinmauern gröber, unstrukturierter
+
+139
+00:07:15,333 --> 00:07:16,700
+und auch verwucherter.
+
+140
+00:07:16,833 --> 00:07:20,733
+Die Hütte hat ein spitz zulaufendes
+Ziegeldach, das dicht bewachsen ist.
+
+141
+00:07:20,867 --> 00:07:23,633
+Und sie ist von der Form
+ein bisschen ungewöhnlich,
+
+142
+00:07:23,767 --> 00:07:26,433
+denn es ist nicht wie ein normales
+Haus viereckig,
+
+143
+00:07:26,567 --> 00:07:28,967
+sondern achteckig.
+Ein sogenanntes Octogon.
+
+144
+00:07:29,100 --> 00:07:31,600
+Mich wundert ja,
+dass es nicht siebeneckig ist,
+
+145
+00:07:31,733 --> 00:07:35,200
+um die in allen Harry-Potter-Teilen
+in allen möglichen Instanzen
+
+146
+00:07:35,333 --> 00:07:38,533
+vorkommende Zahl Sieben schon wieder
+irgendwo unterzubringen.
+
+147
+00:07:38,667 --> 00:07:42,133
+Die Acht kommt aber auch vor,
+etwa in der Bauweise von Hogwarts.
+
+148
+00:07:42,267 --> 00:07:46,167
+Man ließ sich von real existierenden
+Sakralbauten und Burgen inspirieren.
+
+149
+00:07:46,300 --> 00:07:49,200
+Beispielsweise, als Hagrid
+mit den Kindern rausgeht,
+
+150
+00:07:49,333 --> 00:07:53,000
+war der Drehort Alnwick Castle,
+da sind die Türme auch achteckig.
+
+151
+00:07:53,233 --> 00:07:56,567
+Und als Harry mit Hedwig
+über den verschneiten Schulhof geht,
+
+152
+00:07:56,700 --> 00:08:00,200
+dieser Brunnen beziehungsweise
+das Lavabo in der Durham Cathedral,
+
+153
+00:08:00,367 --> 00:08:04,267
+das ist auch achteckig. Da fügt sich
+Hagrids Hütte in die Optik mit ein.
+
+154
+00:08:04,467 --> 00:08:07,300
+Und Hagrid ist fasziniert
+von Monstern und Tierwesen,
+
+155
+00:08:07,433 --> 00:08:11,267
+die im Verbotenen Wald leben, wie zum
+Beispiel Aragog, die Riesenspinne.
+
+156
+00:08:11,400 --> 00:08:15,200
+Spinnen haben acht Beine. Bumm!
+Und so schließt sich der Kreis.
+
+157
+00:08:15,333 --> 00:08:16,967
+Beziehungsweise das Achteck.
+
+158
+00:08:17,100 --> 00:08:19,900
+Und links neben Hagrids Hütte
+ist etwas, das aussieht
+
+159
+00:08:20,033 --> 00:08:22,067
+wie ein kleines, rundes Klohäuschen.
+
+160
+00:08:22,200 --> 00:08:24,700
+Drehort für diese Szene
+war ein richtiger Wald.
+
+161
+00:08:24,833 --> 00:08:28,667
+Man hat diese Hütte gebaut im Black
+Park Countrypark in Buckinghamshire
+
+162
+00:08:28,800 --> 00:08:31,967
+in England, was so eine halbe
+Stunde Autofahrt entfernt ist
+
+163
+00:08:32,100 --> 00:08:35,667
+von den Leavesden-Studios, wo alle
+sonstigen Sets von Harry Potter
+
+164
+00:08:35,800 --> 00:08:38,667
+gebaut und benutzt wurden -
+das war quasi um die Ecke.
+
+165
+00:08:38,800 --> 00:08:41,967
+Das hat wunderbar Produktions-
+und Transportkosten gespart.
+
+166
+00:08:42,100 --> 00:08:45,467
+Aber das hier ist nicht das einzige
+Filmset für Hagrids Hütte.
+
+167
+00:08:45,600 --> 00:08:49,233
+Wir sind am Waldrand, sehen die
+Kinder, die zur Eingangstür laufen,
+
+168
+00:08:49,367 --> 00:08:51,333
+sie klopfen energisch an - Schnitt.
+
+169
+00:08:51,467 --> 00:08:55,167
+Eine halbe Stunde zurück in die
+Leavesden-Studios, die Tür von innen.
+
+170
+00:08:55,300 --> 00:08:58,500
+Hagrids Hütte gibt es zweimal -
+eine Version draußen im Wald,
+
+171
+00:08:58,633 --> 00:09:02,800
+für Szenen außerhalb der Hütte, und
+eine größere Version für Innenszenen.
+
+172
+00:09:03,067 --> 00:09:05,700
+Das ist ein Set im Studio.
+Hagrid öffnet die Tür,
+
+173
+00:09:05,833 --> 00:09:09,300
+sieht die Kinder und macht wieder zu,
+versucht, sie abzuwimmeln.
+
+174
+00:09:09,433 --> 00:09:11,833
+Aber nachdem sie ihm
+vor fast verschlossener
+
+175
+00:09:11,967 --> 00:09:15,933
+aber nicht gut isolierter Tür sagen,
+dass sie vom Stein der Weisen wissen,
+
+176
+00:09:16,067 --> 00:09:19,100
+lässt er sie mit einem ermatteten
+"Oooh." doch hinein.
+
+177
+00:09:19,233 --> 00:09:22,500
+Und in dieser Szene am Anfang
+bei der Tür ist ein kleiner ...
+
+178
+00:09:22,633 --> 00:09:23,633
+Filmfehler!
+
+179
+00:09:23,767 --> 00:09:26,900
+Beziehungsweise sichtbares
+Filmequipment, nenn ich's mal.
+
+180
+00:09:27,033 --> 00:09:31,333
+Leute mit neueren Versionen des Films
+werden sagen: "Hä? Da ist ja nichts."
+
+181
+00:09:31,467 --> 00:09:33,767
+Tja, ich hab gesagt,
+ich nutz das voll aus,
+
+182
+00:09:33,900 --> 00:09:37,467
+dass ich diese olle frühe 2000er-
+Fullscreen-Version des Films habe
+
+183
+00:09:37,633 --> 00:09:40,600
+Da ist das Bild zwar nicht so breit,
+aber man sieht mehr
+
+184
+00:09:40,733 --> 00:09:42,500
+vom oberen und unteren Bildrand,
+
+185
+00:09:42,633 --> 00:09:45,533
+der in der neueren Widescreen-Version
+verloren geht.
+
+186
+00:09:45,667 --> 00:09:49,033
+Und da sind ganz unten im Bild
+vor den Füßen der Kinder am Boden
+
+187
+00:09:49,167 --> 00:09:51,033
+schwarze Klebeband-Markierungen.
+
+188
+00:09:51,167 --> 00:09:54,200
+Die sind dafür da, dass Daniel
+Radcliffe und Co. wissen,
+
+189
+00:09:54,333 --> 00:09:58,000
+wo sie stehen sollen, das ist nicht
+nur für die Kinder-Schauspieler,
+
+190
+00:09:58,133 --> 00:10:02,100
+die hibbelig und unerfahren sind, das
+wird für alle Schauspieler benutzt.
+
+191
+00:10:02,233 --> 00:10:04,233
+In dieser Szene ist es wichtig,
+
+192
+00:10:04,400 --> 00:10:07,400
+einmal, damit ihnen nicht die Tür
+ins Gesicht ballert,
+
+193
+00:10:07,533 --> 00:10:09,333
+und damit die Perspektive stimmt.
+
+194
+00:10:09,467 --> 00:10:13,333
+Grade bei Szenen mit dem Halbriesen
+Hagrid spielt die eine große Rolle.
+
+195
+00:10:13,467 --> 00:10:17,433
+hier zum Beispiel blickt die Kamera
+aus höherer Position an Hagrid vorbei
+
+196
+00:10:17,567 --> 00:10:20,800
+auf die Kinder, die durch
+diese Draufsicht kleiner aussehen,
+
+197
+00:10:20,933 --> 00:10:23,600
+was zur Illusion beiträgt,
+Hagrid wäre sehr groß.
+
+198
+00:10:23,833 --> 00:10:27,700
+Ja, Klebeband auf dem Boden, sieht
+man in der Widescreen-Version nicht,
+
+199
+00:10:27,833 --> 00:10:30,100
+ist doch egal -
+Szene noch mal gerettet.
+
+200
+00:10:30,233 --> 00:10:33,833
+Falsch! Auch in der Widescreen-
+Version gibt es einen Filmfehler!
+
+201
+00:10:33,967 --> 00:10:36,067
+Emma Watson guckt direkt
+in die Kamera.
+
+202
+00:10:36,200 --> 00:10:39,633
+Ein Malheur, das gerade sehr jungen
+Schauspielern oft passiert.
+
+203
+00:10:39,767 --> 00:10:42,867
+Sie sind aufgeregt, wissen nicht,
+wo sie hingucken sollen.
+
+204
+00:10:43,000 --> 00:10:45,133
+Und das ist nicht der erste
+Filmfehler.
+
+205
+00:10:45,267 --> 00:10:49,100
+Diese Szene in Hagrids Hütte hat noch
+einige mehr - wo könnten sie sein?
+
+206
+00:10:49,233 --> 00:10:53,000
+Überlegt mal - es bleibt spannend!
+Die Kinder betreten Hagrids Hütte.
+
+207
+00:10:53,133 --> 00:10:56,500
+Auch von innen sind die Steine,
+aus denen die Mauer gebaut ist,
+
+208
+00:10:56,633 --> 00:10:59,700
+so grob gehauen wie von außen,
+da wurde nichts geglättet.
+
+209
+00:10:59,833 --> 00:11:02,267
+Aber es sieht trotzdem
+ganz gemütlich aus.
+
+210
+00:11:02,400 --> 00:11:05,867
+Was vor allem am Feuer im Kamin
+und den vielen Kerzen liegt.
+
+211
+00:11:06,100 --> 00:11:09,900
+Da sind Kerzen im Kerzenleuchter an
+der Decke, in Laternen an der Tür,
+
+212
+00:11:10,133 --> 00:11:13,133
+Kerzen an der Wand, neben dem Kamin,
+an der Sitzbank -
+
+213
+00:11:13,267 --> 00:11:15,133
+Hagrid hat echt eine Menge Kerzen.
+
+214
+00:11:15,300 --> 00:11:18,933
+Nicht so viele wie in der großen
+Halle, aber doch wirklich viele.
+
+215
+00:11:19,067 --> 00:11:23,067
+Die sind nicht nur zu Dekozwecken da,
+der Chefdesigner Stuart Craig wollte,
+
+216
+00:11:23,200 --> 00:11:25,267
+dass die Hütte gut ausgeleuchtet ist.
+
+217
+00:11:25,400 --> 00:11:28,167
+Draußen ist es dunkel,
+aber innen ist überall Licht,
+
+218
+00:11:28,433 --> 00:11:32,067
+um Behaglichkeit auszudrücken.
+Der Hagrid ist auch ein Lieber, ne?
+
+219
+00:11:32,200 --> 00:11:35,900
+Es wurden spezielle Filmkerzen mit
+Doppel- und Dreifachdocht benutzt.
+
+220
+00:11:36,033 --> 00:11:39,733
+Die sind nicht nur stimmungsvoller,
+sondern brennen heller und größer.
+
+221
+00:11:39,867 --> 00:11:43,300
+Das ist keine LED-Furz-Kack-Leuchte,
+das ist eine echte Flamme.
+
+222
+00:11:43,433 --> 00:11:45,567
+Hagrids Hütte
+ist rustikal eingerichtet,
+
+223
+00:11:45,700 --> 00:11:49,100
+bei der Tür ist ein großer brauner
+Sessel, auf den sich Hermine
+
+224
+00:11:49,233 --> 00:11:52,667
+unaufgefordert hinlümmelt.
+Sie könnte auch dreimal existieren.
+
+225
+00:11:52,800 --> 00:11:56,533
+Selbst Hermine und Hermine und
+Hermine hätten Platz darauf.
+
+226
+00:11:56,833 --> 00:12:00,300
+Ron und Harry setzen sich gegenüber
+auf eine große hölzerne Bank,
+
+227
+00:12:00,433 --> 00:12:02,633
+auf der Hagrids
+großer Hund Fang sitzt.
+
+228
+00:12:02,767 --> 00:12:05,567
+Man merkt, in Hagrids Hütte
+ist alles etwas zu groß,
+
+229
+00:12:05,733 --> 00:12:09,267
+sodass die eh schon kleinen Kinder
+darin besonders winzig wirken.
+
+230
+00:12:09,467 --> 00:12:13,333
+Was noch mal unterstreicht: Hier
+wohnt eine ungewöhnlich große Person,
+
+231
+00:12:13,467 --> 00:12:17,000
+denn gewöhnliche Möbel würden unter
+Hagrids Riesenarsch zerbersten.
+
+232
+00:12:17,133 --> 00:12:20,633
+Das ist eine der Methoden, um Hagrid
+größer erscheinen zu lassen.
+
+233
+00:12:20,767 --> 00:12:24,033
+Es wurden aber auch wieder
+die altbekannten Tricks benutzt.
+
+234
+00:12:24,167 --> 00:12:27,567
+Einmal der Trick "Martin Bayfield",
+im Abspann unter "Stunts",
+
+235
+00:12:27,700 --> 00:12:30,867
+ehemaliger Rugby-Spieler,
+ein über zwei Meter großer Typ.
+
+236
+00:12:31,000 --> 00:12:34,000
+Gerade wenn Hagrid sich das Bild
+mit den Kindern teilt,
+
+237
+00:12:34,133 --> 00:12:37,400
+ist es meist nicht der nur 1,85 Meter
+große Robbie Coltrane,
+
+238
+00:12:37,533 --> 00:12:40,000
+sondern der Martin,
+auch hier in dieser Szene,
+
+239
+00:12:40,133 --> 00:12:42,500
+der einen extrabreiten
+Hagrid-Bodysuit trägt
+
+240
+00:12:42,633 --> 00:12:44,433
+und einen creepy Hagrid-Kopf.
+
+241
+00:12:44,567 --> 00:12:47,667
+In der nächsten Einstellung
+redet Hagrid mit den Kindern,
+
+242
+00:12:47,800 --> 00:12:51,500
+da wurde Robbie Coltrane aus der
+Froschperspektive von unten gefilmt.
+
+243
+00:12:51,667 --> 00:12:54,133
+Man blickt zu ihm auf
+und fühlt sich klein.
+
+244
+00:12:54,267 --> 00:12:57,433
+Wir haben den übergroßen Setbau,
+den großen Typen im Kostüm,
+
+245
+00:12:57,600 --> 00:12:59,933
+das Spiel mit Kamera
+und Aufnahmewinkel -
+
+246
+00:13:00,067 --> 00:13:03,500
+alles komplementiert sich hier
+gegenseitig und funktioniert gut,
+
+247
+00:13:03,633 --> 00:13:07,333
+um mit allen Tricks das Gefühl zu
+vermitteln: Hagrid ist ein Riese.
+
+248
+00:13:07,500 --> 00:13:10,300
+Und das alles ohne CGI,
+möchte ich betonen.
+
+249
+00:13:10,667 --> 00:13:13,333
+Es war ja zuerst geplant,
+dass man Robbie Coltrane
+
+250
+00:13:13,467 --> 00:13:16,267
+mit Computer vergrößert
+wieder in die Szene einfügt,
+
+251
+00:13:16,400 --> 00:13:20,067
+aber das wurde aus Kostengründen
+gestrichen. Ich find's so besser,
+
+252
+00:13:20,300 --> 00:13:23,333
+und mal ehrlich: Das CGI in dem Film
+ist nicht so dolle.
+
+253
+00:13:23,467 --> 00:13:25,600
+Die praktischen Effekte
+sind viel besser
+
+254
+00:13:25,733 --> 00:13:29,100
+und lassen Illusionen auch noch
+20 Jahre später funktionieren.
+
+255
+00:13:29,233 --> 00:13:32,033
+Es gibt aber noch allerlei andere
+Dinge in dem Raum,
+
+256
+00:13:32,167 --> 00:13:34,600
+die nicht jeder bei sich
+in der Wohnung hat.
+
+257
+00:13:34,733 --> 00:13:37,700
+Es hängt merkwürdiger Kram
+von der Decke, diverse Seile
+
+258
+00:13:37,833 --> 00:13:41,567
+in allen möglichen Größen, Leder-
+geschirre, überall kleine Käfige,
+
+259
+00:13:41,767 --> 00:13:44,267
+an der Wand neben der Tür
+lehnt eine Armbrust,
+
+260
+00:13:44,400 --> 00:13:48,133
+etwas weiter hinten neben dem Kamin
+eine große Baumsäge und Feuerholz.
+
+261
+00:13:48,333 --> 00:13:50,700
+Und am winzigen Fenster
+liegt ein Fernrohr.
+
+262
+00:13:50,900 --> 00:13:53,800
+Alles Sachen, die man draußen im Wald
+gebrauchen kann,
+
+263
+00:13:53,933 --> 00:13:57,367
+wenn man mit merkwürdigen Tieren
+und magischen Wesen zu tun hat.
+
+264
+00:13:57,500 --> 00:14:00,467
+Hagrid ist ja unter anderem
+Wildhüter von Hogwarts.
+
+265
+00:14:00,600 --> 00:14:04,000
+Das heißt, er bewirtschaftet das
+Land, kümmert sich um den Wald,
+
+266
+00:14:04,133 --> 00:14:07,400
+damit alles im Gleichgewicht bleibt,
+passt auf, dass die Tiere
+
+267
+00:14:07,533 --> 00:14:10,800
+auf dem Schulgelände und im
+Verbotenen Wald gesund bleiben.
+
+268
+00:14:11,000 --> 00:14:14,900
+Und er beseitigt Ungeziefer,
+was er dann wohl heimlich adoptiert
+
+269
+00:14:15,133 --> 00:14:16,967
+oder in einen Mantel verarbeitet.
+
+270
+00:14:17,133 --> 00:14:20,967
+An der Wand über dem Fenster sind ein
+paar traditionelle Schneeschuhe,
+
+271
+00:14:21,133 --> 00:14:24,133
+neben dem Kamin hängt ein Behälter
+mit dicken Rüben,
+
+272
+00:14:24,300 --> 00:14:26,500
+eine kleine Gartengabel
+ist dazwischen.
+
+273
+00:14:26,733 --> 00:14:31,267
+Auf dem Kamin ein übergroßer Mörser
+und Stößel, daneben ein Nudelholz.
+
+274
+00:14:31,767 --> 00:14:35,200
+Und ganz oben über dem Kamin
+ist doch tatsächlich ein Mini-Regal
+
+275
+00:14:35,333 --> 00:14:36,933
+mit ein paar wenigen Büchern.
+
+276
+00:14:37,067 --> 00:14:40,600
+Insgesamt ist Hagrids Besitz nicht
+besonders sauber oder sortiert.
+
+277
+00:14:40,767 --> 00:14:43,633
+Da sind Küchenutensilien,
+Garten- und Arbeitswerkzeuge
+
+278
+00:14:43,800 --> 00:14:46,300
+wild in dem einen Raum
+zusammengewürfelt.
+
+279
+00:14:46,533 --> 00:14:50,267
+Es ist gleichzeitig Geräteschuppen,
+Vorratskammer, Küche, Teestube,
+
+280
+00:14:50,400 --> 00:14:51,833
+und Schlafzimmer in einem.
+
+281
+00:14:52,000 --> 00:14:54,433
+Und in der Einstellung
+mit Froschperspektive,
+
+282
+00:14:54,567 --> 00:14:56,333
+wo Hagrid mit den Kindern redet,
+
+283
+00:14:56,500 --> 00:14:59,933
+sieht man ein unscheinbares Dekostück
+direkt hinter ihm hängen.
+
+284
+00:15:00,100 --> 00:15:03,133
+Das aber große Bedeutung hat:
+ein dicker Schlüsselbund.
+
+285
+00:15:03,300 --> 00:15:06,433
+Hagrid hat neben "Wildhüter"
+noch einen anderen Titel:
+
+286
+00:15:07,600 --> 00:15:09,467
+Er ist auch Hüter der Schlüssel.
+
+287
+00:15:10,533 --> 00:15:12,333
+Wow! Was auch immer das bedeutet.
+
+288
+00:15:12,567 --> 00:15:14,833
+Ich glaub, in keinem Film
+wird je gezeigt,
+
+289
+00:15:15,033 --> 00:15:17,033
+wie er irgendwas
+auf- oder abschließt.
+
+290
+00:15:17,233 --> 00:15:19,900
+Schlüssel sind bei Zaubersprüchen
+wie "Alohomora"
+
+291
+00:15:20,133 --> 00:15:21,300
+gänzlich unnütz.
+
+292
+00:15:21,500 --> 00:15:24,180
+Geht's also nicht darum,
+die Schlüssel zu benutzen,
+
+293
+00:15:24,300 --> 00:15:25,533
+sondern nur zu hüten?
+
+294
+00:15:25,767 --> 00:15:27,800
+Warum hat Hagrid den Titel überhaupt?
+
+295
+00:15:28,000 --> 00:15:31,400
+2005 wurde J.K. Rowling in
+einem Interview genau das gefragt.
+
+296
+00:15:31,733 --> 00:15:35,200
+Hagrids Titel "Hüter der Schlüssel",
+hat das eine Bedeutung?
+
+297
+00:15:35,467 --> 00:15:37,500
+Und sie meinte dann, das heißt nur,
+
+298
+00:15:37,700 --> 00:15:40,933
+dass er dich nach Hogwarts rein-
+und wieder rausbringen kann.
+
+299
+00:15:41,133 --> 00:15:43,867
+Schon etwas interessanter,
+aber nicht so besonders,
+
+300
+00:15:44,133 --> 00:15:46,633
+dass Leute darüber angeregt
+nachdenken sollten.
+
+301
+00:15:46,833 --> 00:15:49,000
+Ja, gut, da steckt was
+hinter dem Titel,
+
+302
+00:15:49,200 --> 00:15:52,167
+J.K. hatte aber kein Bedürfnis,
+das weiter zu erläutern.
+
+303
+00:15:52,367 --> 00:15:54,633
+Mit dem Hintergedanken,
+dass es Leute gibt,
+
+304
+00:15:54,833 --> 00:15:56,967
+die fanatisch
+jede einzelne Kleinigkeit
+
+305
+00:15:57,167 --> 00:15:59,533
+voller Aufregung und Elan
+analysieren wollen.
+
+306
+00:15:59,733 --> 00:16:00,767
+Völlig bescheuert!
+
+307
+00:16:00,933 --> 00:16:03,767
+Wagen wir es trotz Rowlings
+Widerwillen doch einmal,
+
+308
+00:16:03,967 --> 00:16:05,767
+diesen Titel auseinanderzunehmen.
+
+309
+00:16:05,933 --> 00:16:09,333
+Hagrids Hintergrundgeschichte
+kommt ja erst im zweiten Teil vor.
+
+310
+00:16:09,533 --> 00:16:11,267
+Hagrid war Schüler in Hogwarts,
+
+311
+00:16:11,500 --> 00:16:13,867
+hat sich schon immer
+für Monster interessiert
+
+312
+00:16:14,067 --> 00:16:16,367
+und hat in einem Schrank Aragog
+gefüttert,
+
+313
+00:16:16,700 --> 00:16:18,400
+der damals noch ein Baby war.
+
+314
+00:16:18,633 --> 00:16:21,533
+Und eine Babyriesenspinne
+ist so groß wie ein Hund.
+
+315
+00:16:21,733 --> 00:16:24,700
+Sie zu verheimlichen hat
+irgendwann nicht mehr geklappt,
+
+316
+00:16:24,933 --> 00:16:27,667
+Tom Riddle hat sie entdeckt
+und Hagrid vorgeworfen,
+
+317
+00:16:27,833 --> 00:16:30,300
+die Kammer des Schreckens
+geöffnet zu haben.
+
+318
+00:16:30,467 --> 00:16:33,767
+Aragog wurde als Monster
+der Kammer des Schreckens bezeichnet
+
+319
+00:16:33,967 --> 00:16:35,733
+und ist in den Wald geflüchtet.
+
+320
+00:16:35,933 --> 00:16:39,567
+Hagrid wurde der Schule verwiesen,
+sein Zauberstab wurde zerbrochen.
+
+321
+00:16:39,733 --> 00:16:42,533
+Was für einen Zauberer
+eigentlich das Schlimmste ist.
+
+322
+00:16:42,700 --> 00:16:44,167
+Neben nach Askaban kommen.
+
+323
+00:16:44,333 --> 00:16:46,833
+Aber Dumbledore hat dann
+zumindest eingefädelt,
+
+324
+00:16:47,067 --> 00:16:50,500
+dass Hagrid noch als Wildhüter
+auf dem Schulgelände bleiben darf.
+
+325
+00:16:50,633 --> 00:16:52,933
+Er blieb dadurch weiterhin
+Teil dieser Welt
+
+326
+00:16:53,067 --> 00:16:55,967
+und hat noch ein paar Zaubersprüche
+mitgekriegt.
+
+327
+00:16:56,200 --> 00:16:59,700
+Und Hüter der Schlüssel ist nicht
+wirklich ein notwendiger Beruf,
+
+328
+00:16:59,867 --> 00:17:01,967
+sondern eher ein symbolischer Titel,
+
+329
+00:17:02,100 --> 00:17:03,700
+den er Hagrid gegeben hat,
+
+330
+00:17:03,867 --> 00:17:06,367
+um zu zeigen,
+du darfst hier ein- und ausgehen,
+
+331
+00:17:06,567 --> 00:17:08,667
+du hast für jeden Raum
+einen Schlüssel,
+
+332
+00:17:08,833 --> 00:17:10,133
+wir vertrauen dir.
+
+333
+00:17:10,300 --> 00:17:14,200
+Obwohl du nicht zaubern darfst, bist
+du ein geschätztes Hogwarts-Mitglied.
+
+334
+00:17:14,333 --> 00:17:17,500
+Hagrid hatte den Schlüssel
+zum Verlies in Gringotts,
+
+335
+00:17:17,667 --> 00:17:19,467
+in dem Harrys gesamtes Vermögen,
+
+336
+00:17:19,667 --> 00:17:22,200
+was er von seinen Eltern geerbt hat,
+drin war.
+
+337
+00:17:22,333 --> 00:17:24,367
+Das hat Hagrid nicht ausgeräumt.
+
+338
+00:17:24,533 --> 00:17:27,133
+Ihm wurde von Dumbledore
+auch Zugang zum Verlies
+
+339
+00:17:27,267 --> 00:17:29,333
+mit dem Stein der Weisen anvertraut.
+
+340
+00:17:29,467 --> 00:17:32,367
+Der Titel Hüter der Schlüssel
+und diese Schlüssel,
+
+341
+00:17:32,533 --> 00:17:34,600
+die hier unauffällig am Regal hängen,
+
+342
+00:17:34,800 --> 00:17:37,533
+sind ein Symbol
+für einen großen Vertrauensbeweis
+
+343
+00:17:37,700 --> 00:17:39,400
+von Dumbledore an Hagrid.
+
+344
+00:17:39,567 --> 00:17:42,367
+Und auch Harry, Ron und Hermine
+vertrauen ihm,
+
+345
+00:17:42,567 --> 00:17:44,333
+denn immerhin ist er der Erste,
+
+346
+00:17:44,533 --> 00:17:46,700
+dem sie von ihren Erkenntnissen
+erzählen,
+
+347
+00:17:46,867 --> 00:17:49,233
+dass eindeutig Snape
+den Stein stehlen will.
+
+348
+00:17:49,467 --> 00:17:52,933
+Hagrid ist etwas irritiert:
+"Seid ihr immer noch hinter dem her?"
+
+349
+00:17:53,067 --> 00:17:55,233
+Das geht ja jetzt schon
+einige Monate so.
+
+350
+00:17:55,400 --> 00:17:56,433
+Und erklärt ihnen,
+
+351
+00:17:56,600 --> 00:17:58,633
+Snape ist einer der Lehrer
+in Hogwarts,
+
+352
+00:17:58,833 --> 00:18:00,367
+die den Stein beschützen.
+
+353
+00:18:00,567 --> 00:18:03,467
+Hermine, die winzig klein
+im riesigen Sessel aussieht
+
+354
+00:18:03,667 --> 00:18:06,833
+und mit ihren Füßen grade
+den Rand der Sitzfläche erreicht,
+
+355
+00:18:07,033 --> 00:18:08,133
+geht ein Licht auf:
+
+356
+00:18:08,300 --> 00:18:11,267
+"Ach so, der Stein liegt nicht
+nur hinter einer Falltür,
+
+357
+00:18:11,467 --> 00:18:14,067
+der wird auch geschützt
+durch Banne und Zauber."
+
+358
+00:18:14,300 --> 00:18:17,100
+Alles schön und gut,
+aber ich möchte erbost anmerken,
+
+359
+00:18:17,267 --> 00:18:20,000
+dass Snapes Beitrag
+für den Schutz des Steins,
+
+360
+00:18:20,200 --> 00:18:23,033
+was im Buch eine Art
+Zaubertränke-Logikrätsel ist,
+
+361
+00:18:23,267 --> 00:18:25,167
+überhaupt nicht im Film vorkommt.
+
+362
+00:18:25,467 --> 00:18:27,100
+Und somit ist Hagrids Aussage,
+
+363
+00:18:27,267 --> 00:18:30,067
+dass Snape den Stein mitbeschützt,
+eigentlich Quatsch
+
+364
+00:18:30,233 --> 00:18:32,167
+oder nicht ausreichend visualisiert.
+
+365
+00:18:32,333 --> 00:18:36,000
+Hermine kann ihre Gedanken über
+Schutzzauber nicht weiter ausführen,
+
+366
+00:18:36,167 --> 00:18:38,633
+da verstörende Schlabbergeräusche
+sie ablenken.
+
+367
+00:18:38,800 --> 00:18:41,400
+Sie blickt zu Ron,
+dem auf der Sitzbank gegenüber
+
+368
+00:18:41,567 --> 00:18:44,967
+Hagrids großer schwarzer Hund Fang
+unangenehm nahe kommt
+
+369
+00:18:45,133 --> 00:18:47,433
+und laut schnaubend sein Ohr
+beschnuppert.
+
+370
+00:18:47,700 --> 00:18:48,867
+(Hecheln)
+
+371
+00:18:49,100 --> 00:18:51,400
+Fangs Kopf ist größer
+als der von Ron,
+
+372
+00:18:51,600 --> 00:18:55,000
+ganz knautschig und faltig,
+dass man seine Augen nicht sieht.
+
+373
+00:18:55,200 --> 00:18:58,167
+Im Buch wird Fang
+bezeichnet als "Saurüde".
+
+374
+00:18:58,300 --> 00:19:00,000
+Auf Englisch "Boarhound".
+
+375
+00:19:00,200 --> 00:19:03,400
+Und wenn man das liest, denkt man:
+Eine Sau ist ein Schwein.
+
+376
+00:19:03,533 --> 00:19:05,300
+Und Rüde ist ein männlicher Hund.
+
+377
+00:19:05,500 --> 00:19:08,667
+Also ein trainiertes Haustier,
+Wildschwein, Hund, irgendwas?
+
+378
+00:19:08,833 --> 00:19:12,000
+Ich hätte es nicht infrage gestellt,
+weil es zu Hagrid passt
+
+379
+00:19:12,167 --> 00:19:14,567
+und seiner Vorliebe
+für ungewöhnliche Tiere.
+
+380
+00:19:14,733 --> 00:19:17,833
+Saurüde ist einfach nur
+eine historische Sammelbezeichnung
+
+381
+00:19:18,033 --> 00:19:21,033
+für schwere Hunde, die früher
+zur Jagd von Wildschweinen,
+
+382
+00:19:21,167 --> 00:19:23,100
+auf Englisch Boar, benutzt wurden.
+
+383
+00:19:23,300 --> 00:19:26,333
+Neben Saurüden gibt es
+auch noch Saufinder und Saupacker.
+
+384
+00:19:26,533 --> 00:19:29,233
+Das waren eher Berufsbezeichnungen
+für Hunde
+
+385
+00:19:29,400 --> 00:19:31,200
+und weniger Rassenbezeichnungen.
+
+386
+00:19:31,367 --> 00:19:33,400
+Saufinder sind kleine Spürhunde,
+
+387
+00:19:33,567 --> 00:19:36,267
+die, wie der Name vermuten lässt,
+das Wild finden.
+
+388
+00:19:36,433 --> 00:19:38,067
+Saurüden sind massigere Hunde,
+
+389
+00:19:38,333 --> 00:19:40,667
+die dafür da sind,
+dem Wild Angst zu machen,
+
+390
+00:19:40,867 --> 00:19:43,400
+es aufzuschrecken
+und aus dem Versteck zu jagen.
+
+391
+00:19:43,533 --> 00:19:46,133
+Und die Saupacker,
+das sind richtige Klopper,
+
+392
+00:19:46,267 --> 00:19:49,833
+die das Wild zusammentreiben und
+teilweise packen und niederreißen.
+
+393
+00:19:50,000 --> 00:19:53,133
+Damit man das als Mensch
+dann easy-peasy tot machen kann.
+
+394
+00:19:53,267 --> 00:19:56,700
+Und weil ausgewachsene Wildschweine
+sehr gefährlich sein können,
+
+395
+00:19:56,867 --> 00:19:58,800
+hat man sehr viele Hunde
+dabeigehabt,
+
+396
+00:19:59,000 --> 00:20:01,333
+die manchmal sogar
+Rüstungen getragen haben.
+
+397
+00:20:01,500 --> 00:20:04,767
+Fang ist also ein mittelgroßer
+Hetzjagdhund zum Angstmachen.
+
+398
+00:20:05,300 --> 00:20:08,367
+Im Film ist er dargestellt
+von einem Mastino Napoletano,
+
+399
+00:20:08,533 --> 00:20:11,633
+eine italienische Hunderasse,
+auch groß und massig,
+
+400
+00:20:11,800 --> 00:20:15,000
+deren Vorfahren vermutlich
+römische Kriegshunde waren,
+
+401
+00:20:15,200 --> 00:20:18,133
+die sogar in der Arena
+mit Gladiatoren gekämpft haben.
+
+402
+00:20:18,333 --> 00:20:20,767
+All das macht Hagrids Hund Fang
+aber nicht.
+
+403
+00:20:20,967 --> 00:20:23,067
+Weder Wildschweine jagen
+noch kämpfen.
+
+404
+00:20:23,267 --> 00:20:26,533
+Er macht auch niemandem Angst,
+denn er hat selber immer Angst.
+
+405
+00:20:26,667 --> 00:20:28,933
+Er ist ein zurückhaltender
+Schisshase,
+
+406
+00:20:29,100 --> 00:20:32,033
+der nur am Kamin liegen
+und Kinderohren lecken möchte.
+
+407
+00:20:32,167 --> 00:20:33,700
+Wer kann's ihm übelnehmen?
+
+408
+00:20:33,867 --> 00:20:36,167
+Mir ist beim Angucken
+der Szene aufgefallen,
+
+409
+00:20:36,300 --> 00:20:38,667
+dass Ron und Harry
+keine Schuluniform tragen.
+
+410
+00:20:38,800 --> 00:20:41,900
+Harry trägt einen grünen Pulli
+und Ron einen dunkelblauen.
+
+411
+00:20:42,067 --> 00:20:44,867
+Sogar einen ordentlichen, heilen,
+nicht geflickten
+
+412
+00:20:45,067 --> 00:20:47,033
+oder von Ratten zerfressenen Pulli.
+
+413
+00:20:47,200 --> 00:20:49,267
+Und das, obwohl sie ja zu Weihnachten
+
+414
+00:20:49,467 --> 00:20:53,267
+von Mrs. Weasley gestrickte Pullis
+mit ihren Initialen bekommen haben.
+
+415
+00:20:53,467 --> 00:20:55,100
+Oh, so megalieb, megaschön.
+
+416
+00:20:55,300 --> 00:20:58,200
+Dieses Sinnbild,
+Teil einer großen Familie zu sein.
+
+417
+00:20:58,400 --> 00:21:01,100
+Aber wir tragen doch
+lieber völlig andere Pullis
+
+418
+00:21:01,267 --> 00:21:03,267
+und die selbstgestrickten nie wieder.
+
+419
+00:21:03,500 --> 00:21:05,867
+Es ist noch was Besonderes
+in dieser Szene.
+
+420
+00:21:06,033 --> 00:21:08,467
+Ich bin sehr aufgeregt,
+mitteilen zu dürfen,
+
+421
+00:21:08,600 --> 00:21:10,867
+dass nach knapp
+einer Stunde und 45 Minuten
+
+422
+00:21:11,133 --> 00:21:14,900
+zum allerersten Mal in diesem Film
+Hermine in zivil gekleidet ist.
+
+423
+00:21:15,067 --> 00:21:18,033
+Sie hat vorher in jeder Szene
+ihre Schuluniform angehabt
+
+424
+00:21:18,200 --> 00:21:20,933
+und nun erstmalig ist sie
+total casual unterwegs.
+
+425
+00:21:21,133 --> 00:21:23,467
+Sie trägt
+ein dunkelblaues Rollkragenhemd,
+
+426
+00:21:23,667 --> 00:21:28,033
+darüber eine dunkle Strickjacke mit
+Knöpfen und karierten Applikationen
+
+427
+00:21:28,167 --> 00:21:29,667
+an der Knopfleiste.
+
+428
+00:21:29,833 --> 00:21:33,400
+Und hier ist, glaub ich,
+auch ein winziger Filmfehler!
+
+429
+00:21:33,600 --> 00:21:36,700
+Eine Sicherheitsnadel
+ist in ihr Röckchen gepinnt.
+
+430
+00:21:36,900 --> 00:21:38,167
+Auf Höhe ihrer Knie.
+
+431
+00:21:38,367 --> 00:21:41,900
+Könnte dafür da sein, dass wenn sie
+sich auf den Sessel hinlümmelt,
+
+432
+00:21:42,067 --> 00:21:44,167
+der Rock nicht aus Versehen
+hochrutscht,
+
+433
+00:21:44,367 --> 00:21:47,667
+oder es ist ein absolut gewolltes
+Punk-Ästhetik-Accessoire.
+
+434
+00:21:47,833 --> 00:21:50,667
+Hermine scheint mir aber nicht
+der Typ dafür zu sein.
+
+435
+00:21:50,833 --> 00:21:53,967
+Auch Hagrid ist in dieser Szene
+anders gekleidet als sonst.
+
+436
+00:21:54,100 --> 00:21:56,900
+Er trägt nicht seinen Mantel
+oder Maulwurffellumhang,
+
+437
+00:21:57,133 --> 00:21:58,900
+sondern ein einfaches rotes Hemd
+
+438
+00:21:59,033 --> 00:22:02,367
+und darüber eine etwas dreckige,
+grün fleckige Küchenschürze,
+
+439
+00:22:02,567 --> 00:22:05,500
+und dazu ein paar bunte
+Ofenhandschuhe.
+
+440
+00:22:05,700 --> 00:22:08,200
+In seinem überschwänglichen Stolz
+darüber,
+
+441
+00:22:08,333 --> 00:22:10,567
+dass er selbst auch
+dazu beigetragen hat,
+
+442
+00:22:10,700 --> 00:22:13,913
+den Stein der Weisen mit
+dem dreiköpfigen Fluffy zu schützen,
+
+443
+00:22:14,067 --> 00:22:17,600
+rutscht ihm aber raus, dass er weiß,
+wie man an Fluffy vorbeikommt.
+
+444
+00:22:17,767 --> 00:22:20,467
+Noch bevor die Kinder fragen können,
+wie das geht,
+
+445
+00:22:20,667 --> 00:22:23,200
+lenkt aber ein Geräusch
+die Aufmerksamkeit aller
+
+446
+00:22:23,367 --> 00:22:25,267
+auf den Kessel, der im Kamin hängt.
+
+447
+00:22:25,567 --> 00:22:28,933
+Irgendetwas ist darin, das anfängt
+zu klappern und zu scheppern.
+
+448
+00:22:29,133 --> 00:22:32,600
+Hagrid dreht sich um, fasst mit
+den Ofenhandschuhen in den Kessel
+
+449
+00:22:32,833 --> 00:22:35,000
+und hier ist schon wieder
+ein Filmfehler.
+
+450
+00:22:35,167 --> 00:22:37,233
+Und diesmal sogar zwei auf einmal.
+
+451
+00:22:37,400 --> 00:22:39,733
+Der erste ist
+im oberen, linken Bildrand.
+
+452
+00:22:39,900 --> 00:22:41,400
+Da ist sichtbares Equipment.
+
+453
+00:22:41,600 --> 00:22:43,733
+Ein Mikrofonarm,
+der kurz ins Bild kommt
+
+454
+00:22:43,900 --> 00:22:46,067
+und dann schnell
+nach oben gehoben wird.
+
+455
+00:22:46,267 --> 00:22:48,333
+Das passiert erstaunlich
+oft in Filmen.
+
+456
+00:22:48,533 --> 00:22:51,167
+Aber es ist noch ein Fehler
+in dieser Einstellung
+
+457
+00:22:51,300 --> 00:22:53,600
+und ich weiß nicht,
+wie ich es nennen soll.
+
+458
+00:22:53,800 --> 00:22:55,700
+Ich hab so was noch nie gesehen.
+
+459
+00:22:55,833 --> 00:22:59,033
+Am oberen Bildrand in der Mitte
+direkt neben Hagrids Gesicht
+
+460
+00:22:59,167 --> 00:23:02,567
+ist die ganze Einstellung über,
+als Hagrid in den Kessel greift,
+
+461
+00:23:02,733 --> 00:23:04,067
+ein schwarzes Quadrat.
+
+462
+00:23:04,233 --> 00:23:06,833
+Es gehört nicht
+zum original gefilmten Bild,
+
+463
+00:23:07,067 --> 00:23:09,100
+es ist nicht Teil des Kamins oder so.
+
+464
+00:23:09,267 --> 00:23:13,333
+Sieht aus wie ein eingefügtes, farb-
+lich nicht passendes Bildfragment.
+
+465
+00:23:13,500 --> 00:23:16,167
+Die Dunkelheit
+von diesem Quadrat entspricht nicht
+
+466
+00:23:16,333 --> 00:23:18,367
+der restlichen Dunkelheit der Szene.
+
+467
+00:23:18,500 --> 00:23:21,200
+Als hätte jemand in
+einem Bildbearbeitungsprogramm
+
+468
+00:23:21,300 --> 00:23:23,600
+mit dem Viereck-Tool
+einen schwarzen Layer
+
+469
+00:23:23,700 --> 00:23:25,667
+mit leichter Transparenz erzeugt,
+
+470
+00:23:25,767 --> 00:23:27,967
+der dann über etwas
+drüber gelegt wurde.
+
+471
+00:23:28,067 --> 00:23:30,400
+Man erkennt
+eine unscheinbare Form dahinter.
+
+472
+00:23:30,500 --> 00:23:31,967
+Es wird irgendwas verdeckt.
+
+473
+00:23:32,067 --> 00:23:34,033
+Das ist in der alten Fullscreen-DVD,
+
+474
+00:23:34,133 --> 00:23:35,700
+das ist in der neuen DVD,
+
+475
+00:23:35,800 --> 00:23:37,833
+in der Ultimate-Edition-Blu-ray.
+
+476
+00:23:37,933 --> 00:23:41,767
+In jeder Version des Films ist das
+kleine, schwarze Quadrat zu sehen.
+
+477
+00:23:41,867 --> 00:23:43,867
+Das ist nicht nur ein Abspielfehler,
+
+478
+00:23:43,967 --> 00:23:46,067
+das ist in der Master-Filmdatei.
+
+479
+00:23:46,167 --> 00:23:48,367
+Ist es ein Kameraglitch oder gewollt?
+
+480
+00:23:48,467 --> 00:23:50,467
+Wenn ja, wollten sie was verdecken?
+
+481
+00:23:50,567 --> 00:23:53,033
+Was war da zu sehen?
+Ein Teil vom Equipment
+
+482
+00:23:53,133 --> 00:23:55,233
+in quietschgrün, das abgelenkt hätte?
+
+483
+00:23:55,333 --> 00:23:58,033
+Das man in der Nachbearbeitung
+vertuscht hat?
+
+484
+00:23:58,133 --> 00:24:00,633
+Aber warum ist es
+so ein stumpfes Quadrat?
+
+485
+00:24:00,733 --> 00:24:03,367
+Hatte der Praktikant
+nur noch eine Minute Zeit,
+
+486
+00:24:03,467 --> 00:24:06,400
+die Szene abzugeben
+und hat das Original überschrieben?
+
+487
+00:24:06,500 --> 00:24:09,200
+Fragen über Fragen,
+die Antworten weiß ich nicht.
+
+488
+00:24:09,300 --> 00:24:12,000
+Ich nenne es einfach mal
+Nachbearbeitungsfehler.
+
+489
+00:24:12,100 --> 00:24:15,667
+Aber die Frage, was in dem Kessel
+überhaupt vor sich hinklappert,
+
+490
+00:24:15,767 --> 00:24:17,933
+wird beantwortet:
+Hagrid holt es raus.
+
+491
+00:24:18,033 --> 00:24:19,800
+Es ist ein großes, braunes Ei.
+
+492
+00:24:19,900 --> 00:24:22,500
+Es ist extra heiß.
+Hagrid trägt es zu einem Tisch
+
+493
+00:24:22,600 --> 00:24:25,100
+und macht dabei die ganze Zeit:
+"Uh-ha-uh!"
+
+494
+00:24:25,200 --> 00:24:28,033
+Obwohl er ja die wunderschönen
+Ofenhandschuhe trägt.
+
+495
+00:24:28,133 --> 00:24:30,467
+Die übrigens weiß-blau kariert sind
+
+496
+00:24:30,567 --> 00:24:33,767
+mit kleinen gelben, roten
+und grünen Chilischoten drauf.
+
+497
+00:24:33,867 --> 00:24:36,300
+Was einmal niedlich aussieht
+für einen Riesen
+
+498
+00:24:36,400 --> 00:24:39,333
+und subtil die Farben
+der Hogwarts-Häuser beinhaltet.
+
+499
+00:24:39,433 --> 00:24:42,733
+Sie scheinen aber nicht wirklich
+die Hitze vom Ei abzuhalten.
+
+500
+00:24:42,833 --> 00:24:45,533
+Im Schwenk rüber zum Tisch
+ganz kurz zu sehen,
+
+501
+00:24:45,633 --> 00:24:48,233
+die große Holzbank,
+auf der Harry und Ron sitzen,
+
+502
+00:24:48,333 --> 00:24:51,600
+fungiert hier als Raumtrenner
+und dahinter ist Hagrids Bett.
+
+503
+00:24:51,700 --> 00:24:53,233
+Mit hellblauem Bettbezug.
+
+504
+00:24:53,333 --> 00:24:55,900
+Die Hütte besteht wirklich
+nur aus einem Raum,
+
+505
+00:24:56,000 --> 00:24:57,533
+in dem Hagrid alles hat.
+
+506
+00:24:57,633 --> 00:25:01,267
+Die Kinder folgen ihm aufgeregt
+und versammeln sich um den Tisch,
+
+507
+00:25:01,367 --> 00:25:03,667
+auf dem er das Ei
+in der Mitte platziert.
+
+508
+00:25:03,767 --> 00:25:05,967
+Da steht außerdem
+eine dunkelblaue Tasse
+
+509
+00:25:06,067 --> 00:25:08,800
+mit weißen Punkten
+und dazu passender Untertasse.
+
+510
+00:25:08,900 --> 00:25:10,900
+Er hat wohl vorher Tee getrunken.
+
+511
+00:25:11,000 --> 00:25:13,567
+Und es liegt
+ein aufgeschlagenes Buch daneben.
+
+512
+00:25:13,667 --> 00:25:15,600
+Man kann den Text nicht erkennen,
+
+513
+00:25:15,700 --> 00:25:17,767
+aber es handelt offenbar von Drachen,
+
+514
+00:25:17,867 --> 00:25:21,000
+denn es ist bebildert
+und zeigt einen Drachen und ein Ei.
+
+515
+00:25:21,100 --> 00:25:24,967
+Dazu kommt noch, dass die Lesezeichen
+Drachenschwanzspitzen haben.
+
+516
+00:25:25,067 --> 00:25:26,633
+Ein nettes kleines Detail.
+
+517
+00:25:26,733 --> 00:25:30,467
+Das Ei wackelt immer stärker und
+die Kinder wollen wissen, was es ist.
+
+518
+00:25:30,567 --> 00:25:33,100
+Ron hat schon so eine Ahnung
+und Hagrid gibt zu,
+
+519
+00:25:33,200 --> 00:25:35,867
+dass er dieses Ei von einem Fremden
+gewonnen hat,
+
+520
+00:25:35,967 --> 00:25:38,133
+der erleichtert war, es loszuwerden.
+
+521
+00:25:38,233 --> 00:25:39,867
+Da knackt das Ei plötzlich,
+
+522
+00:25:39,967 --> 00:25:43,233
+die Kinder gehen ängstlich
+ein paar Schritte vom Tisch weg,
+
+523
+00:25:43,333 --> 00:25:45,233
+während das Ei immer mehr ruckelt.
+
+524
+00:25:45,333 --> 00:25:48,067
+Mit einem Zischen bricht
+das erste Stückchen raus
+
+525
+00:25:48,167 --> 00:25:50,733
+und ein grüner, schleimiger Flügel
+ist zu sehen.
+
+526
+00:25:50,867 --> 00:25:53,667
+Und an dieser Stelle ist
+schon wieder ein Filmfehler.
+
+527
+00:25:53,867 --> 00:25:56,533
+Zwar nur in der Fullscreen-Version,
+aber immerhin.
+
+528
+00:25:56,733 --> 00:25:58,833
+Es ist schon wieder
+Equipment zu sehen.
+
+529
+00:25:59,033 --> 00:26:01,700
+Eine Kamera ist
+am unteren linken Bildrand
+
+530
+00:26:03,467 --> 00:26:05,467
+auf Daniel und Rupert gerichtet.
+
+531
+00:26:05,567 --> 00:26:08,433
+Wahrscheinlich,
+um eben die Aufnahmen zu machen,
+
+532
+00:26:08,533 --> 00:26:10,833
+in denen Harry und Ron
+nach hinten weichen.
+
+533
+00:26:10,933 --> 00:26:14,600
+Ich glaub, die Szene ist die
+mit den meisten Filmfehlern bisher,
+
+534
+00:26:14,700 --> 00:26:16,700
+wo man so viel vom Equipment sieht.
+
+535
+00:26:16,800 --> 00:26:17,800
+Ich find's toll.
+
+536
+00:26:17,900 --> 00:26:20,400
+Als filminteressierter Mensch
+liebe ich so was,
+
+537
+00:26:20,500 --> 00:26:22,333
+aber langsam hab ich das Gefühl,
+
+538
+00:26:22,433 --> 00:26:24,867
+dass die Filmcrew da
+etwas überarbeitet war.
+
+539
+00:26:24,967 --> 00:26:26,833
+Die Eierschale bricht nun auf
+
+540
+00:26:26,933 --> 00:26:29,400
+und ein kleines, dünnes Wesen
+mit Flügeln
+
+541
+00:26:29,500 --> 00:26:31,200
+hebt sein Köpfchen in die Höhe.
+
+542
+00:26:31,300 --> 00:26:34,267
+An dem noch ein bisschen Schale
+und Eidotter klebt.
+
+543
+00:26:34,367 --> 00:26:37,100
+Das es sich prompt abschüttelt
+und quiekt.
+
+544
+00:26:37,200 --> 00:26:40,033
+Es guckt in die Runde,
+bis es zu Hagrid hochblickt,
+
+545
+00:26:40,133 --> 00:26:42,433
+den es zu seiner Freude
+als Mami erkennt
+
+546
+00:26:42,533 --> 00:26:44,467
+und sich von ihm streicheln lässt.
+
+547
+00:26:44,567 --> 00:26:46,600
+Hermine erkennt hochwissenschaftlich:
+
+548
+00:26:46,700 --> 00:26:48,133
+"Ist das ein Drache?"
+
+549
+00:26:48,233 --> 00:26:50,733
+Ron als Experte,
+weil sein Bruder in Rumänien
+
+550
+00:26:50,833 --> 00:26:52,700
+ja mit Drachen zusammenarbeitet,
+
+551
+00:26:52,800 --> 00:26:55,500
+erkennt: Es ist
+ein Norwegischer Stachelbuckel.
+
+552
+00:26:55,600 --> 00:26:58,133
+Und Harry sagt nichts,
+erkennt im Buch aber,
+
+553
+00:26:58,233 --> 00:27:01,367
+dass es aussieht
+wie ein zerknitterter Regenschirm.
+
+554
+00:27:01,467 --> 00:27:02,633
+Sehr gut, Harry.
+
+555
+00:27:02,733 --> 00:27:05,433
+Ja, ein Hornschwanz-
+Knitterregenschirm-Drache,
+
+556
+00:27:05,533 --> 00:27:07,600
+wie stellt man so was filmisch dar?
+
+557
+00:27:07,700 --> 00:27:09,700
+Man hat bei dem Design
+lange überlegt,
+
+558
+00:27:09,800 --> 00:27:12,700
+wie macht man das,
+soll er vier Beine haben oder zwei?
+
+559
+00:27:12,800 --> 00:27:15,167
+Wie sehen die Flügel aus,
+wie ist der Kopf?
+
+560
+00:27:15,267 --> 00:27:16,400
+Ist er echsenartig?
+
+561
+00:27:16,500 --> 00:27:19,067
+Von Drachen gibt's
+ja verschiedene Darstellungen
+
+562
+00:27:19,167 --> 00:27:20,733
+in verschiedenen Kulturen.
+
+563
+00:27:20,833 --> 00:27:22,900
+Letzten Endes
+hat man sich entschieden,
+
+564
+00:27:23,000 --> 00:27:25,433
+dass er in Richtung Dinosaurier
+gehen soll.
+
+565
+00:27:25,533 --> 00:27:27,600
+Eher raubvogelartig
+mit einem Schnabel.
+
+566
+00:27:27,700 --> 00:27:30,500
+Der Körperbau ähnelt einer Eidechse
+mit langem Hals
+
+567
+00:27:30,600 --> 00:27:31,867
+und langem Schwänzchen.
+
+568
+00:27:31,967 --> 00:27:33,467
+Er hat zwei Hinterbeine
+
+569
+00:27:33,567 --> 00:27:36,600
+und seine Vorderbeine
+sind gleichzeitig seine Flügel.
+
+570
+00:27:36,700 --> 00:27:38,900
+Mit Lederlappen
+zwischen den Gliedern,
+
+571
+00:27:39,000 --> 00:27:40,600
+ähnlich wie bei Fledermäusen.
+
+572
+00:27:40,700 --> 00:27:43,267
+Seine Krallen sehen aus
+wie kleine Hühnerfüße.
+
+573
+00:27:43,367 --> 00:27:44,967
+Ein klassisches Mischwesen,
+
+574
+00:27:45,067 --> 00:27:48,267
+wenn in alten Sagen von Drachen
+und Monstern die Rede ist,
+
+575
+00:27:48,367 --> 00:27:51,467
+werden auch irdische Tiere benutzt,
+um das zu beschreiben.
+
+576
+00:27:51,567 --> 00:27:53,867
+So sieht ein Drache
+in "Harry Potter" aus.
+
+577
+00:27:53,967 --> 00:27:57,267
+Halb Raubvogel, halb Echse,
+halb Fledermaus, halb Hühnchen.
+
+578
+00:27:57,367 --> 00:27:59,600
+Weil dieser Drache
+Stachelbuckel heißt,
+
+579
+00:27:59,700 --> 00:28:03,000
+hat er Ansätze von Stacheln
+an seinem Kopf, Hals und Buckel.
+
+580
+00:28:03,100 --> 00:28:06,100
+Er ist noch ein Baby,
+die sind noch nicht ausgeprägt.
+
+581
+00:28:06,200 --> 00:28:09,400
+Er ist nicht schwarz wie im Buch,
+sondern eher olivgrün.
+
+582
+00:28:09,533 --> 00:28:12,947
+Und auf dem Rücken hat er einen
+lila-gold schillernden Streifen
+
+583
+00:28:13,067 --> 00:28:14,547
+und auch am Schnabel.
+
+584
+00:28:14,733 --> 00:28:16,167
+Man kann erahnen,
+
+585
+00:28:16,333 --> 00:28:19,500
+dass das mal ein wunderschöner,
+majestätischer Drache wird.
+
+586
+00:28:19,733 --> 00:28:22,900
+Aber jetzt als Baby ist er dünn
+und tapsig und drahtig.
+
+587
+00:28:23,000 --> 00:28:26,600
+Er ist leider CGI und kein
+bewegliches Animatronic-Püppchen,
+
+588
+00:28:26,700 --> 00:28:28,133
+wie ich es lieber hätte.
+
+589
+00:28:28,233 --> 00:28:32,167
+Aber ich muss sagen, dass er gar
+nicht so schlecht animiert aussieht.
+
+590
+00:28:32,267 --> 00:28:33,667
+Er hat sich gut gehalten.
+
+591
+00:28:33,767 --> 00:28:35,100
+Da gibt's Schlimmeres,
+
+592
+00:28:35,200 --> 00:28:38,800
+was bestimmt daran liegt,
+dass Visual- und Special-Effect-Leute
+
+593
+00:28:38,900 --> 00:28:41,000
+wieder Hand in Hand gearbeitet haben.
+
+594
+00:28:41,100 --> 00:28:43,967
+Man hat zuerst
+ein richtiges Modellpüppchen geformt,
+
+595
+00:28:44,067 --> 00:28:47,067
+woran sich die Visual-Effect-Leute
+von "Rhythm & Hues",
+
+596
+00:28:47,167 --> 00:28:50,233
+die für die Umsetzung des Drachen
+verantwortlich waren,
+
+597
+00:28:50,333 --> 00:28:51,600
+orientieren konnten,
+
+598
+00:28:51,700 --> 00:28:54,133
+die haben das Püppchen
+digital nachgebaut.
+
+599
+00:28:54,233 --> 00:28:56,967
+Das Ei ist auch halb Special,
+halb Visual Effect.
+
+600
+00:28:57,067 --> 00:28:58,900
+Einmal trägt es Hagrid herum,
+
+601
+00:28:59,000 --> 00:29:01,467
+da wurde ein echtes Prop-Ei gefilmt.
+
+602
+00:29:01,567 --> 00:29:04,133
+Wo dann mit Kompressorluft
+einmal kurz - pff -
+
+603
+00:29:04,233 --> 00:29:06,533
+die Schauspielkinder
+angepustet wurden,
+
+604
+00:29:06,633 --> 00:29:09,133
+und die Eierschale,
+die herumgeschleudert wird
+
+605
+00:29:09,233 --> 00:29:11,867
+und die Kinder trifft,
+wurde digital hinzugefügt,
+
+606
+00:29:11,967 --> 00:29:15,800
+sodass es am Ende aussieht, als wäre
+das Ei auseinander gebrochen.
+
+607
+00:29:15,900 --> 00:29:18,100
+Die Kinder sind
+ein bisschen irritiert,
+
+608
+00:29:18,200 --> 00:29:19,967
+als Hagrid den Drachen kitzelt
+
+609
+00:29:20,067 --> 00:29:22,300
+und ihn mit "Hallo, Norbert"
+anspricht.
+
+610
+00:29:22,400 --> 00:29:25,300
+Das ist kein Name,
+den man für Drachen erwartet.
+
+611
+00:29:25,400 --> 00:29:28,133
+Die heißen ja sonst
+immer Fuchur oder ...
+
+612
+00:29:28,233 --> 00:29:30,700
+(Kehlige Laute)
+
+613
+00:29:30,800 --> 00:29:32,733
+Und sonstige Namen, die so klingen,
+
+614
+00:29:32,833 --> 00:29:34,967
+als würde man sich konstant räuspern.
+
+615
+00:29:35,067 --> 00:29:37,700
+Nein, dieser Drache
+heißt einfach Norbert.
+
+616
+00:29:37,800 --> 00:29:41,933
+Weil Hagrids Namensgebung nun mal
+einem einfachen System folgt.
+
+617
+00:29:42,033 --> 00:29:44,733
+Dreiköpfige Monsterhunde
+heißen Fluffy,
+
+618
+00:29:44,833 --> 00:29:47,867
+schissige Hunde,
+die nur am Feuer sitzen, heißen Fang.
+
+619
+00:29:47,967 --> 00:29:50,767
+Und majestätische, ehrwürdige Drachen
+heißen Norbert.
+
+620
+00:29:50,867 --> 00:29:52,300
+Der Name passt ganz gut.
+
+621
+00:29:52,400 --> 00:29:55,233
+Er hat germanische Wurzeln
+und setzt sich zusammen
+
+622
+00:29:55,333 --> 00:29:58,133
+aus den althochdeutschen Wörtern
+"nor" für Norden
+
+623
+00:29:58,233 --> 00:30:00,500
+und "beraht" für strahlend.
+
+624
+00:30:00,600 --> 00:30:03,467
+Da gibt's ähnliche Namen,
+die sich so zusammensetzen,
+
+625
+00:30:03,567 --> 00:30:04,633
+zum Beispiel:
+
+626
+00:30:10,833 --> 00:30:14,033
+Immerhin ist der Drache ja
+ein Norwegischer Stachelbuckel,
+
+627
+00:30:14,133 --> 00:30:15,667
+kommt also aus dem Norden.
+
+628
+00:30:15,767 --> 00:30:18,100
+Und sein glitzernder Streifen
+am Rücken
+
+629
+00:30:18,200 --> 00:30:20,400
+erinnert an Nordlichter
+am Nachthimmel.
+
+630
+00:30:20,500 --> 00:30:24,267
+Es scheint ein einfacher, alberner
+Name für einen Drachen zu sein
+
+631
+00:30:24,367 --> 00:30:26,267
+und doch fügt sich alles zusammen.
+
+632
+00:30:26,367 --> 00:30:28,433
+Wo wir gerade beim Thema Namen sind,
+
+633
+00:30:28,533 --> 00:30:32,100
+die Kinder sagen immer: "Hagrid,
+wir wissen vom Stein der Weisen."
+
+634
+00:30:32,200 --> 00:30:34,067
+"Hagrid, Snape will den Stein."
+
+635
+00:30:34,167 --> 00:30:35,933
+"Äh, Hagrid, was soll das sein?"
+
+636
+00:30:36,033 --> 00:30:37,800
+"Hagrid, wie kommst du da ran?"
+
+637
+00:30:37,900 --> 00:30:40,433
+Sie nennen ihn die ganze Zeit
+beim Nachnamen.
+
+638
+00:30:40,533 --> 00:30:42,133
+Er heißt ja Rubeus Hagrid.
+
+639
+00:30:42,233 --> 00:30:45,500
+Dafür, dass sie so gute Freunde sind
+und ihm voll vertrauen,
+
+640
+00:30:45,600 --> 00:30:47,333
+ist das irgendwie unpersönlich.
+
+641
+00:30:47,433 --> 00:30:50,333
+Er nennt sie auch nicht
+Potter, Granger und Weasley.
+
+642
+00:30:50,433 --> 00:30:52,700
+Der Name "Hagrid"
+ist ziemlich interessant.
+
+643
+00:30:52,800 --> 00:30:54,667
+Es gibt im Englischen "hagridden".
+
+644
+00:30:54,767 --> 00:30:56,533
+Das setzt sich zusammen aus:
+
+645
+00:30:59,000 --> 00:31:01,200
+Heißt also "von der Hexe geritten".
+
+646
+00:31:01,300 --> 00:31:03,867
+Bedeutet aber eigentlich
+besorgt, gequält
+
+647
+00:31:03,967 --> 00:31:05,633
+oder von Ängsten verfolgt.
+
+648
+00:31:05,733 --> 00:31:08,533
+Im Mittelalter gab's
+für diverse mentale Probleme
+
+649
+00:31:08,633 --> 00:31:11,800
+wie Burnout oder Schlafparalyse
+noch keine Erklärung.
+
+650
+00:31:11,900 --> 00:31:13,100
+Es war der Glaube,
+
+651
+00:31:13,200 --> 00:31:14,867
+dass eine alte, gruselige Hexe
+
+652
+00:31:14,967 --> 00:31:17,867
+sich in der Nacht auf die Brust
+von Schlafenden setzt
+
+653
+00:31:17,967 --> 00:31:19,667
+und ihnen Albträume schickt,
+
+654
+00:31:19,767 --> 00:31:21,833
+sodass sie völlig gequält aufwachen
+
+655
+00:31:21,933 --> 00:31:24,100
+und sich nicht erklären konnten,
+warum.
+
+656
+00:31:24,200 --> 00:31:26,300
+Da hat mich wohl eine Hexe geritten.
+
+657
+00:31:26,400 --> 00:31:29,000
+Es ist im Deutschen schwierig
+zu unterscheiden
+
+658
+00:31:29,100 --> 00:31:30,500
+zwischen Hag und Witch.
+
+659
+00:31:30,600 --> 00:31:32,067
+Das heißt ja beides Hexe.
+
+660
+00:31:32,167 --> 00:31:34,333
+Es sind aber zwei verschiedene Wesen.
+
+661
+00:31:34,433 --> 00:31:38,300
+Im Englischen ist mit Hag eine alte,
+gruselige, böse Hexe gemeint,
+
+662
+00:31:38,400 --> 00:31:41,100
+die Kinder frisst
+und fast nicht mehr menschlich,
+
+663
+00:31:41,200 --> 00:31:42,867
+sondern eher ein Dämon ist.
+
+664
+00:31:42,967 --> 00:31:45,967
+Und Witch heißt Hexe,
+die kann alt und böse sein.
+
+665
+00:31:46,067 --> 00:31:48,133
+Geht aber eher in Richtung Mensch.
+
+666
+00:31:48,233 --> 00:31:50,833
+Auf Deutsch geht
+diese Unterscheidung verloren,
+
+667
+00:31:50,933 --> 00:31:54,200
+egal ob megasexy Wicked Witch
+oder Kinderfresso-Hässlo,
+
+668
+00:31:54,300 --> 00:31:57,967
+Hexe ist der Sammelbegriff für
+alle weiblichen magischen Figuren.
+
+669
+00:31:58,067 --> 00:32:01,867
+In "Harry Potter" gibt es auch das
+Wesen, das auf Englisch Hag heißt.
+
+670
+00:32:01,967 --> 00:32:04,233
+Um die Unterscheidung
+klarer zu machen,
+
+671
+00:32:04,333 --> 00:32:07,067
+wurde es auf Deutsch zu "Sabberhexe"
+oder "Vettel".
+
+672
+00:32:07,167 --> 00:32:09,100
+Die Sabberhexen finden es unfair,
+
+673
+00:32:09,200 --> 00:32:11,833
+dass ihnen unterstellt wird,
+Kinder zu fressen,
+
+674
+00:32:11,933 --> 00:32:15,633
+gleichzeitig stellen sie Babysitter-
+Anzeigen in den Tagespropheten.
+
+675
+00:32:15,733 --> 00:32:18,333
+Gilderoy Lockharts Buch
+"Holidays with Hags"
+
+676
+00:32:18,433 --> 00:32:20,400
+wurde zu "Ferien mit Vetteln".
+
+677
+00:32:20,500 --> 00:32:22,333
+Hagrid ist meines Wissens nach
+
+678
+00:32:22,433 --> 00:32:24,933
+nicht von einer alten Vettel
+geritten worden,
+
+679
+00:32:25,033 --> 00:32:27,100
+auch wenn es mich
+nicht wundern würde,
+
+680
+00:32:27,200 --> 00:32:28,767
+er steht auf Monster,
+okay!
+
+681
+00:32:28,867 --> 00:32:30,667
+Aber was hat es damit auf sich?
+
+682
+00:32:30,767 --> 00:32:32,600
+Wieso passt dieser Name zu ihm?
+
+683
+00:32:32,700 --> 00:32:36,167
+J.K. Rowling hat sich für
+das Aussehen und das Gemüt von Hagrid
+
+684
+00:32:36,267 --> 00:32:38,600
+von einer realen Person
+inspirieren lassen:
+
+685
+00:32:38,700 --> 00:32:42,500
+Sie war in einer Bar und hat
+einen Hell's-Angels-Biker getroffen.
+
+686
+00:32:42,600 --> 00:32:45,467
+Der riesig und haarig
+und gruselig ausgesehen hat
+
+687
+00:32:45,567 --> 00:32:47,833
+und dem alle aus dem Weg
+gegangen sind.
+
+688
+00:32:47,933 --> 00:32:50,200
+Er hat sich voll nett
+mit ihr unterhalten
+
+689
+00:32:50,300 --> 00:32:52,000
+und von seinem Garten erzählt.
+
+690
+00:32:52,100 --> 00:32:54,733
+Und dass seine Blümchen
+nicht richtig wachsen.
+
+691
+00:32:54,833 --> 00:32:58,667
+Es war eine Person, die vielleicht
+was Schlimmes erlebt oder getan hat,
+
+692
+00:32:58,767 --> 00:33:01,233
+unter Leuten war,
+die Schlimmes getan haben,
+
+693
+00:33:01,333 --> 00:33:05,300
+oder einfach nur eine Vorliebe hatte
+für schlimme Biker- und Rockersachen.
+
+694
+00:33:05,400 --> 00:33:06,933
+Aber er war doch ganz nett.
+
+695
+00:33:07,033 --> 00:33:09,267
+Hagrid gehört nicht
+zu den Hell's Angels,
+
+696
+00:33:09,367 --> 00:33:11,700
+ist aber auch mit dem Motorrad
+unterwegs.
+
+697
+00:33:11,800 --> 00:33:14,533
+Er ist riesig und ruppig,
+aber hat ein gutes Herz.
+
+698
+00:33:14,633 --> 00:33:16,433
+Manchmal ist er zu gutmütig,
+
+699
+00:33:16,533 --> 00:33:19,300
+aber er will wirklich
+jedem missverstandenen Wesen
+
+700
+00:33:19,400 --> 00:33:20,667
+seine Liebe geben,
+
+701
+00:33:20,767 --> 00:33:23,700
+weil er in seinem Leben
+nicht so viel abbekommen hat.
+
+702
+00:33:23,800 --> 00:33:26,533
+Er ist oft in Kneipen,
+lässt sich was anschnacken
+
+703
+00:33:26,633 --> 00:33:28,433
+oder trinkt einen übern Durst.
+
+704
+00:33:28,533 --> 00:33:30,933
+Er hat einige schlechte Nächte
+hinter sich.
+
+705
+00:33:31,033 --> 00:33:33,267
+Die Kinder finden
+sein Verhalten lustig,
+
+706
+00:33:33,367 --> 00:33:35,700
+aber bei seiner Geschichte
+kann man erahnen,
+
+707
+00:33:35,800 --> 00:33:39,600
+dass er ein trauriger Mensch mit
+nicht so schöner Vergangenheit ist.
+
+708
+00:33:39,700 --> 00:33:41,200
+Er ist wirklich hagridden.
+
+709
+00:33:41,300 --> 00:33:43,800
+Trotz seiner Grobheit
+ist er sehr fürsorglich,
+
+710
+00:33:43,900 --> 00:33:45,333
+vor allem in dieser Szene.
+
+711
+00:33:45,433 --> 00:33:47,800
+Er freut sich
+über den kleinen Babydrachen,
+
+712
+00:33:47,900 --> 00:33:50,100
+den er selbst im Kessel
+ausgebrütet hat
+
+713
+00:33:50,200 --> 00:33:52,767
+und jetzt liebt,
+als wär's sein eigenes Kind.
+
+714
+00:33:52,867 --> 00:33:56,167
+Durch das ganze Kitzeln und
+Streicheln und Dudududu von Hagrid
+
+715
+00:33:56,267 --> 00:33:58,667
+muss Norbert aber hicksen,
+verschluckt sich
+
+716
+00:33:58,767 --> 00:34:02,400
+und niest aus Versehen 'nen Feuerball
+in Hagrids haariges Gesicht.
+
+717
+00:34:02,500 --> 00:34:04,433
+Seine Haare gehen in Flammen auf,
+
+718
+00:34:04,533 --> 00:34:08,133
+er will die glühenden Haarspitzen
+mit dem Ofenhandschuh ausmachen,
+
+719
+00:34:08,233 --> 00:34:10,767
+wobei eine kleine Rauchwolke
+von ihm aufsteigt.
+
+720
+00:34:10,867 --> 00:34:13,867
+Jeder, der schon mal
+ein brennendes Haar gerochen hat,
+
+721
+00:34:13,967 --> 00:34:16,667
+kann sich vorstellen,
+wie sehr das stinken muss.
+
+722
+00:34:16,767 --> 00:34:18,567
+Aber Hagrid freut sich und lacht.
+
+723
+00:34:18,667 --> 00:34:20,467
+"Der muss noch erzogen werden."
+
+724
+00:34:20,567 --> 00:34:23,233
+Hier zeigt sich,
+dass es keine schlechte Idee war,
+
+725
+00:34:23,333 --> 00:34:25,300
+Hagrids Hütte aus Stein zu machen,
+
+726
+00:34:25,400 --> 00:34:27,800
+sonst würde sie
+nicht mehr lange stehen.
+
+727
+00:34:27,900 --> 00:34:30,267
+Das wird im Buch
+von Hermine angesprochen.
+
+728
+00:34:30,367 --> 00:34:32,700
+"Hagrid, du hast eine Holzhütte."
+
+729
+00:34:32,800 --> 00:34:36,400
+Aber er ignoriert sie und der Drache
+wird im Laufe der Geschichte
+
+730
+00:34:36,500 --> 00:34:38,533
+immer größer
+und speit nicht nur Feuer,
+
+731
+00:34:38,633 --> 00:34:40,233
+sondern beißt auch um sich.
+
+732
+00:34:40,333 --> 00:34:42,667
+Er verletzt Hagrid
+und Fang und die Kinder,
+
+733
+00:34:42,767 --> 00:34:45,367
+aber vor lauter Liebe
+ignoriert Hagrid das auch.
+
+734
+00:34:45,467 --> 00:34:48,233
+Diese Problematik
+wird im Film nicht behandelt.
+
+735
+00:34:48,333 --> 00:34:51,967
+Die vergnügte Stimmung mit dem
+noch süßen und kleinen Babydrachen
+
+736
+00:34:52,067 --> 00:34:53,633
+wird aber abrupt beendet,
+
+737
+00:34:53,733 --> 00:34:55,300
+denn Hagrid sieht jemanden.
+
+738
+00:34:55,400 --> 00:34:58,600
+Am kleinen Fenster schaut
+eine Gestalt in die Hütte rein,
+
+739
+00:34:58,700 --> 00:34:59,733
+die davonrennt.
+
+740
+00:34:59,833 --> 00:35:02,767
+Was Harry kommentiert mit
+einem zornigen: "Malfoy!"
+
+741
+00:35:02,867 --> 00:35:05,800
+"Oh, Sch- ... -ande!", sagt Hagrid,
+
+742
+00:35:05,900 --> 00:35:08,367
+um diesen Film jugendfrei
+bleiben zu lassen.
+
+743
+00:35:08,467 --> 00:35:10,233
+Harter Schnitt, nächste Szene.
+
+744
+00:35:10,333 --> 00:35:12,967
+Wir sind zurück in Hogwarts,
+in einem Korridor.
+
+745
+00:35:13,067 --> 00:35:16,100
+Eine große Eule sitzt auf
+einer Steinsäule und krächzt.
+
+746
+00:35:16,200 --> 00:35:17,467
+Es ist ein Bartkauz,
+
+747
+00:35:17,567 --> 00:35:20,500
+der so heißt, weil der dunkle Plüsch
+unterm Schnabel
+
+748
+00:35:20,600 --> 00:35:21,967
+wie ein Bart aussieht.
+
+749
+00:35:22,133 --> 00:35:25,867
+Es ist eine der größten Eulen, wiegt
+aber weniger als eine Schneeeule.
+
+750
+00:35:26,033 --> 00:35:28,167
+Die alte Eule der Weasleys
+namens Errol,
+
+751
+00:35:28,300 --> 00:35:31,300
+die gegen Fenster knallt
+und in die Chipsschüssel fliegt,
+
+752
+00:35:31,500 --> 00:35:32,700
+ist auch ein Bartkauz.
+
+753
+00:35:32,800 --> 00:35:35,033
+Die Kamera fährt
+von der Eule zur Seite
+
+754
+00:35:35,200 --> 00:35:37,967
+und das Gryffindor-Trio
+kommt mit zügigen Schritten
+
+755
+00:35:38,067 --> 00:35:39,500
+in den Korridor gelaufen.
+
+756
+00:35:39,600 --> 00:35:43,367
+Harry erklärt aufgeregt: "Hagrid
+wollte immer einen Drachen haben,
+
+757
+00:35:43,467 --> 00:35:45,367
+hat er mir am ersten Tag erzählt."
+
+758
+00:35:45,467 --> 00:35:48,733
+Das hat er in einer gelöschten Szene
+in der U-Bahn erzählt.
+
+759
+00:35:48,833 --> 00:35:51,467
+Die wurde erst in der Ultimate
+Edition eingefügt,
+
+760
+00:35:51,567 --> 00:35:53,200
+davor hatte man keine Ahnung.
+
+761
+00:35:53,300 --> 00:35:56,600
+Das Trio ist beunruhigt,
+weil Malfoy vom Drachen weiß
+
+762
+00:35:56,700 --> 00:35:59,767
+und ausgerechnet Hermine fragt
+unwissend und unschuldig:
+
+763
+00:35:59,867 --> 00:36:02,167
+"Ich versteh nicht ganz,
+gibt das Ärger?"
+
+764
+00:36:02,267 --> 00:36:05,367
+Und an dieser Stelle
+ist schon wieder ein Filmfehler!
+
+765
+00:36:05,467 --> 00:36:08,833
+Diesmal können weder die Kameraleute,
+noch die Schauspieler,
+
+766
+00:36:08,933 --> 00:36:11,133
+noch die Nachbearbeitungspraktikanten
+
+767
+00:36:11,233 --> 00:36:13,267
+noch die gesamte Filmcrew
+etwas dafür.
+
+768
+00:36:13,367 --> 00:36:16,133
+Denn der Fehler ist
+die deutsche Synchronisierung.
+
+769
+00:36:16,233 --> 00:36:17,767
+Die falsche Person spricht!
+
+770
+00:36:17,867 --> 00:36:19,467
+Nachdem Ron beunruhigt sagt,
+
+771
+00:36:19,567 --> 00:36:22,533
+dass Malfoy vom Drachen weiß,
+sagt Harry auf Englisch:
+
+772
+00:36:22,633 --> 00:36:24,567
+"I don't understand, is that bad?"
+
+773
+00:36:24,667 --> 00:36:26,467
+Aber auf Deutsch fragt Hermine:
+
+774
+00:36:26,567 --> 00:36:28,900
+"Ich versteh nicht ganz,
+gibt das Ärger?"
+
+775
+00:36:29,000 --> 00:36:32,500
+Dabei bewegt sich ihr Mund nicht
+und Harrys ist weit aufgerissen.
+
+776
+00:36:32,600 --> 00:36:36,033
+Wieso haben sie das geändert?
+Wieso sollte Hermine das sagen?
+
+777
+00:36:36,133 --> 00:36:38,267
+Hermine versteht
+am meisten von allem.
+
+778
+00:36:38,367 --> 00:36:41,233
+Sie würde doch nicht sagen:
+"Ich versteh nicht ganz."
+
+779
+00:36:41,333 --> 00:36:42,400
+"Gibt das Ärger?"
+
+780
+00:36:42,500 --> 00:36:45,300
+Hermine weiß alles über Hogwarts,
+die Schulregeln.
+
+781
+00:36:45,400 --> 00:36:48,800
+Filch und Mrs. Norris suchen nachts
+Kinder, die rumschleichen.
+
+782
+00:36:48,900 --> 00:36:51,567
+Sie weiß bestimmt auch,
+dass Drachen verboten sind
+
+783
+00:36:51,667 --> 00:36:53,200
+und Malfoy ein Arsch ist.
+
+784
+00:36:53,300 --> 00:36:54,667
+Natürlich gibt das Ärger!
+
+785
+00:36:54,767 --> 00:36:57,000
+Der Drehort ist die Durham Cathedral,
+
+786
+00:36:57,100 --> 00:37:00,867
+in deren Kapitelhaus die Szene mit
+McGonagalls Verwandlungsunterricht
+
+787
+00:37:00,967 --> 00:37:02,067
+gedreht wurde.
+
+788
+00:37:02,167 --> 00:37:04,567
+Auf Rons Bestätigung hin:
+"Das gibt Ärger",
+
+789
+00:37:04,667 --> 00:37:07,367
+kommt Prof. McGonagall
+mit einer Kerze in der Hand
+
+790
+00:37:07,467 --> 00:37:08,533
+in den Korridor.
+
+791
+00:37:08,633 --> 00:37:10,700
+Draco Malfoy ist direkt hinter ihr.
+
+792
+00:37:10,800 --> 00:37:13,800
+Er hat gepetzt! Schnitt.
+Im Verwandlungsklassenzimmer.
+
+793
+00:37:13,900 --> 00:37:17,000
+Die Schulbänke sind leer
+und vom Mondlicht beschienen.
+
+794
+00:37:17,100 --> 00:37:19,500
+Ein paar Kerzen erleuchten
+das Lehrerpult,
+
+795
+00:37:19,600 --> 00:37:21,333
+an dem McGonagall jetzt steht
+
+796
+00:37:21,433 --> 00:37:23,733
+und auf die Gryffindors hinabblickt.
+
+797
+00:37:23,833 --> 00:37:26,600
+Die Kamera filmt alles
+aus erhöhter Position,
+
+798
+00:37:26,700 --> 00:37:29,800
+sodass das bedrückte Trio
+im verlassenen Klassenzimmer
+
+799
+00:37:29,900 --> 00:37:32,433
+besonders klein und einsam aussieht.
+
+800
+00:37:32,533 --> 00:37:35,467
+Während Draco am Rand steht
+und süffisant grinsend
+
+801
+00:37:35,567 --> 00:37:37,267
+an einer Bank lehnt.
+
+802
+00:37:37,367 --> 00:37:39,900
+Er genießt das Leid,
+was er angerichtet hat.
+
+803
+00:37:40,000 --> 00:37:41,867
+Hermine ist besonders bedrückt,
+
+804
+00:37:41,967 --> 00:37:45,500
+ihre größte Angst ist ja, aus
+Hogwarts rausgeschmissen zu werden.
+
+805
+00:37:45,600 --> 00:37:47,200
+Das ist ihr Albtraumszenario.
+
+806
+00:37:47,300 --> 00:37:49,333
+McGonagall ist wütend und schimpft.
+
+807
+00:37:49,433 --> 00:37:51,733
+"Nichts gibt einem Schüler das Recht,
+
+808
+00:37:51,833 --> 00:37:53,867
+nachts durch die Schule
+zu spazieren."
+
+809
+00:37:53,967 --> 00:37:55,167
+"50 Punkte Abzug."
+
+810
+00:37:55,267 --> 00:37:57,800
+Hermine sieht aus,
+als würde sie gleich heulen,
+
+811
+00:37:57,900 --> 00:37:59,900
+Harry ist sauer: "50?"
+
+812
+00:38:00,067 --> 00:38:02,500
+Und als wenn das
+nicht schlimm genug wäre,
+
+813
+00:38:02,600 --> 00:38:05,100
+korrigiert McGonagall:
+"Für jeden von euch."
+
+814
+00:38:05,200 --> 00:38:08,600
+Das sind 150 Punkte, die sie
+in einer Nacht verloren haben.
+
+815
+00:38:08,700 --> 00:38:11,400
+Da kann Harry auch nicht mehr
+den Mund zumachen.
+
+816
+00:38:11,500 --> 00:38:14,333
+Ein Zustand, den er
+in McGonagalls Nähe öfter hat.
+
+817
+00:38:14,433 --> 00:38:17,900
+Am Anfang aus Ehrfurcht,
+jetzt aus völliger Fassungslosigkeit.
+
+818
+00:38:18,000 --> 00:38:19,600
+Auch er ist den Tränen nahe.
+
+819
+00:38:19,700 --> 00:38:23,667
+Zusätzlich zum Punkteabzug müssen sie
+auch noch Strafdienst verrichten.
+
+820
+00:38:23,767 --> 00:38:25,767
+Eine gute Sache hat das Ganze aber:
+
+821
+00:38:25,867 --> 00:38:29,500
+McGonagall sagt: "Sie alle vier
+müssen Strafdienst verrichten."
+
+822
+00:38:29,600 --> 00:38:32,000
+Da vergeht Malfoy das Grinsen
+plötzlich.
+
+823
+00:38:32,100 --> 00:38:34,300
+Tja, wie McGonagall
+eingangs erwähnte,
+
+824
+00:38:34,400 --> 00:38:37,500
+nichts gibt einem das Recht,
+nachts herumzuschleichen.
+
+825
+00:38:37,600 --> 00:38:41,500
+Draco ist auch rumgeschlichen, also
+gibt's für ihn die gleiche Strafe.
+
+826
+00:38:41,600 --> 00:38:44,100
+Da muss Harry dann doch
+ein bisschen lächeln.
+
+827
+00:38:44,200 --> 00:38:46,733
+Hehe, jemand anderem
+passiert was Schlimmes.
+
+828
+00:38:46,833 --> 00:38:49,533
+Auch Hermine und Ron
+schauen sich grinsend an.
+
+829
+00:38:49,633 --> 00:38:52,000
+Haben sie irgendwie
+noch mal Glück gehabt.
+
+830
+00:38:52,100 --> 00:38:55,467
+Schade um die Punkte, aber sie wurden
+nicht rausgeschmissen.
+
+831
+00:38:55,567 --> 00:38:58,500
+Ich reg mich immer noch auf,
+dass Hermine sagen musste:
+
+832
+00:38:58,600 --> 00:39:00,633
+"Ich versteh nicht, gibt das Ärger?"
+
+833
+00:39:00,733 --> 00:39:03,033
+Selbst wenn die Schulregeln
+im Gammelbuch
+
+834
+00:39:03,133 --> 00:39:05,967
+in der hintersten Ecke
+der Bibliothek liegen würden,
+
+835
+00:39:06,067 --> 00:39:08,633
+wär Hermine die erste,
+die das auswendig lernt
+
+836
+00:39:08,733 --> 00:39:11,367
+und den Jungs sagt,
+dass nachts zu Hagrid laufen
+
+837
+00:39:11,467 --> 00:39:13,400
+gegen die Schulregeln verstößt.
+
+838
+00:39:13,500 --> 00:39:17,000
+Es ist auch nicht ersichtlich,
+warum sie nachts hingelaufen sind.
+
+839
+00:39:17,100 --> 00:39:20,667
+Sie hätten ihn ja auch zu jeder
+anderen Tageszeit besuchen können,
+
+840
+00:39:20,767 --> 00:39:22,567
+um ihm den Verdacht mitzuteilen.
+
+841
+00:39:22,667 --> 00:39:25,833
+Im Buch ist der Ablauf der Geschichte
+nämlich ganz anders.
+
+842
+00:39:25,933 --> 00:39:28,333
+Die Kinder sind am Tag
+zu Besuch bei Hagrid,
+
+843
+00:39:28,433 --> 00:39:29,967
+der sie eingeladen hat.
+
+844
+00:39:30,067 --> 00:39:31,633
+Sie wissen auch vom Drachen.
+
+845
+00:39:31,733 --> 00:39:34,333
+Malfoy kriegt das mit
+und sagt niemandem was.
+
+846
+00:39:34,433 --> 00:39:37,633
+Weil Drachen verboten sind,
+fürchten die Kinder um Hagrid,
+
+847
+00:39:37,733 --> 00:39:39,700
+Ron schreibt seinem Bruder Charlie.
+
+848
+00:39:39,800 --> 00:39:42,200
+Der holt den Drachen
+heimlich in der Nacht.
+
+849
+00:39:42,300 --> 00:39:44,800
+Ron wird gebissen,
+kommt in den Krankenflügel
+
+850
+00:39:44,900 --> 00:39:47,700
+und Draco kriegt den Brief
+von Charlie in die Hände.
+
+851
+00:39:47,800 --> 00:39:51,767
+Harry und Hermine bringen den Drachen
+mit Tarnumhang auf den höchsten Turm,
+
+852
+00:39:51,933 --> 00:39:54,900
+Hermine weiß Bescheid,
+sie brechen absichtlich Regeln.
+
+853
+00:39:55,033 --> 00:39:58,100
+Sie freuen sich, weil McGonagall
+die Petze Draco schnappt.
+
+854
+00:39:58,333 --> 00:40:01,400
+Norbert wird abgeholt.
+Harry und Hermine sind erleichtert,
+
+855
+00:40:01,533 --> 00:40:05,000
+dass es geklappt hat, unvorsichtig,
+lassen den Tarnumhang liegen
+
+856
+00:40:05,267 --> 00:40:07,000
+und werden von Filch geschnappt.
+
+857
+00:40:07,167 --> 00:40:10,700
+Und dann kommt noch Neville dazu,
+der sie vor Malfoy warnen wollte.
+
+858
+00:40:10,833 --> 00:40:14,967
+Das war alles so durcheinander, dass
+der Drehbuchautor Steve Kloves sagte:
+
+859
+00:40:15,133 --> 00:40:18,800
+"Ah, drauf geschissen! Das ist doch
+langweilig, ich lösch das jetzt."
+
+860
+00:40:18,933 --> 00:40:22,567
+Als Drehbuchautor. Er hatte
+Email-Korrespondenz mit J.K. Rowling
+
+861
+00:40:22,700 --> 00:40:24,500
+und hat ihr im Prinzip gesagt:
+
+862
+00:40:24,633 --> 00:40:28,067
+"Hiii ... das Kapitel mit Norbert
+ist voll interessant,
+
+863
+00:40:28,200 --> 00:40:32,000
+aber ein bisschen langatmig und für
+die Gesamtstory nicht so wichtig."
+
+864
+00:40:32,133 --> 00:40:34,000
+"Kann ich das bitte umschreiben?"
+
+865
+00:40:34,133 --> 00:40:37,300
+Und sie meinte: "Ja, okay,
+ich hatte auch Probleme damit."
+
+866
+00:40:37,467 --> 00:40:40,200
+Im Buch sind die Kinder
+also lieb und aufopfernd,
+
+867
+00:40:40,333 --> 00:40:42,700
+sodass sie willentlich
+die Regeln brechen
+
+868
+00:40:42,867 --> 00:40:45,267
+um ihren guten Freund Hagrid
+zu beschützen.
+
+869
+00:40:45,400 --> 00:40:48,633
+Und im Film sind die Kinder nur dumm
+und gehen nachts raus,
+
+870
+00:40:48,767 --> 00:40:51,933
+ohne ersichtlichen Grund.
+Die Strafe ist aber die gleiche:
+
+871
+00:40:52,067 --> 00:40:54,633
+50 Punkte Abzug für jeden.
+Das wären 150.
+
+872
+00:40:55,000 --> 00:40:58,413
+Genau die Zahl, die Harry vorher
+durch das Fangen des Schnatzes
+
+873
+00:40:58,533 --> 00:41:00,767
+beim Quidditch gewonnen hat.
+Alles weg.
+
+874
+00:41:00,900 --> 00:41:03,500
+Wobei nicht erklärt ist,
+ob die Quidditch-Punkte
+
+875
+00:41:03,633 --> 00:41:07,333
+mit in die Hauspunkte gezählt werden,
+es gibt ja den Quidditch-Pokal
+
+876
+00:41:07,700 --> 00:41:09,633
+und zusätzlich noch den Hauspokal.
+
+877
+00:41:09,767 --> 00:41:13,500
+Das klingt erst mal nice, ist aber
+pädagogisch gesehen total scheiße.
+
+878
+00:41:13,633 --> 00:41:16,867
+Hä? "Wir stecken euch in
+verschiedene, konkurrierende Häuser,
+
+879
+00:41:17,000 --> 00:41:20,700
+wer am Schuljahresende die meisten
+Punkte hat, gewinnt den Hauspokal."
+
+880
+00:41:20,833 --> 00:41:24,067
+"Sodass ihr von Anfang an
+gegeneinander aufgewiegelt werdet,
+
+881
+00:41:24,200 --> 00:41:28,033
+Konkurrenzdenken und Hass auf andere
+entwickelt, und das wird belohnt!"
+
+882
+00:41:28,167 --> 00:41:32,033
+"Dazu kommt noch, dass Punktevergabe
+und -abzug unübersichtlich variiert
+
+883
+00:41:32,367 --> 00:41:36,200
+und in keiner Relation steht." Fünf
+Punkte Abzug für Unverschämtsein ...
+
+884
+00:41:36,333 --> 00:41:39,300
+oder für Troll nachlaufen.
+Zehn Punkte Gewinn für Glück.
+
+885
+00:41:39,433 --> 00:41:42,200
+150 Punkte Abzug
+für nachts draußen sein.
+
+886
+00:41:42,333 --> 00:41:46,433
+Ich würde durchdrehen. Es gibt kein
+Muster, um sich danach zu verhalten.
+
+887
+00:41:46,567 --> 00:41:49,580
+Es ist Chaos. Man weiß nie,
+ob das, was man gerade tut,
+
+888
+00:41:49,700 --> 00:41:53,633
+gegen irgendeine Regel verstößt, die
+vielleicht in einem Regelbuch steht
+
+889
+00:41:53,767 --> 00:41:56,033
+oder die sich ein Lehrer
+ausgedacht hat.
+
+890
+00:41:56,167 --> 00:41:59,667
+Und dann kommt so ein Snape um die
+Ecke und sagt: "Du bist frech."
+
+891
+00:41:59,800 --> 00:42:03,300
+"Fünf Punkte Abzug für Slytherin.
+Ah, Moment, das ist mein Haus."
+
+892
+00:42:03,433 --> 00:42:07,300
+"Ich meine, 50 Punkte für Slytherin.
+Weil du cool und rebellisch bist."
+
+893
+00:42:07,433 --> 00:42:09,333
+"Fledermaus!"
+(Zischen, Fiepslaute)
+
+894
+00:42:09,467 --> 00:42:10,967
+So stell ich mir das vor.
+
+895
+00:42:11,133 --> 00:42:14,267
+Kommen wir von der blöden,
+unübersichtlichen Punktevergabe
+
+896
+00:42:14,400 --> 00:42:16,900
+wieder zu sichtbaren Details,
+die wir lieben.
+
+897
+00:42:17,033 --> 00:42:18,967
+Würdigen wir McGonagalls Kleidung.
+
+898
+00:42:19,167 --> 00:42:21,867
+Draco hat sie am späten Abend
+aus dem Bett geholt,
+
+899
+00:42:22,000 --> 00:42:23,800
+sie hat schon Schlafsachen an.
+
+900
+00:42:23,933 --> 00:42:27,233
+Kein schlabbriger Pyjama,
+sondern ein adretter Morgenmantel.
+
+901
+00:42:27,367 --> 00:42:31,400
+Beziehungsweise Abendmantel. Selbst-
+verständlich mit grünem Schottenkaro.
+
+902
+00:42:31,533 --> 00:42:35,267
+Denn falls es noch keinem aufgefallen
+ist: McGonagall ist schottisch.
+
+903
+00:42:35,400 --> 00:42:38,333
+Sie kommt aus Schottland.
+Hogwarts ist in Schottland.
+
+904
+00:42:38,467 --> 00:42:40,967
+Und das spiegelt jedes Outfit
+von ihr wieder,
+
+905
+00:42:41,100 --> 00:42:43,913
+und wenn sie grad keine
+Schottenmustersachen trägt,
+
+906
+00:42:44,200 --> 00:42:47,433
+dann etwas Grünes. Ihre Schlafkappe,
+die die Haare verdeckt,
+
+907
+00:42:47,633 --> 00:42:50,767
+ist dunkelgrün mit seidigen Rüschen
+um das Gesicht herum,
+
+908
+00:42:50,900 --> 00:42:53,900
+und sie ist mit einer Schleife
+an ihrem Kinn befestigt.
+
+909
+00:42:54,033 --> 00:42:56,700
+In diesem Outfit
+geht sie aber nicht schlafen,
+
+910
+00:42:56,833 --> 00:43:00,600
+Unter dem Mantel trägt sie ein weißes
+Knopfnachthemd mit Pünktchen.
+
+911
+00:43:00,867 --> 00:43:03,967
+Was auch in späteren Filmen
+immer mal wieder zu sehen ist,
+
+912
+00:43:04,100 --> 00:43:06,500
+wenn Harry mitten in der Nacht
+Scheiße baut.
+
+913
+00:43:06,633 --> 00:43:10,667
+Das sind ihre Standard-Schlafsachen,
+sie brezelt sich nicht immer so auf.
+
+914
+00:43:10,800 --> 00:43:14,400
+Apropos Outfit: Dass die Gryffindor-
+Kinder casual unterwegs sind,
+
+915
+00:43:14,533 --> 00:43:17,680
+hab ich erwähnt, auch Draco
+trägt nicht Schuluniform,
+
+916
+00:43:17,800 --> 00:43:20,400
+sondern einen dicken, grauen
+Rollkragenpullover.
+
+917
+00:43:20,567 --> 00:43:24,133
+Und wo die Gryffindors und Draco
+grad so schön beieinander stehen,
+
+918
+00:43:24,267 --> 00:43:27,400
+muss ich mal erwähnen,
+dass Tom Felton alias Draco Malfoy
+
+919
+00:43:27,567 --> 00:43:30,833
+für so ziemlich alle Kinder-
+Hauptrollen vorgesprochen hat.
+
+920
+00:43:30,967 --> 00:43:33,733
+Er kam zum Casting,
+wusste nichts von Harry Potter -
+
+921
+00:43:33,867 --> 00:43:37,300
+das wurde ihm nur in der Schule
+vorgelesen, fand er langweilig.
+
+922
+00:43:37,433 --> 00:43:40,433
+Eigentlich wollte er
+Fischereiwissenschaften studieren.
+
+923
+00:43:40,567 --> 00:43:44,200
+Aber, ja, er war halt jetzt
+Schauspieler, auch in anderen Filmen.
+
+924
+00:43:44,433 --> 00:43:47,700
+Der erfahrenste Kinderdarsteller -
+es war aber nur ein Job.
+
+925
+00:43:47,867 --> 00:43:51,400
+Alle anderen Kinder waren gehypt,
+wussten alles aus den Büchern,
+
+926
+00:43:51,533 --> 00:43:54,833
+wussten, wen sie spielen wollten,
+dann kommt dieser Bastard,
+
+927
+00:43:54,967 --> 00:43:58,080
+hat keine Ahnung von Harry Potter,
+spricht für alle vor -
+
+928
+00:43:58,200 --> 00:44:01,813
+für Harry, hat nicht geklappt,
+dann für Ron - extra Haare gefärbt.
+
+929
+00:44:01,933 --> 00:44:05,300
+Nachdem er dann gefragt wurde,
+was seine Lieblingsstelle sei,
+
+930
+00:44:05,433 --> 00:44:10,300
+hat er wiederholt, was ein anderes
+Kind vor ihm gesagt hat: "Gringotts."
+
+931
+00:44:10,800 --> 00:44:14,813
+Das fanden sie beim Casting so witzig
+und dreist, dass er die Rolle bekam,
+
+932
+00:44:14,933 --> 00:44:17,667
+die wohl am meisten zu ihm passt,
+nämlich Malfoy.
+
+933
+00:44:17,867 --> 00:44:21,300
+und dafür musste er kontinuierlich
+die Haare gebleicht bekommen,
+
+934
+00:44:21,433 --> 00:44:23,600
+denn seine Naturhaarfarbe ist braun.
+
+935
+00:44:23,733 --> 00:44:26,333
+Es gab die ganze Filmreihe über
+Securitychecks,
+
+936
+00:44:26,467 --> 00:44:29,233
+damit kein Schauspieler
+was vom Set mitgehen lässt,
+
+937
+00:44:29,367 --> 00:44:33,467
+aber Tom hatte die Idee: "Was wär das
+Wertvollste, was ich klauen könnte?"
+
+938
+00:44:33,600 --> 00:44:35,700
+"Hm! Ich hab's! Harry Potter."
+
+939
+00:44:35,833 --> 00:44:39,567
+Und dann wollte er Daniel Radcliffe
+gefesselt im Kofferraum mitnehmen.
+
+940
+00:44:39,700 --> 00:44:42,700
+Einfach nur, um das Gesicht
+vom Security Guard zu sehen,
+
+941
+00:44:42,900 --> 00:44:46,167
+wenn er das Auto durchsucht.
+Hat er dann doch nicht gemacht.
+
+942
+00:44:46,300 --> 00:44:48,233
+So ein Schlingel!
+Aber genug davon.
+
+943
+00:44:48,367 --> 00:44:50,767
+In der nächsten Szene
+ist immer noch Nacht,
+
+944
+00:44:50,900 --> 00:44:53,600
+wir sehen das Hogwarts-Schloss,
+in dessen Fenstern
+
+945
+00:44:53,733 --> 00:44:56,767
+die meisten Lichter schon
+erloschen sind, aus der Ferne.
+
+946
+00:44:56,900 --> 00:45:00,313
+Apropos Security Guard: Einige
+Schatten tummeln sich am Eingang
+
+947
+00:45:00,433 --> 00:45:03,500
+und Mr. Filch eskortiert
+die betrübten Kinder hinaus.
+
+948
+00:45:03,633 --> 00:45:06,933
+Und schwärmt davon, dass er
+die Schreie von Kindern vermisst,
+
+949
+00:45:07,067 --> 00:45:11,067
+die früher zur Strafe an beiden
+Daumen in Kerkern aufgehängt wurden.
+
+950
+00:45:11,200 --> 00:45:14,367
+Und das sagt er nicht nur,
+um den Kindern Angst zu machen.
+
+951
+00:45:14,500 --> 00:45:17,200
+Das ist vor gar nicht
+allzu langer Zeit passiert.
+
+952
+00:45:17,333 --> 00:45:20,733
+Es war zu seiner Lebenszeit,
+er ist zwar alt, aber nicht uralt.
+
+953
+00:45:20,867 --> 00:45:23,167
+Das ist erst vor Kurzem
+abgeschafft worden.
+
+954
+00:45:23,300 --> 00:45:27,000
+Denn Molly Weasley erzählt im Buch
+"Harry Potter und der Feuerkelch",
+
+955
+00:45:27,133 --> 00:45:30,333
+dass sie und Arthur Weasley sich,
+als sie jugendlich waren,
+
+956
+00:45:30,467 --> 00:45:33,400
+heimlich rausgeschlichen haben,
+aber erwischt wurden,
+
+957
+00:45:33,533 --> 00:45:36,900
+und dass Arthur bis heute blaue
+Flecken von der Bestrafung hat.
+
+958
+00:45:37,033 --> 00:45:39,367
+Das ist ganz schön dark
+für ein Kinderbuch,
+
+959
+00:45:39,500 --> 00:45:42,967
+zu implizieren, dass Folterung
+der Kinder mit bleibenden Schäden
+
+960
+00:45:43,100 --> 00:45:46,233
+eine Erziehungsmaßnahme
+in der tollen magischen Schule ist.
+
+961
+00:45:46,367 --> 00:45:49,433
+Das ist gruselig, Mann!
+Mr. Filch ist richtig sadistisch,
+
+962
+00:45:49,600 --> 00:45:52,013
+er hat sich ja super
+mit Umbridge verstanden,
+
+963
+00:45:52,133 --> 00:45:55,367
+die von vielen als der schlimmste
+Bösewicht angesehen wird.
+
+964
+00:45:55,500 --> 00:45:59,333
+Schlimmer als Voldemort, weil sie
+mit den Kindern so ultrastreng umging
+
+965
+00:45:59,467 --> 00:46:00,533
+und auch folterte.
+
+966
+00:46:00,733 --> 00:46:04,733
+Aber kein Wunder, dass er so drauf
+ist, sein Leben ist echt nicht schön.
+
+967
+00:46:04,867 --> 00:46:08,147
+Keiner mag ihn, das einzige Wesen,
+was ihn zu lieben scheint,
+
+968
+00:46:08,267 --> 00:46:09,933
+ist seine Katze, Mrs. Norris.
+
+969
+00:46:10,100 --> 00:46:13,033
+Er ist ein alter Mann,
+der keine magischen Kräfte hat,
+
+970
+00:46:13,167 --> 00:46:16,800
+selbst Hagrid ist besser dran als er,
+der kann ein bisschen zaubern.
+
+971
+00:46:16,933 --> 00:46:20,900
+Keiner kommt und wutscht und wedelt
+mit dem Zauberstab, um ihm zu helfen.
+
+972
+00:46:21,033 --> 00:46:23,633
+Er ist der einzige Hausmeister
+im ganzen Schloss.
+
+973
+00:46:23,767 --> 00:46:27,313
+Selbst, als Hogwarts am Ende der
+Filme in Schutt und Asche liegt,
+
+974
+00:46:27,433 --> 00:46:30,467
+muss er alles sauberfegen,
+ohne Aussicht auf Besserung.
+
+975
+00:46:30,600 --> 00:46:33,247
+Das ist keine Strafarbeit,
+das ist seine Arbeit.
+
+976
+00:46:33,367 --> 00:46:35,367
+Er durchlebt diese Hölle konstant!
+
+977
+00:46:35,500 --> 00:46:38,533
+Was ihm Freude bereitet,
+ist nur diese kleine Genugtuung,
+
+978
+00:46:38,667 --> 00:46:41,133
+dass diese Scheiß-Kinder
+bestraft werden.
+
+979
+00:46:41,633 --> 00:46:44,967
+Sein Schauspieler, David Bradley,
+hat selber einige Katzen.
+
+980
+00:46:45,100 --> 00:46:47,900
+Und um das Wesen von Mr. Filch
+besser zu verstehen,
+
+981
+00:46:48,033 --> 00:46:50,180
+hat er sich
+eine einsame Hütte gemietet,
+
+982
+00:46:50,300 --> 00:46:53,367
+um da für einen Monat
+allein mit seiner Katze zu leben,
+
+983
+00:46:53,500 --> 00:46:57,233
+bevor die Dreharbeiten losgingen -
+um die Isolierung und Entfremdung
+
+984
+00:46:57,367 --> 00:47:00,900
+einer Person, die nur eine Katze
+als Freund hat, zu verstehen.
+
+985
+00:47:01,100 --> 00:47:04,000
+Er selber ist nämlich eigentlich
+ein Familienmensch,
+
+986
+00:47:04,133 --> 00:47:07,967
+seit Ewigkeiten verheiratet, und im
+"Telegraph"-Interview erzählte er,
+
+987
+00:47:08,100 --> 00:47:11,700
+dass seine Kinder, die die Harry
+Potter-Bücher verschlungen haben,
+
+988
+00:47:11,867 --> 00:47:15,467
+dafür verantwortlich waren,
+dass er die Rolle in Erwägung zog.
+
+989
+00:47:15,633 --> 00:47:19,067
+Er dachte, er wäre perfekt für Snape
+und hat sie auch gefragt:
+
+990
+00:47:19,200 --> 00:47:22,547
+"Hey, theoretisch, wenn ich
+in Harry Potter mitspielen würde,
+
+991
+00:47:22,667 --> 00:47:26,647
+welche Rolle könnte ich sein? Snape,
+oder? Er ist böse und cool." "Filch!"
+
+992
+00:47:26,767 --> 00:47:30,400
+"Der eklige, giddlige, alte, ewig
+mürrische Typ. Das bist du, Dad!"
+
+993
+00:47:30,533 --> 00:47:34,080
+Das von seinen Kindern zu hören,
+fand er dann nicht so prickelnd,
+
+994
+00:47:34,200 --> 00:47:36,933
+aber als er letztlich
+für die Rolle gecastet wurde,
+
+995
+00:47:37,067 --> 00:47:38,900
+waren sie und er sehr glücklich.
+
+996
+00:47:39,067 --> 00:47:42,633
+Er hat sich schon drauf vorbereitet,
+von Kindern gehasst zu werden,
+
+997
+00:47:42,800 --> 00:47:45,700
+aber es ist das Gegenteil passiert
+und er freut sich,
+
+998
+00:47:45,833 --> 00:47:48,867
+dass er nette Fanbriefe bekommt
+und Selfies machen darf.
+
+999
+00:47:49,033 --> 00:47:52,433
+Diese Szene beim Hogwarts-Eingangstor
+wurde wieder mal gedreht
+
+1000
+00:47:52,567 --> 00:47:55,667
+beim Alnwick Castle.
+Filch, der von Folterungen schwärmt,
+
+1001
+00:47:55,833 --> 00:47:59,800
+geht aus dem Bild, die Kinder folgen
+ihm mit Todesangst in den Augen.
+
+1002
+00:47:59,933 --> 00:48:02,933
+Wohin führt er sie jetzt?
+Was wird er mit ihnen machen?
+
+1003
+00:48:03,067 --> 00:48:06,313
+Schnitt, sechs Stunden Autofahrt
+später sind wir beim Drehort
+
+1004
+00:48:06,433 --> 00:48:10,167
+Black Park Countrypark, wo Filch
+die Kinder zu Hagrids Hütte führt.
+
+1005
+00:48:10,300 --> 00:48:13,347
+"Tja, ihr wart nachts draußen
+bei Hagrid. Böse Kinder!"
+
+1006
+00:48:13,467 --> 00:48:17,500
+"Jetzt müsst ihr die Strafe erdulden,
+nachts draußen bei Hagrid zu sein."
+
+1007
+00:48:17,667 --> 00:48:20,767
+"Warte ... was?" (hoch:) "Nichts,
+ich wiederhole: nichts!
+
+1008
+00:48:20,900 --> 00:48:23,780
+gibt einem Schüler das Recht,
+nachts draußen zu sein."
+
+1009
+00:48:23,900 --> 00:48:27,313
+"Zur Strafe geht ihr jetzt raus!"
+"Okay." "Ihr seid ja draußen!"
+
+1010
+00:48:27,433 --> 00:48:31,100
+"Als Strafe - raus!" "Aber wir sind
+..." "Noch weiter nach draußen!"
+
+1011
+00:48:31,233 --> 00:48:34,833
+(rau:) "Der Wald wird von keinem
+Schüler betreten, ohne Ausnahme."
+
+1012
+00:48:34,967 --> 00:48:37,947
+"Es sei denn, als Strafe!"
+1.000 Punkte für Dumbledore!
+
+1013
+00:48:38,067 --> 00:48:41,767
+Diese Schule, Mann. Bei McGonagall
+hatten die Kinder noch Pullis an,
+
+1014
+00:48:41,900 --> 00:48:45,433
+Jetzt, wo sie mit Filch unterwegs
+sind, tragen sie Schuluniformen.
+
+1015
+00:48:45,567 --> 00:48:48,480
+Ist aber kein Filmfehler,
+denn da noch immer Nacht ist
+
+1016
+00:48:48,600 --> 00:48:51,833
+und die Szene mit Filch direkt
+nach der mit McGonagall kam,
+
+1017
+00:48:51,967 --> 00:48:54,967
+wird nicht klar, dass ein Zeitsprung
+stattgefunden hat.
+
+1018
+00:48:55,100 --> 00:48:58,233
+Sie haben nicht direkt im Anschluss
+die Strafe bekommen,
+
+1019
+00:48:58,400 --> 00:49:01,833
+es ist eine spätere Nacht, wie
+im Gespräch mit Hagrid klar wird,
+
+1020
+00:49:01,967 --> 00:49:06,133
+der aus seiner Hütte kommt und
+nicht mit Filch redet, nur schnieft.
+
+1021
+00:49:06,833 --> 00:49:10,067
+Und Filch sagt: "Großer Gott,
+du bist doch nicht immer noch
+
+1022
+00:49:10,300 --> 00:49:12,133
+mit diesem Drachen zugange, oder?
+
+1023
+00:49:12,267 --> 00:49:15,433
+Und ausgerechnet an dieser Stelle
+grinst Draco ganz doll,
+
+1024
+00:49:15,567 --> 00:49:19,433
+wohl nicht, weil er so schadenfroh
+ist, immerhin wird er auch gestraft,
+
+1025
+00:49:19,600 --> 00:49:21,613
+sondern, weil Filch
+auf Englisch sagt:
+
+1026
+00:49:21,733 --> 00:49:25,500
+"Good God, man, you're not still on
+about that bloody dragon, are ya?"
+
+1027
+00:49:25,700 --> 00:49:29,400
+Und bloody bedeutet in englischer
+Umgangssprache soviel wie scheiße.
+
+1028
+00:49:29,533 --> 00:49:32,447
+Das ist ein böses Schimpfwort.
+Was auch ein Grund ist,
+
+1029
+00:49:32,567 --> 00:49:35,400
+dass der Film nicht ab null ist,
+sondern ab sechs.
+
+1030
+00:49:35,533 --> 00:49:38,600
+Wegen gruseliger Momente
+und "Mild Language".
+
+1031
+00:49:38,900 --> 00:49:41,567
+Da sind ein paar
+schlimme Wörter dabei.
+
+1032
+00:49:42,033 --> 00:49:45,167
+Und weil Schimpfworte für Kinder
+unglaublich lustig sind,
+
+1033
+00:49:45,300 --> 00:49:48,713
+kann man es Tom Felton nicht
+verübeln, dass er bei dem Satz:
+
+1034
+00:49:48,833 --> 00:49:52,067
+"Ah, bist du immer noch mit diesem
+Scheiß-Drachen im Gange?"
+
+1035
+00:49:52,200 --> 00:49:54,433
+sich ein Grinsen
+nicht verkneifen konnte.
+
+1036
+00:49:54,567 --> 00:49:57,700
+An dieser Stelle sei erwähnt,
+dass aufgrund der Änderungen,
+
+1037
+00:49:57,833 --> 00:50:01,180
+die Drehbuchautor Steve Kloves
+an der Geschichte gemacht hat,
+
+1038
+00:50:01,300 --> 00:50:04,033
+weil er keinen Bock
+auf das Norbert-Kapitel hatte,
+
+1039
+00:50:04,200 --> 00:50:07,533
+die Figuren jetzt anders sind.
+Im Buch wurde Ron ja gebissen.
+
+1040
+00:50:07,667 --> 00:50:10,933
+Er liegt im Krankenflügel
+und war bei der Aktion nicht dabei.
+
+1041
+00:50:11,100 --> 00:50:14,400
+Nur Harry und Hermine wurden
+erwischt, Neville kam dann dazu,
+
+1042
+00:50:14,533 --> 00:50:17,433
+um sie vor Malfoy zu warnen,
+der auch erwischt wurde.
+
+1043
+00:50:17,567 --> 00:50:20,233
+Neville hat im Film
+mit allem gar nichts zu tun.
+
+1044
+00:50:20,367 --> 00:50:23,200
+Ron als eine Hauptfigur
+ist an Nevilles Stelle.
+
+1045
+00:50:23,333 --> 00:50:26,613
+Da die Story mit seinem Bruder
+Charlie, der Norman aufnimmt,
+
+1046
+00:50:26,833 --> 00:50:29,933
+auch gestrichen wurde, sagt Hagrid
+nur: "Norbert ist weg."
+
+1047
+00:50:30,067 --> 00:50:32,647
+"Dumbledore schickt den Ärmsten
+nach Rumänien."
+
+1048
+00:50:32,767 --> 00:50:35,833
+Und weil Hagrid und Charlie
+nie miteinander zu tun haben,
+
+1049
+00:50:35,967 --> 00:50:40,047
+finden wir im Film nicht raus, dass
+Norbert ein aggressives Mädchen ist
+
+1050
+00:50:40,200 --> 00:50:42,467
+und von Charlie in Norberta
+umbenannt wird.
+
+1051
+00:50:42,633 --> 00:50:46,313
+Hagrid jammert weiter: "Vielleich
+gefällt's ihm in Rumänien nicht!"
+
+1052
+00:50:46,433 --> 00:50:49,347
+"Vielleicht sind die anderen Drachen
+gemein zu ihm!"
+
+1053
+00:50:49,467 --> 00:50:53,047
+Filch schaut ihn völlig entgeistert
+an und rollt mit den Augen.
+
+1054
+00:50:53,167 --> 00:50:55,580
+Und hier ist die Fünf-Minuten-Marke
+erreicht
+
+1055
+00:50:55,700 --> 00:50:57,600
+und somit das Ende für diese Folge.
+
+1056
+00:50:57,733 --> 00:51:00,867
+Ich wünsche euch ein frohes Fest,
+einen tollen Geburtstag,
+
+1057
+00:51:01,000 --> 00:51:03,733
+viel Glück bei der Prüfung,
+alles Gute zur Hochzeit
+
+1058
+00:51:03,867 --> 00:51:07,033
+und was immer grade Besonderes
+ansteht, wenn ihr das hört.
+
+1059
+00:51:07,167 --> 00:51:11,133
+Also, hoffentlich hör ich mich, hört
+ihr mich - wir hören uns gegenseitig
+
+1060
+00:51:11,267 --> 00:51:14,313
+beim nächsten Mal bei "5 Minuten
+Harry Podcast". Tschüss!
+
+1061
+00:51:14,433 --> 00:51:16,600
+# Da-da-da-da dadadada,
+dadlda-da-daaa.
+
+1062
+00:51:17,467 --> 00:51:19,513
+Und hier sind ein paar Outtakes.
+
+1063
+00:51:19,633 --> 00:51:22,267
+Pfff. Aber es sieht trotzdem
+ganz gemütlich aus,
+
+1064
+00:51:22,400 --> 00:51:25,233
+was vor allem an dem im Feuer
+prasselnden Kamin ...
+
+1065
+00:51:26,667 --> 00:51:29,933
+An dem im Kamin ...
+prasselnden Feuer.
+
+1066
+00:51:30,067 --> 00:51:31,200
+(Sie kichert.)
+
+1067
+00:51:31,333 --> 00:51:33,567
+Liegt. Ron und Harry
+setzen sich gegenüber
+
+1068
+00:51:33,733 --> 00:51:35,733
+auf eine große, hölzerne Holzbank.
+
+1069
+00:51:36,267 --> 00:51:38,833
+Gibt es auch nicht hölzerne
+Holzbanken? Pff!
+
+1070
+00:51:39,000 --> 00:51:42,780
+Diese Schlüssel, die hier unauffällig
+im Hintergrund am Regal hängen,
+
+1071
+00:51:42,900 --> 00:51:47,333
+sind ein Symbol für einen großen Ver-
+trauensbeweis Dumbledores an Hagrid.
+
+1072
+00:51:47,533 --> 00:51:52,467
+(keuchend:) H-h-hagrid. Vielleicht
+müsste ich mehr atmen beim Sprechen.
+
+1073
+00:51:52,633 --> 00:51:56,100
+Pfff. Kein Klebeband oder ein
+Mikrofonarm, sondern eine Kamera
+
+1074
+00:51:56,233 --> 00:52:00,033
+ist am unteren Bildrand auf Daniel
+und Rupert (englisch:) gerichtet.
+
+1075
+00:52:00,167 --> 00:52:02,367
+(lachend, englisch:) Gerichtet!
+R! Pfff.
+
+1076
+00:52:02,500 --> 00:52:05,333
+Kein Klebeband oder Mikrofonarm,
+sondern eine Kamera
+
+1077
+00:52:05,467 --> 00:52:09,247
+ist am unteren linken Bildrand auf
+Rupert und Daniel (englisch:) geri-,
+
+1078
+00:52:09,367 --> 00:52:11,847
+schon wieder! Pf!
+(Lachende, grummelige Laute)
+
+1079
+00:52:11,967 --> 00:52:14,700
+'Tschuldigung, ich hab
+meine Stimmbänder gereinigt.
+
+1080
+00:52:14,833 --> 00:52:16,233
+Ich heiß Norbert.
+Pff!
+
+1081
+00:52:16,367 --> 00:52:18,900
+"Sie alle vier müssen Strafarbeit
+verrichten."
+
+1082
+00:52:19,033 --> 00:52:21,933
+Da vergeht Malfoy das prün- ...
+Prinsen glötzlich.
+
+1083
+00:52:22,067 --> 00:52:25,033
+Pff! Eine große Eule
+sitzt auf einer Steinsäule
+
+1084
+00:52:25,167 --> 00:52:27,400
+und macht (hell:) "Mäh!"
+(Räuspern)
+
+1085
+00:52:27,900 --> 00:52:29,233
+(krächzend:) "Mäh!"
+
+1086
+00:52:29,900 --> 00:52:30,933
+(lachend:) Mäh!
+
